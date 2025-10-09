@@ -1,0 +1,21 @@
+{
+    "countries": [
+        {"name": "Germany", "eu_memeber": true, "capital": "Berlin", "borders_with": ["France", "Switzerland", "Austria", "Poland", "Czech Republic"]},
+        {"name": "France", "eu_memeber": true, "capital": "Paris", "borders_with": ["Germany", "Switzerland"]},
+        {"name": "Switzerland", "eu_memeber": false, "capital": "Bern", "borders_with": ["Germany", "Austria", "France"]},
+        {"name": "Austria", "eu_memeber": true, "capital": "Vienna", "borders_with": ["Germany", "Switzerland", "Czech Republic"]},
+        {"name": "Poland", "eu_memeber": true, "capital": "Warsaw", "borders_with": ["Germany", "Czech Republic"]},
+        {"name": "Czech Republic", "eu_memeber": true, "capital": "Prague", "borders_with": ["Germany", "Austria", "Poland"]}
+    ],
+    "rivers": [
+        {"name": "Danube", "flows_through": ["Germany", "Austria"]},
+        {"name": "Rhine", "flows_through": ["Switzerland", "Germany", "France"]},
+        {"name": "Elbe", "flows_through": ["Czech Republic", "Germany"]}
+    ],
+    "landmarks": [
+        {"name": "Eiffel Tower", "location": "France"},
+        {"name": "Brandenburg Gate", "location": "Germany"},
+        {"name": "Louvre Museum", "location": "France"},
+        {"name": "Neuschwanstein Castle", "location": "Germany"}
+    ]
+}

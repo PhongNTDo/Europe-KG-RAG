@@ -1,0 +1,42 @@
+[
+  {
+    "id": "Danube",
+    "text": "The Danube is Europe's second-longest river, after the Volga. It flows through much of Central and Southeastern Europe, from the Black Forest in Germany to the Black Sea."
+  },
+  {
+    "id": "Rhine",
+    "text": "The Rhine is a major European river that begins in the Swiss Alps, flows through Germany and the Netherlands, and empties into the North Sea. It has been a vital and navigable waterway for trade and transport."
+  },
+  {
+    "id": "Elbe",
+    "text": "The Elbe River originates in the Krkonoše Mountains of the northern Czech Republic before traversing much of Germany and flowing into the North Sea. It is a major waterway of Central Europe."
+  },
+  {
+    "id": "Eiffel Tower",
+    "text": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower and is now a global cultural icon."
+  },
+  {
+    "id": "Louvre Museum",
+    "text": "The Louvre Museum is the world's largest art museum and a historic monument in Paris, France. It is best known for being the home of the Mona Lisa."
+  },
+  {
+    "id": "Brandenburg Gate",
+    "text": "The Brandenburg Gate is an 18th-century neoclassical monument in Berlin, and one of the best-known landmarks of Germany. It has come to symbolize peace and the reunification of Germany."
+  },
+  {
+    "id": "Neuschwanstein Castle",
+    "text": "Neuschwanstein Castle is a 19th-century historicist palace on a rugged hill above the village of Hohenschwangau near Füssen in southwest Bavaria, Germany. The palace was commissioned by King Ludwig II of Bavaria as a retreat."
+  },
+  {
+    "id": "Poland",
+    "text": "A notable cultural fact about Poland is its rich tradition of classical music, being the homeland of the renowned composer Frédéric Chopin. Polish cuisine, with dishes like pierogi and bigos, is also a significant part of its cultural heritage."
+  },
+  {
+    "id": "Czech Republic",
+    "text": "The Czech Republic is famous for its long history of puppetry and marionette-making, which is recognized by UNESCO. The country also has the highest beer consumption per capita in the world."
+  },
+  {
+    "id": "Austria",
+    "text": "Austria is renowned for its contributions to classical music, with Vienna often called the 'City of Music.' Composers like Mozart, Strauss, and Schubert created their masterpieces here."
+  }
+]
