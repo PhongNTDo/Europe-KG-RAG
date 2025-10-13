@@ -1,42 +1,330 @@
 [
-  {
-    "id": "Danube",
-    "text": "The Danube is Europe's second-longest river, after the Volga. It flows through much of Central and Southeastern Europe, from the Black Forest in Germany to the Black Sea."
-  },
-  {
-    "id": "Rhine",
-    "text": "The Rhine is a major European river that begins in the Swiss Alps, flows through Germany and the Netherlands, and empties into the North Sea. It has been a vital and navigable waterway for trade and transport."
-  },
-  {
-    "id": "Elbe",
-    "text": "The Elbe River originates in the Krkonoše Mountains of the northern Czech Republic before traversing much of Germany and flowing into the North Sea. It is a major waterway of Central Europe."
-  },
-  {
-    "id": "Eiffel Tower",
-    "text": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower and is now a global cultural icon."
-  },
-  {
-    "id": "Louvre Museum",
-    "text": "The Louvre Museum is the world's largest art museum and a historic monument in Paris, France. It is best known for being the home of the Mona Lisa."
-  },
-  {
-    "id": "Brandenburg Gate",
-    "text": "The Brandenburg Gate is an 18th-century neoclassical monument in Berlin, and one of the best-known landmarks of Germany. It has come to symbolize peace and the reunification of Germany."
-  },
-  {
-    "id": "Neuschwanstein Castle",
-    "text": "Neuschwanstein Castle is a 19th-century historicist palace on a rugged hill above the village of Hohenschwangau near Füssen in southwest Bavaria, Germany. The palace was commissioned by King Ludwig II of Bavaria as a retreat."
-  },
-  {
-    "id": "Poland",
-    "text": "A notable cultural fact about Poland is its rich tradition of classical music, being the homeland of the renowned composer Frédéric Chopin. Polish cuisine, with dishes like pierogi and bigos, is also a significant part of its cultural heritage."
-  },
-  {
-    "id": "Czech Republic",
-    "text": "The Czech Republic is famous for its long history of puppetry and marionette-making, which is recognized by UNESCO. The country also has the highest beer consumption per capita in the world."
-  },
-  {
-    "id": "Austria",
-    "text": "Austria is renowned for its contributions to classical music, with Vienna often called the 'City of Music.' Composers like Mozart, Strauss, and Schubert created their masterpieces here."
-  }
+    {
+        "id": "Malta",
+        "text": "Malta, officially the Republic of Malta, is an island country in Southern Europe located in the Mediterranean Sea, between Sicily and North Africa. It consists of an archipelago 80 km (50 mi) south of Italy, 284 km (176 mi) east of Tunisia, and 333 km (207 mi) north of Libya. The two official languages are Maltese and English."
+    },
+    {
+        "id": "Czech Republic",
+        "text": "The Czech Republic, also known as Czechia and historically known as Bohemia, is a landlocked country in Central Europe. The country is bordered by Austria to the south, Germany to the west, Poland to the northeast, and Slovakia to the southeast. The Czech Republic has a hilly landscape that covers an area of 78,871 square kilometers (30,452 sq mi) with a mostly temperate continental and oceanic climate."
+    },
+    {
+        "id": "Luxembourg",
+        "text": "Luxembourg,  officially the Grand Duchy of Luxembourg, is a landlocked country in Western Europe. It is bordered by Belgium to the west and north, Germany to the east, and France on the south. Its capital and most populous city, Luxembourg City, is one of the four institutional seats of the European Union and hosts several EU institutions, notably the Court of Justice of the European Union, the highest judicial authority in the EU."
+    },
+    {
+        "id": "Oslo",
+        "text": "Oslo (Norwegian: [ˈʊ̂ʂlʊ]  or [ˈʊ̂slʊ, ˈʊ̀ʂlʊ]; Southern Sami: Osloven, Lule Sami: Oslo, Northern Sami: Oslocode: sme promoted to code: se ) is the capital and most populous city of Norway. It constitutes both a county and a municipality. The municipality of Oslo had a population of 709,037 in 2022, while the city's greater urban area had a population of 1,064,235 in 2022, and the metropolitan area had an estimated population of 1,546,706 in 2021."
+    },
+    {
+        "id": "Andorra",
+        "text": "Andorra, officially the Principality of Andorra, is a landlocked country on the Iberian Peninsula, in the eastern Pyrenees in Southwestern Europe, bordered by France to the north and Spain to the south. Believed to have been created by Charlemagne, Andorra was ruled by the count of Urgell until 988, when it was transferred to the Diocese of Urgell. The present principality was formed by a charter in 1278."
+    },
+    {
+        "id": "United Kingdom",
+        "text": "The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) or Britain, is a country in Northwestern Europe, off the coast of the continental mainland. It comprises England, Scotland, Wales and Northern Ireland, with a population of over 69 million in 2024. The UK includes the island of Great Britain, the north-eastern part of the island of Ireland, and most of the smaller islands within the British Isles, covering 94,354 square miles (244,376 km2)."
+    },
+    {
+        "id": "Portugal",
+        "text": "Portugal, officially the Portuguese Republic, is a country on the Iberian Peninsula in Southwestern Europe. Featuring the westernmost point in continental Europe, Portugal borders Spain to its north and east, with which it shares the longest uninterrupted border in the European Union; to the south and the west is the North Atlantic Ocean; and to the west and southwest lie the Macaronesian archipelagos of the Azores and Madeira, which are the two autonomous regions of Portugal. Lisbon is the capital and largest city, followed by Porto, which is the only other metropolitan area."
+    },
+    {
+        "id": "Copenhagen",
+        "text": "Copenhagen (Danish: København [kʰøpm̩ˈhɑwˀn] ) is the capital and most populous city in the Kingdom of Denmark, with a population of 1.4 million in the urban area. The city is situated mainly on the island of Zealand (Sjælland), with a smaller part on the island of Amager."
+    },
+    {
+        "id": "Warsaw",
+        "text": "Warsaw, officially the Capital City of Warsaw, is the capital and largest city of Poland. The metropolis stands on the River Vistula in east-central Poland. Its population is officially estimated at 1."
+    },
+    {
+        "id": "Greece",
+        "text": "Greece, officially the Hellenic Republic, is a country in Southeast Europe. Located on the southern tip of the Balkan peninsula, it shares land borders with Albania to the northwest, North Macedonia and Bulgaria to the north, and Turkey to the east. The Aegean Sea lies to the east of the mainland, the Ionian Sea to the west, and the Sea of Crete and the Mediterranean Sea to the south."
+    },
+    {
+        "id": "Iceland",
+        "text": "Iceland is a Nordic island country between the Arctic Ocean and the North Atlantic Ocean, located on the Mid-Atlantic Ridge between Europe and North America. It is culturally and politically linked with Europe and is the region's westernmost and most sparsely populated country. Its capital and largest city is Reykjavík, which is home to about 36% of the country's roughly 390,000 residents (excluding nearby towns/suburbs, which are separate municipalities)."
+    },
+    {
+        "id": "Skopje",
+        "text": "Skopje is the capital and largest city of North Macedonia. It lies in the northern part of the country, in the Skopje Valley along the Vardar River, and is the political, economic, and cultural centre of the country. As of the 2021 census, the city had a population of 526,502."
+    },
+    {
+        "id": "Estonia",
+        "text": "Estonia, officially the Republic of Estonia, is a country in Northern Europe. It is bordered to the north by the Gulf of Finland across from Finland, to the west by the Baltic Sea across from Sweden, to the south by Latvia, and to the east by Russia. The territory of Estonia consists of the mainland, the larger islands of Saaremaa and Hiiumaa, and over 2,300 other islands and islets on the east coast of the Baltic Sea."
+    },
+    {
+        "id": "Sofia",
+        "text": "Sofia is the capital and largest city of Bulgaria. It is situated in the Sofia Valley at the foot of the Vitosha mountain, in the western part of the country. The city is built west of the Iskar river and has many mineral springs, such as the Sofia Central Mineral Baths."
+    },
+    {
+        "id": "Kingdom of Denmark",
+        "text": "The Danish Realm, officially the Kingdom of Denmark, or simply Denmark, is a sovereign state consisting of a collection of constituent territories united by the Constitutional Act, which applies to the entire territory. It consists of metropolitan Denmark (sometimes called \"Denmark proper\")—the kingdom's territory in continental Europe and its proximate islands—and the realm's two autonomous (but not sovereign) regions: the Faroe Islands in the North Atlantic and Greenland in North America. The relationship between the three parts of the kingdom is known as rigsfællesskabet (the unity of the realm, which has also been translated into the Danish Commonwealth or the United Kingdom of Denmark)."
+    },
+    {
+        "id": "Slovenia",
+        "text": "Slovenia, officially the Republic of Slovenia, is a country in Central Europe. It borders Italy to the west, Austria to the north, Hungary to the northeast, Croatia to the south and southeast, and a short (46.6 km) coastline within the Adriatic Sea to the southwest, which is part of the Mediterranean Sea."
+    },
+    {
+        "id": "Nicosia",
+        "text": "Nicosia, also known as Lefkosia or Lefkoşa, is the capital and largest city of Cyprus and is geographically located in Asia. It is the southeasternmost of all European Union member states' capital cities.\nNicosia has been continuously inhabited for over 5,500 years and has been the capital of Cyprus since the 10th century."
+    },
+    {
+        "id": "Latvia",
+        "text": "Latvia, officially the Republic of Latvia, is a country in the Baltic region of northern Europe. It is one of the three Baltic states, along with Estonia to the north and Lithuania to the south. It borders Russia to the east and Belarus to the southeast and shares a maritime border with Sweden to the west."
+    },
+    {
+        "id": "Prishtina",
+        "text": "Pristina (or Prishtina; UK:  PREE-shtin-ə, prish-TEE-nə, US:  PRISHT-in-ə) is the capital and largest city of Kosovo. It is the administrative center of the eponymous municipality and district.\nIn antiquity, the area of Pristina was part of the Dardanian Kingdom."
+    },
+    {
+        "id": "Bosnia and Herzegovina",
+        "text": "Bosnia and Herzegovina, often referred to as Bosnia-Herzegovina or short as Bosnia, is a country in Southeast Europe. Situated on the Balkan Peninsula, it borders Serbia to the east, Montenegro to the southeast, and Croatia to the north and southwest, with a 20-kilometre-long (12-mile) coast on the Adriatic Sea in the south. Bosnia has a moderate continental climate with hot summers and cold, snowy winters."
+    },
+    {
+        "id": "Ireland",
+        "text": "Ireland is an island in the North Atlantic Ocean, in Northwestern Europe. Geopolitically, the island is divided between the Republic of Ireland (officially named Ireland – a sovereign state covering five-sixths of the island) and Northern Ireland (part of the United Kingdom – covering the remaining sixth). It is separated from Great Britain to its east by the North Channel, the Irish Sea, and St George's Channel."
+    },
+    {
+        "id": "Hungary",
+        "text": "Hungary is a landlocked country in Central Europe. Spanning much of the Carpathian Basin, it is bordered by Slovakia to the north, Ukraine to the northeast, Romania to the east and southeast, Serbia to the south, Croatia and Slovenia to the southwest, and Austria to the west. Hungary lies within the drainage basin of the Danube River and is dominated by great lowland plains."
+    },
+    {
+        "id": "Switzerland",
+        "text": "Switzerland, officially the Swiss Confederation, is a landlocked country located at the intersection of Central, Western, and Southern Europe. It is bordered by Germany to the north, France to the west, Austria and Liechtenstein to the east, and Italy to the south. Switzerland is geographically divided among the Swiss Alps, the Swiss Plateau, and the Jura mountains; the Alps cover most of the country's territory, whereas the majority of its 9 million people are concentrated on the plateau, which hosts many of the largest cities and economic centres, including Zurich, Geneva, Basel, Bern, Lausanne, Winterthur, and Lucerne."
+    },
+    {
+        "id": "London",
+        "text": "London is the capital and largest city of both England and the United Kingdom, with a population of 9.1 million people in 2024. Its wider metropolitan area is the largest in Western Europe, with a population of 15."
+    },
+    {
+        "id": "Helsinki",
+        "text": "Helsinki (Swedish: Helsingfors) is the capital and most populous city in Finland. It is on the shore of the Gulf of Finland and is the seat of southern Finland's Uusimaa region. About 690,000 people live in the municipality, with 1."
+    },
+    {
+        "id": "Bern",
+        "text": "Bern (Swiss Standard German: [bɛrn] ), or Berne (French: [bɛʁn] ), is the de facto capital of Switzerland, referred to as the \"federal city\". With a population of about 146,000 (as of 2024), Bern is the fifth-most populous city in Switzerland, behind Zürich, Geneva, Basel and Lausanne. The Bern agglomeration, which includes 36 municipalities, had a population of 406,900 in 2014."
+    },
+    {
+        "id": "Valletta",
+        "text": "Valletta ( ; Maltese: il-Belt Valletta, lit. 'the city [of] Valletta', pronounced [ɪlˈbɛlt vɐˈlːɛtːɐ]), also known as Città Umilissima (transl. the Humblest City), is the capital city of Malta and one of its 68 council areas."
+    },
+    {
+        "id": "Paris",
+        "text": "Paris is the capital and largest city of France, with an estimated city population of 2,048,472 in an area of 105.4 km2 (40.7 sq mi), and a metropolitan population of 13,171,056 as of January 2025."
+    },
+    {
+        "id": "Belarus",
+        "text": "Belarus, officially the Republic of Belarus, is a landlocked country in Eastern Europe. It is bordered by Russia to the east and northeast, Ukraine to the south, Poland to the west, and Lithuania and Latvia to the northwest. Belarus spans an area of 207,600 square kilometres (80,200 sq mi) with a population of 9."
+    },
+    {
+        "id": "Prague",
+        "text": "Prague ( PRAHG; Czech: Praha [ˈpraɦa] ) is the capital and largest city of the Czech Republic and the historical capital of Bohemia. Prague, located on the Vltava River, has a population of about 1.4 million, while its metropolitan area is home to approximately 2."
+    },
+    {
+        "id": "Sarajevo",
+        "text": "Sarajevo ( SARR-ə-YAY-voh) is the capital and largest city of Bosnia and Herzegovina, with a population of 275,524 in its administrative limits. The Sarajevo Canton, containing the city of Sarajevo and nearby municipalities, is home to 413,593 inhabitants. Located within the greater Sarajevo valley of Bosnia, it is surrounded by the Dinaric Alps and situated along the Miljacka River in the heart of the Balkans, a region of Southeastern Europe."
+    },
+    {
+        "id": "Moscow",
+        "text": "Moscow is the capital and largest city of Russia, standing on the Moskva River in Central Russia. It has a population estimated at over 13 million residents within the city limits, over 19.1 million residents in the urban area, and over 21."
+    },
+    {
+        "id": "Italy",
+        "text": "Italy, officially the Italian Republic, is a country in Southern and Western Europe. It consists of a peninsula that extends into the Mediterranean Sea, with the Alps on its northern land border, as well as nearly 800 islands, notably Sicily and Sardinia. Italy shares land borders with France to the west; Switzerland and Austria to the north; Slovenia to the east; and the two enclaves of Vatican City and San Marino."
+    },
+    {
+        "id": "Cyprus",
+        "text": "Cyprus ( ), officially the Republic of Cyprus, is an island country in the eastern Mediterranean Sea, located off the coast of the Levant in West Asia. Despite its geographical location, its cultural identity and geopolitical orientation are overwhelmingly Southeast European. Cyprus is the third largest and third most populous island in the Mediterranean, after Sicily and Sardinia."
+    },
+    {
+        "id": "Lisbon",
+        "text": "Lisbon (  LIZ-bən; Portuguese: Lisboa [liʒˈβoɐ] ) is the capital and most populous municipality of Portugal, with an estimated population of 575,739, as of 2024, within its administrative limits and 3,028,000 within the metropolis, as of 2025. Lisbon is mainland Europe's westernmost capital city (second overall after Reykjavík), and the only one along the Atlantic coast, the others (Reykjavík and Dublin) being on islands. The city lies in the western portion of the Iberian Peninsula, on the northern shore of the River Tagus."
+    },
+    {
+        "id": "Reykjavík",
+        "text": "Reykjavík is the capital and largest city of Iceland. It is located on the southern shore of the Faxaflói bay in southwest Iceland and has a latitude of 64°08′ N, making it the world's northernmost capital of a sovereign state. Reykjavík has a population of around 139,000 as of 2025, and the surrounding Capital Region has a population of around 249,000, constituting approximately 64% of Iceland's population."
+    },
+    {
+        "id": "Germany",
+        "text": "Germany, officially the Federal Republic of Germany, is a country in Western and Central Europe. It lies between the Baltic Sea and the North Sea to the north and the Alps to the south. Its sixteen constituent states have a total population of over 82 million, making it the most populous member state of the European Union."
+    },
+    {
+        "id": "Spain",
+        "text": "Spain, officially the Kingdom of Spain, is a country in Southern and Western Europe with territories in North Africa. Featuring the southernmost point of continental Europe, it is the largest country in Southern Europe and the fourth-most populous European Union (EU) member state. Spanning the majority of the Iberian Peninsula, its territory also includes the Canary Islands, in the Eastern Atlantic Ocean, the Balearic Islands, in the Western Mediterranean Sea, and the autonomous cities of Ceuta and Melilla, in mainland Africa."
+    },
+    {
+        "id": "Kingdom of the Netherlands",
+        "text": "The Kingdom of the Netherlands, commonly known simply as the Netherlands, is a sovereign state consisting of a collection of constituent territories united under the monarch of the Netherlands, who functions as head of state. The realm is not a federation; it is a unitary monarchy with its largest subdivision, the eponymous Netherlands, predominantly located in Northwestern Europe and with several smaller island territories located in the Caribbean.\nThe four subdivisions of the Kingdom—Aruba, Curaçao, the Netherlands, and Sint Maarten—are constituent countries (landen in Dutch; singular: land) and participate on a basis of equality as partners in the Kingdom."
+    },
+    {
+        "id": "North Macedonia",
+        "text": "North Macedonia, officially the Republic of North Macedonia, is a landlocked country in Southeast Europe. It shares land borders with Greece to the south, Albania to the west, Bulgaria to the east, Kosovo to the northwest and Serbia to the north. It constitutes approximately the northern third of the larger geographical region of Macedonia."
+    },
+    {
+        "id": "Belgium",
+        "text": "Belgium, officially the Kingdom of Belgium, is a country in Northwestern Europe. Situated in a coastal lowland region known as the Low Countries, it is bordered by the Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the south, and the North Sea to the west. Belgium covers an area of 30,689 km2 (11,849 sq mi) and has a population of more than 11."
+    },
+    {
+        "id": "Kosovo",
+        "text": "Kosovo, officially the Republic of Kosovo, is a landlocked country in Southeast Europe with partial diplomatic recognition. It is bordered by Albania to the southwest, Montenegro to the west, Serbia to the north and east, and North Macedonia to the southeast. It covers an area of 10,887 km2 (4,203 sq mi) and has a population of nearly 1."
+    },
+    {
+        "id": "Rome",
+        "text": "Rome is the capital city and most populated comune (municipality) of Italy. It is also the administrative centre of the Lazio region and of the Metropolitan City of Rome. A special comune named Roma Capitale with 2,746,984 residents in 1,287."
+    },
+    {
+        "id": "Lithuania",
+        "text": "Lithuania, officially the Republic of Lithuania, is a country in the Baltic region of Europe. It is one of three Baltic states and lies on the eastern shore of the Baltic Sea, bordered by Latvia to the north, Belarus to the east and south, Poland to the south, and the Russian semi-exclave of Kaliningrad Oblast to the southwest, with a maritime border with Sweden to the west. Lithuania covers an area of 65,300 km2 (25,200 sq mi), with a population of 2."
+    },
+    {
+        "id": "Athens",
+        "text": "Athens is the capital and largest city of Greece. A significant coastal urban area in the Mediterranean, Athens is also the capital of the Attica region and is the southernmost capital on the European mainland. With its urban area's population numbering over 3."
+    },
+    {
+        "id": "Vienna",
+        "text": "Vienna (  vee-EN-ə; German: Wien [viːn] ; Austro-Bavarian: Wean [veɐ̯n]) is the capital, most populous city, and one of nine states of Austria. It is Austria's primate city, with just over two million inhabitants. Its larger metropolitan area has a population of nearly 2."
+    },
+    {
+        "id": "Romania",
+        "text": "Romania is a country located at the crossroads of Central, Eastern and Southeast Europe. It borders Ukraine to the north and east, Hungary to the west, Serbia to the southwest, Bulgaria to the south, Moldova to the east, and the Black Sea to the southeast. It has a mainly continental climate, and an area of 238,397 km2 (92,046 sq mi) with a population of 19 million people."
+    },
+    {
+        "id": "Bulgaria",
+        "text": "Bulgaria, officially the Republic of Bulgaria, is a country in Southeast Europe. It is situated on the eastern portion of the Balkans directly south of the Danube river and west of the Black Sea. Bulgaria is bordered by Greece and Turkey to the south, Serbia and North Macedonia to the west, and Romania to the north."
+    },
+    {
+        "id": "Tirana",
+        "text": "Tirana (  tih-RAH-nə, Albanian pronunciation: [tiˈɾana]; Gheg Albanian: Tirona) is the capital and largest city of Albania. It is located in the centre of the country, enclosed by mountains and hills, with Dajti rising to the east and a slight valley to the northwest overlooking the Adriatic Sea in the distance. It is among the wettest and sunniest cities in Europe, with 2,544 hours of sun per year."
+    },
+    {
+        "id": "Slovakia",
+        "text": "Slovakia, officially the Slovak Republic, is a landlocked country in Central Europe. It is bordered by Poland to the north, Ukraine to the east, Hungary to the south, Austria to the west, and the Czech Republic to the northwest. Slovakia's mostly mountainous territory spans about 49,000 km2 (19,000 sq mi), hosting a population exceeding 5."
+    },
+    {
+        "id": "Vaduz",
+        "text": "Vaduz (; German: [faˈdʊts]  or [faˈduːts] ; High Alemannic pronunciation: [faˈdot͡s]) is the capital of Liechtenstein and also the seat of the national parliament. The village, which is located along the Rhine, has 5,696 residents. The most prominent landmark of Vaduz is Vaduz Castle, perched atop a steep hill overlooking the village."
+    },
+    {
+        "id": "Bucharest",
+        "text": "Bucharest (UK:   BOO-kə-REST, US:  -⁠rest; Romanian: București [bukuˈreʃtʲ] ) is the capital and largest city of Romania. The metropolis stands on the River Dâmbovița in south-eastern Romania. Its population is officially estimated at 1."
+    },
+    {
+        "id": "Madrid",
+        "text": "Madrid is the capital and most populous municipality of Spain. Madrid has almost 3.3 million inhabitants and a metropolitan area population of approximately 6."
+    },
+    {
+        "id": "Andorra la Vella",
+        "text": "Andorra la Vella is the capital and largest city of Andorra. It is located high in the east Pyrenees, between France and Spain. It is also the name of the Andorran parish that surrounds the capital."
+    },
+    {
+        "id": "Denmark",
+        "text": "Denmark is a Nordic country in Northern Europe. It is the metropole and most populous constituent of the Kingdom of Denmark, also known as the Danish Realm, a constitutionally unitary state that includes the autonomous territories of the Faroe Islands and Greenland in the north Atlantic Ocean. Metropolitan Denmark, also called \"continental Denmark\" or \"Denmark proper\", consists of the northern Jutland peninsula and an archipelago of 406 islands."
+    },
+    {
+        "id": "Ljubljana",
+        "text": "Ljubljana (also known by other historical names) is the capital and largest city of Slovenia, located along a trade route between the northern Adriatic Sea and the Danube region, north of the country's largest marsh, it has been inhabited since prehistoric times. It is the country's cultural, educational, economic, political and administrative center and the seat of the Urban Municipality of Ljubljana.\nDuring antiquity, a Roman city called Emona stood in the area."
+    },
+    {
+        "id": "Montenegro",
+        "text": "Montenegro is a country in Southeast Europe, on the Balkan Peninsula. Its 25 municipalities have a total population of 633,158 people in an area of 13,883 km2 (5,360 sq mi). It is bordered by Serbia to the northeast, Bosnia and Herzegovina to the northwest, Kosovo to the east, Albania to the southeast, and Croatia to the west, and has a coastline along the Adriatic Sea to the southwest."
+    },
+    {
+        "id": "Bratislava",
+        "text": "Bratislava (German: Pressburg; Hungarian: Pozsony) is the capital and largest city of the Slovak Republic and the fourth largest of all cities on the river Danube. Officially, the population of the city is about 475,000; however, some sources estimate the daily number of people moving around the city based on mobile phone SIM cards is more than 570,000. Bratislava is in southwestern Slovakia at the foot of the Little Carpathians, occupying both banks of the Danube and the left bank of the River Morava."
+    },
+    {
+        "id": "Tallinn",
+        "text": "Tallinn is the capital and most populous city of Estonia. Situated on a bay in north Estonia, on the shore of the Gulf of Finland of the Baltic Sea, it has a population of 456,518 as of 2025 and administratively lies in Harju County. Tallinn is the main governmental, financial, industrial, and cultural centre of Estonia."
+    },
+    {
+        "id": "Riga",
+        "text": "Riga (  REE-gə) is the capital, primate, and largest city of Latvia. Home to 591,882 inhabitants (as of 2025), the city accounts for a third of Latvia's total population. The population of Riga metropolitan area, which stretches beyond the city limits, is estimated at 847,162 (as of 2025)."
+    },
+    {
+        "id": "Minsk",
+        "text": "Minsk (Belarusian: Мінск, pronounced [mʲinsk]; Russian: Минск, pronounced [mʲinsk]) is the capital and largest city of Belarus, located on the Svislach and the now subterranean Nyamiha rivers. As the capital, Minsk has a special administrative status in Belarus and is the administrative centre of Minsk region and Minsk district. As of 2024, it has a population of about two million, making Minsk the 11th-most populous city in Europe."
+    },
+    {
+        "id": "Norway",
+        "text": "Norway, officially the Kingdom of Norway, is a Nordic country located on the Scandinavian Peninsula in Northern Europe. The remote Arctic island of Jan Mayen and the archipelago of Svalbard also form part of the Kingdom of Norway. Bouvet Island, located in the Subantarctic, is a dependency, and not a part of the Kingdom; Norway also claims the Antarctic territories of Peter I Island and Queen Maud Land."
+    },
+    {
+        "id": "Amsterdam",
+        "text": "Amsterdam ( AM-stər-dam, UK also  AM-stər-DAM; Dutch: [ˌɑmstərˈdɑm] ; lit. 'Dam in the Amstel') is the capital and largest city of the Kingdom of the Netherlands. It has a population of 933,680 in June 2024 within the city proper, 1,457,018 in the urban area and 2,480,394 in the metropolitan area."
+    },
+    {
+        "id": "Finland",
+        "text": "Finland, officially the Republic of Finland, is a Nordic country in Northern Europe. It borders Sweden to the northwest, Norway to the north, and Russia to the east, with the Gulf of Bothnia to the west and the Gulf of Finland to the south, opposite Estonia. Finland has a population of 5."
+    },
+    {
+        "id": "Russia",
+        "text": "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world, and extends across eleven time zones, sharing land borders with fourteen countries. With over 140 million people, Russia is the most populous country in Europe and the ninth-most populous in the world."
+    },
+    {
+        "id": "City of Brussels",
+        "text": "The City of Brussels is the largest municipality and historical centre of the Brussels-Capital Region, as well as the capital of the French Community of Belgium, the Flemish Region (from which it is separate) and Belgium. The City of Brussels is also the administrative centre of the European Union, as it hosts a number of principal EU institutions in its European Quarter.\nBesides the central historic town located within the Pentagon, the City of Brussels covers some of the city's immediate outskirts within the greater Brussels-Capital Region, namely the former municipalities of Haren, Laeken, and Neder-Over-Heembeek to the north, as well as the Avenue Louise/Louizalaan and the Bois de la Cambre/Ter Kamerenbos park to the south-east, where it borders municipalities in Flanders."
+    },
+    {
+        "id": "Podgorica",
+        "text": "Podgorica (Montenegrin Cyrillic: Подгорица; lit. 'Under the Hill') is the capital and largest city of Montenegro. The city is just north of Lake Skadar and close to coastal destinations on the Adriatic Sea."
+    },
+    {
+        "id": "Liechtenstein",
+        "text": "Liechtenstein ( , LIK-tən-styne; German pronunciation: [ˈlɪçtn̩ʃtaɪn] ; Alemannic German: Liachtaschta), officially the Principality of Liechtenstein (German: Fürstentum Liechtenstein [ˈfʏʁstn̩tuːm ˈlɪçtn̩ˌʃtaɪ̯n] ), is a doubly landlocked country in the Central European Alps, between Austria to the east and north-east and Switzerland to the north-west, west and south. Liechtenstein is a semi-constitutional monarchy headed by the prince of Liechtenstein, currently Hans-Adam II. It is Europe's fourth-smallest country, with an area of just over 160 square kilometres (62 square miles) and a population of 40,023."
+    },
+    {
+        "id": "Zagreb",
+        "text": "Zagreb ( ZAH-greb Croatian: [zǎːɡreb] ) is the capital and largest city of Croatia. It is in the north of the country, along the Sava river, at the southern slopes of the Medvednica mountain. Zagreb stands near the international border between Croatia and Slovenia at an elevation of approximately 158 m (518 ft) above sea level."
+    },
+    {
+        "id": "Poland",
+        "text": "Poland, officially the Republic of Poland, is a country in Central Europe. It extends from the Baltic Sea in the north to the Sudetes and Carpathian Mountains in the south, and borders Lithuania and Russia to the northeast; Belarus and Ukraine to the east; Slovakia and the Czech Republic to the south; and Germany to the west. The territory has a varied landscape, diverse ecosystems, and a temperate climate."
+    },
+    {
+        "id": "Croatia",
+        "text": "Croatia, officially the Republic of Croatia, is a country in Central and Southeast Europe, on the coast of the Adriatic Sea. It borders Slovenia to the northwest, Hungary to the northeast, Serbia to the east, Bosnia and Herzegovina and Montenegro to the southeast, and shares a maritime border with Italy to the west. Its capital and largest city, Zagreb, forms one of the country's primary subdivisions, with twenty counties."
+    },
+    {
+        "id": "Stockholm",
+        "text": "Stockholm (; Swedish: [ˈstɔ̂kː(h)ɔlm] ) is the capital and most populous city of Sweden, as well as the largest urban area in the Nordic countries. Approximately 1 million people live in the municipality, with 1.6 million in the urban area, and 2."
+    },
+    {
+        "id": "Budapest",
+        "text": "Budapest is the capital and most populous city of Hungary. It is Hungary's primate city with 1.7 million inhabitants and its greater metro area has a population of about 3."
+    },
+    {
+        "id": "Vatican City",
+        "text": "Vatican City, officially the Vatican City State (Italian: Stato della Città del Vaticano; Latin: Status Civitatis Vaticanae), often shortened as the Vatican, is a landlocked sovereign city-state. Ruled by the pope, it is an enclave within Rome and serves as the administrative centre of the Catholic Church. Vatican City is governed by the See of Rome, commonly known as the Holy See, itself a sovereign entity under international law, which maintains its temporal power, governance, diplomacy, and spiritual independence."
+    },
+    {
+        "id": "Sweden",
+        "text": "Sweden, formally the Kingdom of Sweden, is a Nordic country located on the Scandinavian Peninsula in Northern Europe. It borders Norway to the west and north, and Finland to the east. At 450,295 square kilometres (173,860 sq mi), Sweden is the largest Nordic country by both area and population, and is the fifth-largest country in Europe."
+    },
+    {
+        "id": "Berlin",
+        "text": "Berlin is the capital and largest city of Germany, by both area and population. With 3.7 million inhabitants, it has the highest population within its city limits of any city in the European Union."
+    },
+    {
+        "id": "Albania",
+        "text": "Albania, officially the Republic of Albania, is a country in Southeast Europe. It is located in the Balkans, on the Adriatic and Ionian Seas within the Mediterranean Sea, and shares land borders with Montenegro to the northwest, Kosovo to the northeast, North Macedonia to the east and Greece to the south. With an area of 28,748 km2 (11,100 sq mi), it has a varied range of climatic, geological, hydrological and morphological conditions."
+    },
+    {
+        "id": "Vilnius",
+        "text": "Vilnius (  VIL-nee-əs, Lithuanian: [ˈvʲɪlʲnʲʊs] ) is the capital of and largest city in Lithuania and the most-populous city in the Baltic states. The city's estimated January 2025 population was 607,667, and the Vilnius urban area (which extends beyond the city limits) has an estimated population of 747,864.\nVilnius is notable for the architecture of its Old Town, considered one of Europe's largest and best-preserved old towns."
+    },
+    {
+        "id": "France",
+        "text": "France, officially the French Republic, is a country primarily located in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean, giving it the largest discontiguous exclusive economic zone in the world. Metropolitan France shares borders with Belgium and Luxembourg to the north; Germany to the northeast; Switzerland to the east; Italy and Monaco to the southeast; Andorra and Spain to the south; and a maritime border with the United Kingdom to the northwest."
+    },
+    {
+        "id": "Dublin",
+        "text": "Dublin is the capital and largest city of Ireland. Situated on Dublin Bay at the mouth of the River Liffey, it is in the province of Leinster, and is bordered on the south by the Dublin Mountains, part of the Wicklow Mountains range. Dublin is the largest city by population on the island of Ireland; at the 2022 census, the city council area had a population of 592,713, while the city including suburbs had a population of 1,263,219, County Dublin had a population of 1,501,500."
+    },
+    {
+        "id": "Netherlands",
+        "text": "The Netherlands, informally Holland, is a country in Northwestern Europe, with overseas territories in the Caribbean. It is the largest of the four constituent countries of the Kingdom of the Netherlands. The Netherlands consists of twelve provinces; it borders Germany to the east and Belgium to the south, with a North Sea coastline to the north and west."
+    },
+    {
+        "id": "Austria",
+        "text": "Austria, formally the Republic of Austria, is a landlocked country in Central Europe, lying in the Eastern Alps. It is a federation of nine states, of which the capital Vienna is the most populous city and state. Austria is bordered by Germany to the northwest, the Czech Republic to the north, Slovakia to the northeast, Hungary to the east, Slovenia and Italy to the south, and Switzerland and Liechtenstein to the west."
+    }
 ]

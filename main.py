@@ -45,9 +45,17 @@ def retrieve_kg_only(entities):
             facts = [f"The landmark {res['landmark']} is located in {entity_name}." for res in results]
             all_facts.extend(facts)
 
-        elif entity_type == "country_borther":
-            query = f"MATCH (c1:Country)-[:BORDERS_WITH]->(c2:Country {{name: '{entity_name}'}}) RETURN c1.name AS neighbor"
+        elif entity_type == "country_capital":
+            query = f"MATCH (c:Country {{name: '{entity_name}'}})-[:HAS_CAPITAL]->(cap:City) RETURN cap.name AS capital"
             results = kg_querier.query(query)
+            facts = [f"The capital of {entity_name} is {res['capital']}." for res in results]
+            all_facts.extend(facts)
+
+        elif entity_type == "country_borders":
+            query = f"MATCH (c1:Country)-[:BORDERS_WITH]->(c2:Country) WHERE c1.name = '{entity_name}' RETURN c2.name AS neighbor"
+            print(query)
+            results = kg_querier.query(query)
+            print(results)
             facts = [f"The country {entity_name} borders with {res['neighbor']}." for res in results]
             all_facts.extend(facts)
 
@@ -95,25 +103,22 @@ def run_experiment(question, kg_entities, retrieval_query):
 
 
 if __name__ == "__main__":
-    # Example 1
     run_experiment(
-        question="Which rivers flow through Germany? Add a short description of each",
-        kg_entities=[("country_rivers", "Germany")],
-        retrieval_query="Rivers in Gemany: Danube, Rhine, Elbe"
+        question="Which countries border Poland? Please provide a short description of Poland.",
+        kg_entities=[("country_borders", "Poland")],
+        retrieval_query="Cultural facts about Poland and its geography"
     )
 
-    # Example 2
     run_experiment(
-        question="What landmarks are in France, and why are they important?",
-        kg_entities=[("country_landmarks", "France")],
-        retrieval_query="Landmarks in France: Eiffel Tower, Louvre Muesum"
+        question="What is the capital of Iceland? Describe it.",
+        kg_entities=[("country_capital", "Iceland")],
+        retrieval_query="Description of Reykjavík"
     )
 
-    # Example 3
     run_experiment(
-        question="List countries bordering Switzerland and describe one cultural fact about each.",
-        kg_entities=[("country_borther", "Switzerland")],
-        retrieval_query="Cultural facts about Germany, Austria, France"
+        question="Which countries border the United Kingdom",
+        kg_entities=[("country_borders", "United Kingdom")],
+        retrieval_query="Geography of the United Kingdom"
     )
 
     kg_querier.close()
