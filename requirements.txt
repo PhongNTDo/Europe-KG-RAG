@@ -1,0 +1,7 @@
+neo4j
+google-generativeai
+faiss-cpu
+sentence-transformers
+numpy
+requests
+wikipedia-api

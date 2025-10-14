@@ -1,13 +1,16 @@
+import os
 import json
 import faiss
 import numpy as np
-from google import genai
-from google.genai import types
+# from google import genai
+import google.generativeai as genai
+from google.generativeai import types
 from sklearn.metrics.pairwise import cosine_similarity
+
+genai.configure(api_key=os.environ['GOOGLE_API_KEY'])
 
 class VectorRetriever:
     def __init__(self, model_name, faiss_index_path, corpus_path):
-        self.gemini_client = genai.Client()
         self.faiss_index_path = faiss_index_path
         self.corpus_path = corpus_path
         self.model_name = model_name
@@ -27,10 +30,15 @@ class VectorRetriever:
             texts = [item['text'] for item in self.corpus]
             embeddings = []
             for text in texts:
-                response = self.gemini_client.models.embed_content(
+                # response = self.gemini_client.models.embed_content(
+                #     model=self.model_name,
+                #     contents=text)
+                response = genai.embed_content(
                     model=self.model_name,
-                    contents=text)
-                embeddings.append(np.array(response.embeddings[0].values))
+                    content=text,
+                    task_type="RETRIEVAL_QUERY")
+                
+                embeddings.append(np.array(response['embedding']))
             index = faiss.IndexFlatL2(len(embeddings[1]))
             index.add(np.array(embeddings, dtype=np.float32))
             faiss.write_index(index, self.faiss_index_path)
@@ -38,9 +46,11 @@ class VectorRetriever:
         return index
 
     def retrieve(self, query_text, k=3):
-        query_embedding = self.gemini_client.models.embed_content(
+        query_embedding = genai.embed_content(
             model=self.model_name,
-            contents=query_text).embeddings[0].values
+            content=query_text,
+            task_type="RETRIEVAL_QUERY"
+        )['embedding']
         query_embedding = np.array(query_embedding).reshape(1, -1)
         distances, indices = self.index.search(query_embedding, k)
         

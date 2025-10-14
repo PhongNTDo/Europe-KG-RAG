@@ -1,8 +1,10 @@
+import os
 import google.generativeai as genai
 from config import NEO4J_URI, NEO4J_USERNAME, NEO4J_PASSWORD, EMBEDDING_MODEL, FAISS_INDEX_PATH
 from knowledge_graph.kg_querier import KnowledgeGraphQuerier
 from retrieval.vector_retriever import VectorRetriever
 
+genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 llm = genai.GenerativeModel('models/gemini-2.5-flash')
 
 kg_querier = KnowledgeGraphQuerier(NEO4J_URI, NEO4J_USERNAME, NEO4J_PASSWORD)
