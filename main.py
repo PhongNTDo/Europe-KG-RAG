@@ -3,6 +3,9 @@ import google.generativeai as genai
 from config import NEO4J_URI, NEO4J_USERNAME, NEO4J_PASSWORD, EMBEDDING_MODEL, FAISS_INDEX_PATH
 from knowledge_graph.kg_querier import KnowledgeGraphQuerier
 from retrieval.vector_retriever import VectorRetriever
+from retrieval.entity_extraction import EntityExtractor
+from retrieval.fushion import rank_fusion_retrieval
+from retrieval.entity_extraction import entity_driven_retrieval
 
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 llm = genai.GenerativeModel('models/gemini-2.5-flash')
@@ -15,15 +18,27 @@ vector_retriever = VectorRetriever(
     corpus_path="data/text_corpus.json"
 )
 
+entity_extractor = EntityExtractor()
+
+
 def generate_answer(context, question):
     prompt = f"""
-    Based on the following context, please answer the question.
+    You are a meticulous and fact-grounded AI assistant. Your task is to answer the user's question with high accuracy and clarity.
 
-    Context:
+    To do this, you must strictly adhere to the following rules:
+    1.  Synthesize your answer by drawing information from the provided CONTEXT below.
+    2.  Base your entire answer ONLY on the information given in the context. Do not use any external knowledge.
+    3.  If you use a fact from the context, you can optionally cite it (e.g., using [KG] or [Text]).
+    4.  If the provided context is insufficient to answer the question, you must state that clearly.
+
+    --- CONTEXT ---
     {context}
+    --- END OF CONTEXT ---
 
-    Question:
+    QUESTION:
     {question}
+
+    ANSWER:
     """
     try:
         response = llm.generate_content(prompt)
@@ -32,95 +47,73 @@ def generate_answer(context, question):
         return f"Error: {e}"
     
 
-def retrieve_kg_only(entities):
-    all_facts = []
-    for entity_type, entity_name in entities:
-        if entity_type == "country_rivers":
-            query = f"MATCH (r:River)-[:FLOWS_THROUGH]->(c:Country {{name: '{entity_name}'}}) RETURN r.name AS river"
-            results = kg_querier.query(query)
-            facts = [f"The river {res['river']} flows through {entity_name}." for res in results]
-            all_facts.extend(facts)
+def retrieve_kg_only(query):
+    facts = []
+    entities = entity_extractor.extract_entities(query)
+    for entity in entities:
+        cypher_query = f"MATCH (e)-[r]-(n) WHERE e.name = '{entity}' return e.name, type(r), n.name"
+        results = kg_querier.query(cypher_query)
+        for result in results:
+            fact = f"[KG] [{result['e.name']}] -[:{result['type(r)']}]-> [{result['n.name']}]"
+            facts.append(fact)
 
-        elif entity_type == "country_landmarks":
-            query = f"MATCH (l:Landmark)-[:LOCATED_IN]->(c:Country {{name: '{entity_name}'}}) RETURN l.name AS landmark"
-            results = kg_querier.query(query)
-            facts = [f"The landmark {res['landmark']} is located in {entity_name}." for res in results]
-            all_facts.extend(facts)
-
-        elif entity_type == "country_capital":
-            query = f"MATCH (c:Country {{name: '{entity_name}'}})-[:HAS_CAPITAL]->(cap:City) RETURN cap.name AS capital"
-            results = kg_querier.query(query)
-            facts = [f"The capital of {entity_name} is {res['capital']}." for res in results]
-            all_facts.extend(facts)
-
-        elif entity_type == "country_borders":
-            query = f"MATCH (c1:Country)-[:BORDERS_WITH]->(c2:Country) WHERE c1.name = '{entity_name}' RETURN c2.name AS neighbor"
-            print(query)
-            results = kg_querier.query(query)
-            print(results)
-            facts = [f"The country {entity_name} borders with {res['neighbor']}." for res in results]
-            all_facts.extend(facts)
-
-    return "\n".join(all_facts)
+    return "\n".join(facts) if facts else "No specific facts found in KG for extracted entities."
 
 
 def retrieve_text_only(query):
     retrieved_docs = vector_retriever.retrieve(query, k=5)
-    retrieved_docs = [f"{retrieved_doc['id']}: {retrieved_doc['text']}" for retrieved_doc in retrieved_docs]
+    retrieved_docs = [f"[TEXT] {retrieved_doc['text']}" for retrieved_doc in retrieved_docs]
     return "\n".join(retrieved_docs)
 
 
-def retrieve_hybrid(kg_queries, query):
-    kg_facts = retrieve_kg_only(kg_queries)
+def retrieve_hybrid_naive(query):
+    kg_facts = retrieve_kg_only(query)
     text_facts = retrieve_text_only(query)
 
     return f"--- Knowledge Graph Facts ---\n{kg_facts}\n\n--- Related Descriptions ---\n{text_facts}"
 
 
-def run_experiment(question, kg_entities, retrieval_query):
-    print(f"\n{'='*30}")
+def run_experiment(model_name, question):
+    print(f"\n{'='*20} RUNNING EXPERIMENT: {model_name} {'='*20}\n")
     print(f"QUESTION: {question}")
-    print(f"{'='*30}")
+    print(f"{'-'*50}")
 
-    print("--- 1. KG Only ---")
-    kg_facts = retrieve_kg_only(kg_entities)
-    kg_answer = generate_answer(kg_facts, question)
-    print('Context:\n', kg_facts)
-    print('Answer:\n', kg_answer)
-    print('-' * 15)
+    context = ""
+    if model_name == 'KG-Only':
+        context = retrieve_kg_only(question)
+    elif model_name == 'Text-Only':
+        context = retrieve_text_only(question)
+    elif model_name == 'Hybrid-Naive':
+        context = retrieve_hybrid_naive(question)
+    elif model_name == 'Entity-Driven':
+        context = entity_driven_retrieval(question, kg_querier, vector_retriever)
+    elif model_name == 'Hybrid-Fusion':
+        context = rank_fusion_retrieval(question, kg_querier, vector_retriever)
+    else:
+        raise ValueError(f"Unknown model name: {model_name}")
 
-    print("\n--- 2. Text Only ---")
-    text_facts = retrieve_text_only(retrieval_query)
-    text_answer = generate_answer(text_facts, question)
-    print('Context:\n', text_facts)
-    print('Answer:\n', text_answer)
-    print('-' * 15)
-
-    print("\n--- 3. Hybrid KG + Text RAG Answer ---")
-    hybrid_context = retrieve_hybrid(kg_entities, retrieval_query)
-    hybrid_answer = generate_answer(hybrid_context, question)
-    print('Context:\n', hybrid_context)
-    print('Answer:\n', hybrid_answer)
-    print('-' * 15)
+    print(f"--- RETRIEVED CONTEXT ---\n{context}\n{'-'*50}")
+    answer = generate_answer(context, question)
+    print(f"ANSWER: {answer}\n{'=-'*60}\n")
 
 
 if __name__ == "__main__":
-    run_experiment(
-        question="Which countries border Poland? Please provide a short description of Poland.",
-        kg_entities=[("country_borders", "Poland")],
-        retrieval_query="Cultural facts about Poland and its geography"
-    )
+    test_question = [
+        "What is the capital of Spain and can you describe it?",
+        "Which countries border Switzerland?",
+        "Tell ne about the geography of Italy."
+    ]
 
-    run_experiment(
-        question="What is the capital of Iceland? Describe it.",
-        kg_entities=[("country_capital", "Iceland")],
-        retrieval_query="Description of Reykjavík"
-    )
+    models_to_test = [
+        "KG-Only",
+        "Text-Only",
+        "Hybrid-Naive",
+        "Entity-Driven",
+        "Hybrid-Fusion"
+    ]
 
-    run_experiment(
-        question="Which countries border the United Kingdom",
-        kg_entities=[("country_borders", "United Kingdom")],
-        retrieval_query="Geography of the United Kingdom"
-    )
+    for question in test_question:
+        for model in models_to_test:
+            run_experiment(model, question)
 
     kg_querier.close()
