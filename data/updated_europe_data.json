@@ -1,0 +1,554 @@
+{
+    "countries": [
+        {
+            "name": "Albania",
+            "eu_member": "No",
+            "capital": "Tirana",
+            "borders_with": [
+                "Greece",
+                "Kosovo",
+                "Montenegro",
+                "North Macedonia"
+            ]
+        },
+        {
+            "name": "Andorra",
+            "eu_member": "No",
+            "capital": "Andorra la Vella",
+            "borders_with": [
+                "France",
+                "Spain"
+            ]
+        },
+        {
+            "name": "Austria",
+            "eu_member": "Yes",
+            "capital": "Vienna",
+            "borders_with": [
+                "Czech Republic",
+                "Germany",
+                "Hungary",
+                "Italy",
+                "Liechtenstein",
+                "Slovakia",
+                "Slovenia",
+                "Switzerland"
+            ]
+        },
+        {
+            "name": "Belarus",
+            "eu_member": "No",
+            "capital": "Minsk",
+            "borders_with": [
+                "Latvia",
+                "Lithuania",
+                "Poland",
+                "Russia",
+                "Ukraine"
+            ]
+        },
+        {
+            "name": "Belgium",
+            "eu_member": "Yes",
+            "capital": "City of Brussels",
+            "borders_with": [
+                "France",
+                "Germany",
+                "Luxembourg",
+                "Netherlands"
+            ]
+        },
+        {
+            "name": "Bosnia and Herzegovina",
+            "eu_member": "No",
+            "capital": "Sarajevo",
+            "borders_with": [
+                "Croatia",
+                "Montenegro",
+                "Serbia"
+            ]
+        },
+        {
+            "name": "Bulgaria",
+            "eu_member": "Yes",
+            "capital": "Sofia",
+            "borders_with": [
+                "Greece",
+                "North Macedonia",
+                "Romania",
+                "Turkey",
+                "Serbia"
+            ]
+        },
+        {
+            "name": "Croatia",
+            "eu_member": "Yes",
+            "capital": "Zagreb",
+            "borders_with": [
+                "Bosnia and Herzegovina",
+                "Hungary",
+                "Montenegro",
+                "Slovenia",
+                "Serbia"
+            ]
+        },
+        {
+            "name": "Cyprus",
+            "eu_member": "Yes",
+            "capital": "Nicosia",
+            "borders_with": []
+        },
+        {
+            "name": "Czech Republic",
+            "eu_member": "Yes",
+            "capital": "Prague",
+            "borders_with": [
+                "Austria",
+                "Germany",
+                "Poland",
+                "Slovakia"
+            ]
+        },
+        {
+            "name": "Denmark",
+            "eu_member": "Yes",
+            "capital": "Copenhagen",
+            "borders_with": [
+                "Germany"
+            ]
+        },
+        {
+            "name": "Estonia",
+            "eu_member": "Yes",
+            "capital": "Tallinn",
+            "borders_with": [
+                "Latvia",
+                "Russia"
+            ]
+        },
+        {
+            "name": "Finland",
+            "eu_member": "Yes",
+            "capital": "Helsinki",
+            "borders_with": [
+                "Norway",
+                "Russia",
+                "Sweden"
+            ]
+        },
+        {
+            "name": "France",
+            "eu_member": "Yes",
+            "capital": "Paris",
+            "borders_with": [
+                "Andorra",
+                "Belgium",
+                "Germany",
+                "Italy",
+                "Luxembourg",
+                "Spain",
+                "Switzerland",
+                "Monaco"
+            ]
+        },
+        {
+            "name": "Germany",
+            "eu_member": "Yes",
+            "capital": "Berlin",
+            "borders_with": [
+                "Austria",
+                "Belgium",
+                "Czech Republic",
+                "Denmark",
+                "France",
+                "Luxembourg",
+                "Netherlands",
+                "Poland",
+                "Switzerland"
+            ]
+        },
+        {
+            "name": "Greece",
+            "eu_member": "Yes",
+            "capital": "Athens",
+            "borders_with": [
+                "Albania",
+                "Bulgaria",
+                "North Macedonia",
+                "Turkey"
+            ]
+        },
+        {
+            "name": "Hungary",
+            "eu_member": "Yes",
+            "capital": "Budapest",
+            "borders_with": [
+                "Austria",
+                "Croatia",
+                "Romania",
+                "Slovakia",
+                "Slovenia",
+                "Ukraine",
+                "Serbia"
+            ]
+        },
+        {
+            "name": "Iceland",
+            "eu_member": "No",
+            "capital": "Reykjav\u00edk",
+            "borders_with": []
+        },
+        {
+            "name": "Ireland",
+            "eu_member": "Yes",
+            "capital": "Dublin",
+            "borders_with": [
+                "United Kingdom"
+            ]
+        },
+        {
+            "name": "Italy",
+            "eu_member": "Yes",
+            "capital": "Rome",
+            "borders_with": [
+                "Austria",
+                "France",
+                "Malta",
+                "Slovenia",
+                "Switzerland",
+                "Vatican City"
+            ]
+        },
+        {
+            "name": "Kosovo",
+            "eu_member": "No",
+            "capital": "Pristina",
+            "borders_with": [
+                "Albania",
+                "Montenegro",
+                "North Macedonia",
+                "Serbia"
+            ]
+        },
+        {
+            "name": "Latvia",
+            "eu_member": "Yes",
+            "capital": "Riga",
+            "borders_with": [
+                "Belarus",
+                "Estonia",
+                "Lithuania",
+                "Russia"
+            ]
+        },
+        {
+            "name": "Liechtenstein",
+            "eu_member": "No",
+            "capital": "Vaduz",
+            "borders_with": [
+                "Austria",
+                "Switzerland"
+            ]
+        },
+        {
+            "name": "Lithuania",
+            "eu_member": "Yes",
+            "capital": "Vilnius",
+            "borders_with": [
+                "Belarus",
+                "Latvia",
+                "Poland",
+                "Russia"
+            ]
+        },
+        {
+            "name": "Luxembourg",
+            "eu_member": "Yes",
+            "capital": "Luxembourg",
+            "borders_with": [
+                "Belgium",
+                "France",
+                "Germany"
+            ]
+        },
+        {
+            "name": "Malta",
+            "eu_member": "Yes",
+            "capital": "Valletta",
+            "borders_with": []
+        },
+        {
+            "name": "Montenegro",
+            "eu_member": "No",
+            "capital": "Podgorica",
+            "borders_with": [
+                "Albania",
+                "Bosnia and Herzegovina",
+                "Croatia",
+                "Kosovo",
+                "Serbia"
+            ]
+        },
+        {
+            "name": "Netherlands",
+            "eu_member": "Yes",
+            "capital": "Amsterdam",
+            "borders_with": [
+                "Belgium",
+                "Germany"
+            ]
+        },
+        {
+            "name": "North Macedonia",
+            "eu_member": "No",
+            "capital": "Skopje",
+            "borders_with": [
+                "Albania",
+                "Bulgaria",
+                "Greece",
+                "Kosovo",
+                "Serbia"
+            ]
+        },
+        {
+            "name": "Norway",
+            "eu_member": "No",
+            "capital": "Oslo",
+            "borders_with": [
+                "Finland",
+                "Russia",
+                "Sweden"
+            ]
+        },
+        {
+            "name": "Poland",
+            "eu_member": "Yes",
+            "capital": "Warsaw",
+            "borders_with": [
+                "Belarus",
+                "Czech Republic",
+                "Germany",
+                "Lithuania",
+                "Russia",
+                "Slovakia",
+                "Ukraine"
+            ]
+        },
+        {
+            "name": "Portugal",
+            "eu_member": "Yes",
+            "capital": "Lisbon",
+            "borders_with": [
+                "Spain"
+            ]
+        },
+        {
+            "name": "Romania",
+            "eu_member": "Yes",
+            "capital": "Bucharest",
+            "borders_with": [
+                "Bulgaria",
+                "Hungary",
+                "Serbia",
+                "Ukraine",
+                "Moldova"
+            ]
+        },
+        {
+            "name": "Russia",
+            "eu_member": "No",
+            "capital": "Moscow",
+            "borders_with": [
+                "Azerbaijan",
+                "Belarus",
+                "Estonia",
+                "Finland",
+                "Kazakhstan",
+                "Latvia",
+                "Lithuania",
+                "Mongolia",
+                "North Korea",
+                "Norway",
+                "People's Republic of China",
+                "Poland",
+                "Ukraine",
+                "Georgia"
+            ]
+        },
+        {
+            "name": "Slovakia",
+            "eu_member": "Yes",
+            "capital": "Bratislava",
+            "borders_with": [
+                "Austria",
+                "Czech Republic",
+                "Hungary",
+                "Poland",
+                "Ukraine"
+            ]
+        },
+        {
+            "name": "Slovenia",
+            "eu_member": "Yes",
+            "capital": "Ljubljana",
+            "borders_with": [
+                "Austria",
+                "Croatia",
+                "Hungary",
+                "Italy"
+            ]
+        },
+        {
+            "name": "Spain",
+            "eu_member": "Yes",
+            "capital": "Madrid",
+            "borders_with": [
+                "Andorra",
+                "France",
+                "Morocco",
+                "Portugal"
+            ]
+        },
+        {
+            "name": "Sweden",
+            "eu_member": "Yes",
+            "capital": "Stockholm",
+            "borders_with": [
+                "Finland",
+                "Norway"
+            ]
+        },
+        {
+            "name": "Switzerland",
+            "eu_member": "No",
+            "capital": "Bern",
+            "borders_with": [
+                "Austria",
+                "France",
+                "Germany",
+                "Italy",
+                "Liechtenstein"
+            ]
+        },
+        {
+            "name": "United Kingdom",
+            "eu_member": "No",
+            "capital": "London",
+            "borders_with": [
+                "Ireland"
+            ]
+        },
+        {
+            "name": "Vatican City",
+            "eu_member": "No",
+            "capital": null,
+            "borders_with": [
+                "Italy"
+            ]
+        },
+        {
+            "name": "Armenia",
+            "eu_member": "No",
+            "capital": "Yerevan",
+            "borders_with": [
+                "Azerbaijan",
+                "Georgia",
+                "Iran",
+                "Turkey"
+            ]
+        },
+        {
+            "name": "Azerbaijan",
+            "eu_member": "No",
+            "capital": "Baku",
+            "borders_with": [
+                "Armenia",
+                "Georgia",
+                "Iran",
+                "Russia",
+                "Turkey"
+            ]
+        },
+        {
+            "name": "Georgia",
+            "eu_member": "No",
+            "capital": "Tbilisi",
+            "borders_with": [
+                "Russia",
+                "Turkey",
+                "Armenia",
+                "Azerbaijan"
+            ]
+        },
+        {
+            "name": "Moldova",
+            "eu_member": "No",
+            "capital": "Chi\u0219in\u0103u",
+            "borders_with": [
+                "Romania",
+                "Ukraine"
+            ]
+        },
+        {
+            "name": "Monaco",
+            "eu_member": "No",
+            "capital": "Monaco City",
+            "borders_with": [
+                "France"
+            ]
+        },
+        {
+            "name": "San Marino",
+            "eu_member": "No",
+            "capital": "City of San Marino",
+            "borders_with": [
+                "Italy"
+            ]
+        },
+        {
+            "name": "Serbia",
+            "eu_member": "No",
+            "capital": "Belgrade",
+            "borders_with": [
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Croatia",
+                "Hungary",
+                "Montenegro",
+                "North Macedonia",
+                "Romania"
+            ]
+        },
+        {
+            "name": "Turkey",
+            "eu_member": "No",
+            "capital": "Ankara",
+            "borders_with": [
+                "Armenia",
+                "Azerbaijan",
+                "Bulgaria",
+                "Georgia",
+                "Greece",
+                "Iran",
+                "Iraq",
+                "Syria"
+            ]
+        },
+        {
+            "name": "Ukraine",
+            "eu_member": "No",
+            "capital": "Kyiv",
+            "borders_with": [
+                "Belarus",
+                "Hungary",
+                "Moldova",
+                "Poland",
+                "Romania",
+                "Russia",
+                "Slovakia"
+            ]
+        }
+    ],
+    "rivers": [],
+    "landmarks": []
+}
