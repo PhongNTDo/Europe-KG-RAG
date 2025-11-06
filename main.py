@@ -1,11 +1,19 @@
 import os
 import google.generativeai as genai
-from config import NEO4J_URI, NEO4J_USERNAME, NEO4J_PASSWORD, EMBEDDING_MODEL, FAISS_INDEX_PATH
-from knowledge_graph.kg_querier import KnowledgeGraphQuerier
-from retrieval.vector_retriever import VectorRetriever
-from retrieval.entity_extraction import EntityExtractor
-from retrieval.fushion import rank_fusion_retrieval
-from retrieval.entity_extraction import entity_driven_retrieval
+from config import (
+    EMBEDDING_MODEL,
+    FAISS_INDEX_PATH,
+    NEO4J_PASSWORD,
+    NEO4J_URI,
+    NEO4J_USERNAME,
+)
+from europe_kg_rag.graph import KnowledgeGraphQuerier
+from europe_kg_rag.retrieval import (
+    EntityExtractor,
+    VectorRetriever,
+    entity_driven_retrieval,
+    rank_fusion_retrieval,
+)
 
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 llm = genai.GenerativeModel('models/gemini-2.5-flash')
@@ -51,8 +59,10 @@ def retrieve_kg_only(query):
     facts = []
     entities = entity_extractor.extract_entities(query)
     for entity in entities:
-        cypher_query = f"MATCH (e)-[r]-(n) WHERE e.name = '{entity}' return e.name, type(r), n.name"
-        results = kg_querier.query(cypher_query)
+        cypher_query = (
+            "MATCH (e)-[r]-(n) WHERE e.name = $entity RETURN e.name, type(r), n.name"
+        )
+        results = kg_querier.query(cypher_query, {"entity": entity})
         for result in results:
             fact = f"[KG] [{result['e.name']}] -[:{result['type(r)']}]-> [{result['n.name']}]"
             facts.append(fact)
@@ -86,9 +96,9 @@ def run_experiment(model_name, question):
     elif model_name == 'Hybrid-Naive':
         context = retrieve_hybrid_naive(question)
     elif model_name == 'Entity-Driven':
-        context = entity_driven_retrieval(question, kg_querier, vector_retriever)
+        context = entity_driven_retrieval(question, kg_querier, vector_retriever, entity_extractor)
     elif model_name == 'Hybrid-Fusion':
-        context = rank_fusion_retrieval(question, kg_querier, vector_retriever)
+        context = rank_fusion_retrieval(question, kg_querier, vector_retriever, entity_extractor)
     else:
         raise ValueError(f"Unknown model name: {model_name}")
 
