@@ -1,0 +1,2819 @@
+{
+    "relations": [
+        {
+            "source_id": "city:MOSCOW",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PARIS",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LONDON",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MADRID",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BARCELONA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SAINT_PETERSBURG",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ROME",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BERLIN",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MILAN",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ATHENS",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LISBON",
+            "target_id": "country:PORTUGAL",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KIEV",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MANCHESTER",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BIRMINGHAM",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NAPLES",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BRUSSELS",
+            "target_id": "country:BELGIUM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MINSK",
+            "target_id": "country:BELARUS",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VIENNA",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TURIN",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:WARSAW",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:HAMBURG",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LYON",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BUDAPEST",
+            "target_id": "country:HUNGARY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BUCHAREST",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:STOCKHOLM",
+            "target_id": "country:SWEDEN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:GLASGOW",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NOVOSIBIRSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MARSEILLE",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MUNICH",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:YEKATERINBURG",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ZURICH",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KHARKIV",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BELGRADE",
+            "target_id": "country:SERBIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:COPENHAGEN",
+            "target_id": "country:DENMARK",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:HELSINKI",
+            "target_id": "country:FINLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PORTO",
+            "target_id": "country:PORTUGAL",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PRAGUE",
+            "target_id": "country:CZECH_REPUBLIC",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KAZAN",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:DUBLIN",
+            "target_id": "country:IRELAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SOFIA",
+            "target_id": "country:BULGARIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NIZHNIY_NOVGOROD",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CHELYABINSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:AMSTERDAM",
+            "target_id": "country:NETHERLANDS",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:OMSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KRASNOYARSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SAMARA",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:UFA",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:OSLO",
+            "target_id": "country:NORWAY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LILLE",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VORONEZH",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PERM",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TOULOUSE",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ROSTOV-NA-DONU",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ANTWERP",
+            "target_id": "country:BELGIUM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ROTTERDAM",
+            "target_id": "country:NETHERLANDS",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BORDEAUX",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KRASNODAR",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ODESSA",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VOLGOGRAD",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SOUTHAMPTON",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KOELN",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NICE",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:DNIPRO",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LIVERPOOL",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TYUMEN",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BERGAMO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:DONETSK",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PALERMO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VALENCIA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SARATOV",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NEWCASTLE_UPON_TYNE",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NOTTINGHAM",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BOLOGNA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:THESSALONIKI",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ZAPORIZHIA",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KRAKOW",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SHEFFIELD",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ZARAGOZA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:THE_HAGUE",
+            "target_id": "country:NETHERLANDS",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BRISTOL",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LVIV",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:FLORENCE",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NANTES",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SEVILLA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TOL'YATTI",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PADOVA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LIEGE",
+            "target_id": "country:BELGIUM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ZAGREB",
+            "target_id": "country:CROATIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:GENOA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BUSTO_ARSIZIO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:IZHEVSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BELFAST",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LODZ",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:FRANKFURT_AM_MAIN",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:IRKUTSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:GENEVA",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KHABAROVSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VERONA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:GOTHENBURG",
+            "target_id": "country:SWEDEN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:DUESSELDORF",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BARNAUL",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:WROCLAW",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SEREGNO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:STUTTGART",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BRIGHTON",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BARI",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ULYANOVSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SKOPJE",
+            "target_id": "country:NORTH_MACEDONIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:RIGA",
+            "target_id": "country:LATVIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:YAROSLAVL",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TOMSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VLADIVOSTOK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LEIPZIG",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MAKHACHKALA",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MALAGA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KRYVYI_RIH",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:DRESDEN",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TOULON",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:DORTMUND",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CATANIA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ESSEN",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BASEL",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KHABAROVSK_VTOROY",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:GOMEL",
+            "target_id": "country:BELARUS",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:UTRECHT",
+            "target_id": "country:NETHERLANDS",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LEICESTER",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KEMEROVO",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ORENBURG",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BALASHIKHA",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BREMEN",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:EDINBURGH",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PRISTINA",
+            "target_id": "country:KOSOVO",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NOVOKUZNETSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:GRENOBLE",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VILNIUS",
+            "target_id": "country:LITHUANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:HANNOVER",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TIRANA",
+            "target_id": "country:ALBANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ASTRAKHAN",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:DUISBURG",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BOURNEMOUTH",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PENZA",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KIROV",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KIROV",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:RYAZAN'",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:POZNAN",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MURCIA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CHEBOKSARY",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MYKOLAYIV",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NABEREZHNYYE_CHELNY",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KALININSKIY",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LIPETSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NUERNBERG",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BRESCIA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CARDIFF",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KALININGRAD",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:COMO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:STRASBOURG",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MONTPELLIER",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PALMA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CHISINAU",
+            "target_id": "country:MOLDOVA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:AVIGNON",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SOCHI",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:GENT",
+            "target_id": "country:BELGIUM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CAGLIARI",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ROUEN",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MYKOLAIV",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KURSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LAUSANNE",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LATINA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:GDANSK",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TULA",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TARANTO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TALLINN",
+            "target_id": "country:ESTONIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LEEDS",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:COVENTRY",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ULAN-UDE",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BERN",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BRATISLAVA",
+            "target_id": "country:SLOVAKIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CASERTA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TVER",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MARIUPOL",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SALERNO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MAGNITOGORSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BELGOROD",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CHARLEROI",
+            "target_id": "country:BELGIUM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SURGUT",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:WANDSBEK",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SEVASTOPOL",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:IVANOVO",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KHMELNYTSKYI",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MIDDLESBROUGH",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:STOKE-ON-TRENT",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SZCZECIN",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BRYANSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TREVISO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LUHANSK",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SECTOR_3",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PESCARA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VITEBSK",
+            "target_id": "country:BELARUS",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BOCHUM",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LAS_PALMAS_DE_GRAN_CANARIA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SAINT-ETIENNE",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ALICANTE",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BRNO",
+            "target_id": "country:CZECH_REPUBLIC",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BOCHUM-HORDEL",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MAKIYIVKA",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KAUNAS",
+            "target_id": "country:LITHUANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:EINDHOVEN",
+            "target_id": "country:NETHERLANDS",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:RENNES",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BREST",
+            "target_id": "country:BELARUS",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TOURS",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MAHILYOW",
+            "target_id": "country:BELARUS",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SECTOR_6",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BETHUNE",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MODENA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CHITA",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:STAVROPOL'",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VLADIMIR",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ARKHANGEL'SK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:READING",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KALUGA",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VINNYTSIA",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TAMPERE",
+            "target_id": "country:FINLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SUNDERLAND",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SARAJEVO",
+            "target_id": "country:BOSNIA_AND_HERZEGOVINA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:WUPPERTAL",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MANNHEIM",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PLOVDIV",
+            "target_id": "country:BULGARIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BILBAO",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CORDOBA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SECTOR_2",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VALENCIENNES",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NIZHNY_TAGIL",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PODOLSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:YAKUTSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BARLETTA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MALMO",
+            "target_id": "country:SWEDEN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SIMFEROPOL",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BYDGOSZCZ",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PRESTON",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KRASNOGVARGEISKY",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PARMA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BIRKENHEAD",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BIELEFELD",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VARNA",
+            "target_id": "country:BULGARIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VICENZA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NOLA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KINGSTON_UPON_HULL",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LUBLIN",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SMOLENSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SARANSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NEWPORT",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NEWPORT",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NEWPORT",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KARLSRUHE",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VOLZHSKIY",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KHERSON",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BONN",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SWANSEA",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CHEREPOVETS",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MURMANSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ISLINGTON",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VOLOGDA",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:POLTAVA",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:HRODNA",
+            "target_id": "country:BELARUS",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KATOWICE",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:IASI",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LECCO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:OREL",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:OSTRAVA",
+            "target_id": "country:CZECH_REPUBLIC",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VIGO",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CLUJ-NAPOCA",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CHERNIHIV",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TIMISOARA",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KURGAN",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CRAIOVA",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CONSTANTA",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VALLADOLID",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BRADFORD",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CHERKASY",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VLADIKAVKAZ",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SOUTHEND-ON-SEA",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SUMY",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:GALATI",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BIALYSTOK",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TAMBOV",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SECTOR_4",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MARIENTHAL",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ZHYTOMYR",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:HAMBURG-NORD",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:YOSHKAR-OLA",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TAGANROG",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:HORLIVKA",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KOSTROMA",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:GIJON",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BRASOV",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KOMSOMOLSK-ON-AMUR",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NAL'CHIK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:WIESBADEN",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LJUBLJANA",
+            "target_id": "country:SLOVENIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SECTOR_5",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:DERBY",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MUENSTER",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:GELSENKIRCHEN",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:STERLITAMAK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:EIXAMPLE",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:AACHEN",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PETROZAVODSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MOENCHENGLADBACH",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PLYMOUTH",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:AUGSBURG",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LUTON",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:L'HOSPITALET_DE_LLOBREGAT",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ESPOO",
+            "target_id": "country:FINLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LATINA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BRATSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:RIVNE",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:GDYNIA",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CARABANCHEL",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:WOLVERHAMPTON",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:EIMSBUETTEL",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ALTONA",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NIS",
+            "target_id": "country:SERBIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KROPYVNYTSKYI",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KAMIANSKE",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CZESTOCHOWA",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CITY_OF_WESTMINSTER",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CHEMNITZ",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ORSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:A_CORUNA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NIZHNEVARTOVSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BRAUNSCHWEIG",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PUENTE_DE_VALLECAS",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ANGARSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MAR'INO",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NOVOROSSIYSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KHIMKI",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BLACKPOOL",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KREFELD",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ARHUS",
+            "target_id": "country:DENMARK",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KOSICE",
+            "target_id": "country:SLOVAKIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CHERNIVTSI",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SANT_MARTI",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TERNOPIL",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:GASTEIZ_/_VITORIA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:GRANADA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NIZHNEKAMSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:HALLE_(SAALE)",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:HAMBURG-MITTE",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:DZERZHINSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KIEL",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SYKTYVKAR",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ELCHE",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MILTON_KEYNES",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MAGDEBURG",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PLOIESTI",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CIUDAD_LINEAL",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BEXLEY",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KREMENCHUK",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SOSNOWIEC",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:STARYY_OSKOL",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NEUE_NEUSTADT",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:RADOM",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:GROZNYY",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SECTOR_1",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:OVIEDO",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SANTA_CRUZ_DE_TENERIFE",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:GRAZ",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SHAKHTY",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BLAGOVESHCHENSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BANJA_LUKA",
+            "target_id": "country:BOSNIA_AND_HERZEGOVINA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BABRUYSK",
+            "target_id": "country:BELARUS",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:FUENCARRAL-EL_PARDO",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MESSINA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BADALONA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:OBERHAUSEN",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PROKOP'YEVSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:RYBINSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VYKHINO-ZHULEBINO",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:FREIBURG",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NORTHAMPTON",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ZELENOGRAD",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ARCHWAY",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BIYSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NOVI_SAD",
+            "target_id": "country:SERBIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VELIKIY_NOVGOROD",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CENTRALNIY",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LUTSK",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BERGEN",
+            "target_id": "country:NORWAY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BRAILA",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NORWICH",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MOKOTOW",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LUEBECK",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CARTAGENA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TERRASSA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TORUN",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KIELCE",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:JEREZ_DE_LA_FRONTERA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ORADEA",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SABADELL",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MOSTOLES",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LINZ",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ALCALA_DE_HENARES",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:IVANO-FRANKIVSK",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:DEBRECEN",
+            "target_id": "country:HUNGARY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ERFURT",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VASYL'EVSKY_OSTROV",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:HARBURG",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PSKOV",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:FAVORITEN",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NICOSIA",
+            "target_id": "country:CYPRUS",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SEVERNYY",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TILBURG",
+            "target_id": "country:NETHERLANDS",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BALAKOVO",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ARMAVIR",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BILA_TSERKVA",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:DUDLEY",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:HAGEN",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:GLIWICE",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PAMPLONA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ROSTOCK",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:FUENLABRADA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ABERDEEN",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:REIMS",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ENGEL'S",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BURGAS",
+            "target_id": "country:BULGARIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KASSEL",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SEVERODVINSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PORTSMOUTH",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KLAIPEDA",
+            "target_id": "country:LITHUANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ZABRZE",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ZLATOUST",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CORK",
+            "target_id": "country:IRELAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VANTAA",
+            "target_id": "country:FINLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SYZRAN'",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BYTOM",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ALMERIA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PRAGA_POLUDNIE",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SUTTON",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PETROPAVLOVSK-KAMCHATSKY",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TRIESTE",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:DONAUSTADT",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LEGANES",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LE_HAVRE",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SWINDON",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:DUN_LAOGHAIRE",
+            "target_id": "country:IRELAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SAN_SEBASTIAN",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:HAMM",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MAINZ",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CERGY-PONTOISE",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KOROLYOV",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SANTS-MONTJUIC",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SANTANDER",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KAMENSK-URAL'SKIY",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PRATO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SAARBRUECKEN",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:GRONINGEN",
+            "target_id": "country:NETHERLANDS",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CRAWLEY",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CASTELLO_DE_LA_PLANA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:YASENEVO",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BURGOS",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:AMADORA",
+            "target_id": "country:PORTUGAL",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:IPSWICH",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BIELSKO-BIALA",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:YUZHNO-SAKHALINSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ALMERE_STAD",
+            "target_id": "country:NETHERLANDS",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:SPLIT",
+            "target_id": "country:CROATIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TURKU",
+            "target_id": "country:FINLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:WIGAN",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:KRAMATORS'K",
+            "target_id": "country:UKRAINE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CROYDON",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MISKOLC",
+            "target_id": "country:HUNGARY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:WALSALL",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:HERNE",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LYUBLINO",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MANSFIELD",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:OLSZTYN",
+            "target_id": "country:POLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PRIZREN",
+            "target_id": "country:KOSOVO",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BACAU",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:OXFORD",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MUELHEIM",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ALBACETE",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:REGGIO_CALABRIA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ARAD",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BARANOVICHI",
+            "target_id": "country:BELARUS",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ANGERS",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:HORTA-GUINARDO",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PATRAS",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ALCORCON",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BEREZNIKI",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VOLGODONSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BREDA",
+            "target_id": "country:NETHERLANDS",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PITESTI",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MIASS",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ABAKAN",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NEUKOELLN",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:GETAFE",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NOVOCHERKASSK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:OSNABRUECK",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:NOU_BARRIS",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ANDORRA_LA_VELLA",
+            "target_id": "country:ANDORRA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:REYKJAVÍK",
+            "target_id": "country:ICELAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VADUZ",
+            "target_id": "country:LIECHTENSTEIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:LUXEMBOURG",
+            "target_id": "country:LUXEMBOURG",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:VALLETTA",
+            "target_id": "country:MALTA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:PODGORICA",
+            "target_id": "country:MONTENEGRO",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:YEREVAN",
+            "target_id": "country:ARMENIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:BAKU",
+            "target_id": "country:AZERBAIJAN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TBILISI",
+            "target_id": "country:GEORGIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CHISINAU",
+            "target_id": "country:MOLDOVA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:MONACO_CITY",
+            "target_id": "country:MONACO",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:CITY_OF_SAN_MARINO",
+            "target_id": "country:SAN_MARINO",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:ANKARA",
+            "target_id": "country:TURKEY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "city:TIRANA",
+            "target_id": "country:ALBANIA",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:ANDORRA_LA_VELLA",
+            "target_id": "country:ANDORRA",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:VIENNA",
+            "target_id": "country:AUSTRIA",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:MINSK",
+            "target_id": "country:BELARUS",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:BRUSSELS",
+            "target_id": "country:BELGIUM",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:SARAJEVO",
+            "target_id": "country:BOSNIA_AND_HERZEGOVINA",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:SOFIA",
+            "target_id": "country:BULGARIA",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:ZAGREB",
+            "target_id": "country:CROATIA",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:NICOSIA",
+            "target_id": "country:CYPRUS",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:PRAGUE",
+            "target_id": "country:CZECH_REPUBLIC",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:COPENHAGEN",
+            "target_id": "country:DENMARK",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:TALLINN",
+            "target_id": "country:ESTONIA",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:HELSINKI",
+            "target_id": "country:FINLAND",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:PARIS",
+            "target_id": "country:FRANCE",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:BERLIN",
+            "target_id": "country:GERMANY",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:ATHENS",
+            "target_id": "country:GREECE",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:BUDAPEST",
+            "target_id": "country:HUNGARY",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:REYKJAVÍK",
+            "target_id": "country:ICELAND",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:DUBLIN",
+            "target_id": "country:IRELAND",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:ROME",
+            "target_id": "country:ITALY",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:PRISTINA",
+            "target_id": "country:KOSOVO",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:RIGA",
+            "target_id": "country:LATVIA",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:VADUZ",
+            "target_id": "country:LIECHTENSTEIN",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:VILNIUS",
+            "target_id": "country:LITHUANIA",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:LUXEMBOURG",
+            "target_id": "country:LUXEMBOURG",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:VALLETTA",
+            "target_id": "country:MALTA",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:PODGORICA",
+            "target_id": "country:MONTENEGRO",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:AMSTERDAM",
+            "target_id": "country:NETHERLANDS",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:SKOPJE",
+            "target_id": "country:NORTH_MACEDONIA",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:OSLO",
+            "target_id": "country:NORWAY",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:WARSAW",
+            "target_id": "country:POLAND",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:LISBON",
+            "target_id": "country:PORTUGAL",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:BUCHAREST",
+            "target_id": "country:ROMANIA",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:MOSCOW",
+            "target_id": "country:RUSSIA",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:BRATISLAVA",
+            "target_id": "country:SLOVAKIA",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:LJUBLJANA",
+            "target_id": "country:SLOVENIA",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:MADRID",
+            "target_id": "country:SPAIN",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:STOCKHOLM",
+            "target_id": "country:SWEDEN",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:BERN",
+            "target_id": "country:SWITZERLAND",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:LONDON",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:LONDON",
+            "target_id": "country:VATICAN_CITY",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:YEREVAN",
+            "target_id": "country:ARMENIA",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:BAKU",
+            "target_id": "country:AZERBAIJAN",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:TBILISI",
+            "target_id": "country:GEORGIA",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:CHISINAU",
+            "target_id": "country:MOLDOVA",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:MONACO_CITY",
+            "target_id": "country:MONACO",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:CITY_OF_SAN_MARINO",
+            "target_id": "country:SAN_MARINO",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:BELGRADE",
+            "target_id": "country:SERBIA",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:ANKARA",
+            "target_id": "country:TURKEY",
+            "type": "CAPITAL_OF"
+        },
+        {
+            "source_id": "city:KIEV",
+            "target_id": "country:UKRAINE",
+            "type": "CAPITAL_OF"
+        }
+    ]
+}

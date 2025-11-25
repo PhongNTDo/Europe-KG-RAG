@@ -1,0 +1,4332 @@
+{
+    "rivers": [
+        {
+            "id": "river:KARA_<-_BOLSHOY_KARA",
+            "name": "Kara <- Bolshoy Kara",
+            "length": 289,
+            "basin": 13400,
+            "flow": null,
+            "mounth": "Ust-Kara"
+        },
+        {
+            "id": "river:KOROTAIKHA_<-_SYADEJ-YU",
+            "name": "Korotaikha <- Syadej-Yu",
+            "length": 310,
+            "basin": 12700,
+            "flow": null,
+            "mounth": null
+        },
+        {
+            "id": "river:PECHORA",
+            "name": "Pechora",
+            "length": 1809,
+            "basin": 322000,
+            "flow": 4380,
+            "mounth": "Naryan-Mar"
+        },
+        {
+            "id": "river:SULA",
+            "name": "Sula",
+            "length": 353,
+            "basin": 10400,
+            "flow": 92,
+            "mounth": null
+        },
+        {
+            "id": "river:SHAPKINA_<-_LEKEYYU_",
+            "name": "Shapkina <- Lekeyyu ",
+            "length": 506,
+            "basin": 6570,
+            "flow": 582,
+            "mounth": null
+        },
+        {
+            "id": "river:TSILMA",
+            "name": "Tsilma",
+            "length": 374,
+            "basin": 21500,
+            "flow": 228,
+            "mounth": null
+        },
+        {
+            "id": "river:PIZHMA",
+            "name": "Pizhma",
+            "length": 389,
+            "basin": 5470,
+            "flow": 55,
+            "mounth": null
+        },
+        {
+            "id": "river:IZHMA",
+            "name": "Izhma",
+            "length": 531,
+            "basin": 31000,
+            "flow": 317,
+            "mounth": "Ust-Izhma"
+        },
+        {
+            "id": "river:LAYA_",
+            "name": "Laya ",
+            "length": 332,
+            "basin": 9530,
+            "flow": 50,
+            "mounth": null
+        },
+        {
+            "id": "river:USA",
+            "name": "Usa",
+            "length": 565,
+            "basin": 93600,
+            "flow": 1310,
+            "mounth": "Usinsk"
+        },
+        {
+            "id": "river:KOLVA",
+            "name": "Kolva",
+            "length": 546,
+            "basin": 18100,
+            "flow": 165,
+            "mounth": "Usinsk"
+        },
+        {
+            "id": "river:ADZVA",
+            "name": "Adzva",
+            "length": 334,
+            "basin": 10600,
+            "flow": 110,
+            "mounth": null
+        },
+        {
+            "id": "river:KOSYU_",
+            "name": "Kosyu ",
+            "length": 259,
+            "basin": 14800,
+            "flow": 122,
+            "mounth": null
+        },
+        {
+            "id": "river:BOLSHAYA_ROGOVAYA_",
+            "name": "Bolshaya Rogovaya ",
+            "length": 311,
+            "basin": 7290,
+            "flow": null,
+            "mounth": null
+        },
+        {
+            "id": "river:SHCHUGOR",
+            "name": "Shchugor",
+            "length": 300,
+            "basin": 9660,
+            "flow": 252,
+            "mounth": null
+        },
+        {
+            "id": "river:ILYCH",
+            "name": "Ilych",
+            "length": 411,
+            "basin": 16000,
+            "flow": 177,
+            "mounth": null
+        },
+        {
+            "id": "river:VORONYA_<-_LAKE_LOVOZERO_<-_KURGA_",
+            "name": "Voronya <- Lake Lovozero <- Kurga ",
+            "length": 251,
+            "basin": 9940,
+            "flow": 114,
+            "mounth": null
+        },
+        {
+            "id": "river:TULOMA_<-_LAKE_NOTOZERO_<-_LUTTO",
+            "name": "Tuloma <- Lake Notozero <- Lutto",
+            "length": 320,
+            "basin": 21140,
+            "flow": 241,
+            "mounth": "Murmansk"
+        },
+        {
+            "id": "river:PAATSJOKI_<-_LAKE_INARI_<-_IVALO",
+            "name": "Paatsjoki <- Lake Inari <- Ivalo",
+            "length": 360,
+            "basin": 18403,
+            "flow": 157,
+            "mounth": "Kirkenes"
+        },
+        {
+            "id": "river:TANA/DEATNU_<-_KARASJOHKA",
+            "name": "Tana/Deatnu <- Karasjohka",
+            "length": 366,
+            "basin": 16386,
+            "flow": 197,
+            "mounth": "Tana Bru"
+        },
+        {
+            "id": "river:JÖKULSÁ_Á_FJÖLLUM",
+            "name": "Jökulsá á Fjöllum",
+            "length": 206,
+            "basin": 7750,
+            "flow": 183,
+            "mounth": null
+        },
+        {
+            "id": "river:ÖLFUSÁ_<-_HVÍTÁ",
+            "name": "Ölfusá <- Hvítá",
+            "length": 185,
+            "basin": 6100,
+            "flow": 423,
+            "mounth": "Selfoss"
+        },
+        {
+            "id": "river:ÞJÓRSÁ",
+            "name": "Þjórsá",
+            "length": 230,
+            "basin": 7530,
+            "flow": 370,
+            "mounth": null
+        },
+        {
+            "id": "river:KÚÐAFLJÓT",
+            "name": "Kúðafljót",
+            "length": 115,
+            "basin": 2400,
+            "flow": 250,
+            "mounth": null
+        },
+        {
+            "id": "river:JÖKULSÁ_Á_DAL",
+            "name": "Jökulsá á Dal",
+            "length": 150,
+            "basin": 3700,
+            "flow": 205,
+            "mounth": null
+        },
+        {
+            "id": "river:ALTAELVA",
+            "name": "Altaelva",
+            "length": 240,
+            "basin": 8693,
+            "flow": 101,
+            "mounth": "Alta Municipality"
+        },
+        {
+            "id": "river:MÅLSELVA_<-_ROSTAELVA",
+            "name": "Målselva <- Rostaelva",
+            "length": 145,
+            "basin": 6144,
+            "flow": 171,
+            "mounth": "Målselv Municipality"
+        },
+        {
+            "id": "river:VEFSNA",
+            "name": "Vefsna",
+            "length": 161,
+            "basin": 4122,
+            "flow": 207,
+            "mounth": "Vefsn Municipality"
+        },
+        {
+            "id": "river:NAMSEN",
+            "name": "Namsen",
+            "length": 229,
+            "basin": 6298,
+            "flow": 285,
+            "mounth": "Namsos Municipality"
+        },
+        {
+            "id": "river:GAULA_(TRØNDELAG)",
+            "name": "Gaula (Trøndelag)",
+            "length": 153,
+            "basin": 3661,
+            "flow": 97,
+            "mounth": "Trondheim Municipality"
+        },
+        {
+            "id": "river:ORKLA_(RIVER)",
+            "name": "Orkla (river)",
+            "length": 179,
+            "basin": 3053,
+            "flow": 67,
+            "mounth": "Orkland Municipality"
+        },
+        {
+            "id": "river:OTRA",
+            "name": "Otra",
+            "length": 245,
+            "basin": 3740,
+            "flow": 150,
+            "mounth": "Kristiansand Municipality"
+        },
+        {
+            "id": "river:SKIEN_<-_NORSJØ_<-_SAUA_<-_HEDDALSVATNET_<-_TINNE_-_ETC._SYSTEM",
+            "name": "Skien <- Norsjø <- Saua <- Heddalsvatnet <- Tinne - etc. system",
+            "length": 273,
+            "basin": 10815,
+            "flow": 263,
+            "mounth": "Porsgrunn Municipality"
+        },
+        {
+            "id": "river:NUMEDALSLÅGEN",
+            "name": "Numedalslågen",
+            "length": 356,
+            "basin": 5554,
+            "flow": 111,
+            "mounth": "Larvik Municipality"
+        },
+        {
+            "id": "river:DRAMMENSELVA_<-_TYRIFJORDEN_<-_STORELVA-ÅDALSELVA-SPERILLEN_<-_BEGNA_<-_OTRØELVA",
+            "name": "Drammenselva <- Tyrifjorden <- Storelva-Ådalselva-Sperillen <- Begna <- Otrøelva",
+            "length": 310,
+            "basin": 17113,
+            "flow": 314,
+            "mounth": "Drammen Municipality"
+        },
+        {
+            "id": "river:GLOMMA/GLÅMA",
+            "name": "Glomma/Glåma",
+            "length": 619,
+            "basin": 42441,
+            "flow": 709,
+            "mounth": "Fredrikstad Municipality"
+        },
+        {
+            "id": "river:VORMA_<-_MJØSA_<-_GUDBRANDSDALSLÅGEN",
+            "name": "Vorma <- Mjøsa <- Gudbrandsdalslågen",
+            "length": 358,
+            "basin": 17412,
+            "flow": 330,
+            "mounth": "Årnes in Nes Municipality"
+        },
+        {
+            "id": "river:GÖTA_ÄLV_<-_VÄNERN_<-_KLARÄLVEN_SYSTEM",
+            "name": "Göta älv <- Vänern <- Klarälven system",
+            "length": 756,
+            "basin": 50229,
+            "flow": 554,
+            "mounth": "Gothenburg"
+        },
+        {
+            "id": "river:KLARÄLVEN_<-_TRYSILELVA_<-_FEMUNDELVA_<-_ROGEN",
+            "name": "Klarälven <- Trysilelva <- Femundelva <- Rogen",
+            "length": 460,
+            "basin": 11820,
+            "flow": 165,
+            "mounth": "Karlstad"
+        },
+        {
+            "id": "river:ÄTRAN",
+            "name": "Ätran",
+            "length": 243,
+            "basin": 3342,
+            "flow": 53,
+            "mounth": "Falkenberg"
+        },
+        {
+            "id": "river:LAGAN",
+            "name": "Lagan",
+            "length": 232,
+            "basin": 6452,
+            "flow": 82,
+            "mounth": "Laholm"
+        },
+        {
+            "id": "river:ELBE_<-_VLTAVA_<-_TEPLÁ_VLTAVA",
+            "name": "Elbe <- Vltava <- Teplá Vltava",
+            "length": 1329,
+            "basin": 148268,
+            "flow": 860,
+            "mounth": "Cuxhaven"
+        },
+        {
+            "id": "river:ELBE",
+            "name": "Elbe",
+            "length": 1094,
+            "basin": 148268,
+            "flow": 860,
+            "mounth": "Cuxhaven"
+        },
+        {
+            "id": "river:HAVEL_<-_SPREE",
+            "name": "Havel <- Spree",
+            "length": 560,
+            "basin": 24096,
+            "flow": 103,
+            "mounth": "Havelberg"
+        },
+        {
+            "id": "river:HAVEL",
+            "name": "Havel",
+            "length": 334,
+            "basin": 24096,
+            "flow": 103,
+            "mounth": "Havelberg"
+        },
+        {
+            "id": "river:SPREE",
+            "name": "Spree",
+            "length": 382,
+            "basin": 10110,
+            "flow": 35,
+            "mounth": "Berlin-Spandau"
+        },
+        {
+            "id": "river:SAALE",
+            "name": "Saale",
+            "length": 413,
+            "basin": 24167,
+            "flow": 117,
+            "mounth": "Barby"
+        },
+        {
+            "id": "river:WHITE_ELSTER",
+            "name": "White Elster",
+            "length": 257,
+            "basin": 5154,
+            "flow": 26,
+            "mounth": "Halle (Saale)"
+        },
+        {
+            "id": "river:MULDE_<-_ZWICKAUER_MULDE",
+            "name": "Mulde <- Zwickauer Mulde",
+            "length": 290,
+            "basin": 7400,
+            "flow": 75,
+            "mounth": "Dessau"
+        },
+        {
+            "id": "river:OHŘE_/_EGER",
+            "name": "Ohře / Eger",
+            "length": 316,
+            "basin": 5588,
+            "flow": 38,
+            "mounth": "Litoměřice"
+        },
+        {
+            "id": "river:VLTAVA_-_TEPLÁ_VLTAVA",
+            "name": "Vltava - Teplá Vltava",
+            "length": 431,
+            "basin": 28101,
+            "flow": 154,
+            "mounth": "Mělník"
+        },
+        {
+            "id": "river:WESER_<-_WERRA",
+            "name": "Weser <- Werra",
+            "length": 751,
+            "basin": 46259,
+            "flow": 365,
+            "mounth": "Bremerhaven"
+        },
+        {
+            "id": "river:ALLER_<-_LEINE",
+            "name": "Aller <- Leine",
+            "length": 346,
+            "basin": 15721,
+            "flow": 120,
+            "mounth": "Verden"
+        },
+        {
+            "id": "river:ALLER",
+            "name": "Aller",
+            "length": 260,
+            "basin": 15721,
+            "flow": 120,
+            "mounth": "Verden"
+        },
+        {
+            "id": "river:LEINE",
+            "name": "Leine",
+            "length": 278,
+            "basin": 6517,
+            "flow": 62,
+            "mounth": "Schwarmstedt"
+        },
+        {
+            "id": "river:FULDA",
+            "name": "Fulda",
+            "length": 220,
+            "basin": 6947,
+            "flow": 67,
+            "mounth": "Hannoversch Münden"
+        },
+        {
+            "id": "river:WERRA",
+            "name": "Werra",
+            "length": 300,
+            "basin": 5497,
+            "flow": 50,
+            "mounth": "Hannoversch Münden"
+        },
+        {
+            "id": "river:EMS",
+            "name": "Ems",
+            "length": 371,
+            "basin": 17802,
+            "flow": 89,
+            "mounth": "Delfzijl"
+        },
+        {
+            "id": "river:ZWARTE_WATER_<-_VECHT/VECHTE",
+            "name": "Zwarte Water <- Vecht/Vechte",
+            "length": 201,
+            "basin": 5741,
+            "flow": 50,
+            "mounth": "Genemuiden"
+        },
+        {
+            "id": "river:IJSSEL_<-_OUDE_IJSSEL",
+            "name": "IJssel <- Oude IJssel",
+            "length": 188,
+            "basin": 4533,
+            "flow": 380,
+            "mounth": "Kampen"
+        },
+        {
+            "id": "river:RHINE",
+            "name": "Rhine",
+            "length": 1233,
+            "basin": 185263,
+            "flow": 2315,
+            "mounth": "Hook of Holland"
+        },
+        {
+            "id": "river:RHINE",
+            "name": "Rhine",
+            "length": 1233,
+            "basin": 185263,
+            "flow": 2315,
+            "mounth": "Hook of Holland"
+        },
+        {
+            "id": "river:RHINE",
+            "name": "Rhine",
+            "length": 1233,
+            "basin": 185263,
+            "flow": 2315,
+            "mounth": "Hook of Holland"
+        },
+        {
+            "id": "river:LIPPE_<-_ALME",
+            "name": "Lippe <- Alme",
+            "length": 268,
+            "basin": 4882,
+            "flow": 46,
+            "mounth": "Wesel"
+        },
+        {
+            "id": "river:RUHR_<-_NEGER_<-_RENAU",
+            "name": "Ruhr <- Neger <- Renau",
+            "length": 227,
+            "basin": 4485,
+            "flow": 82,
+            "mounth": "Duisburg"
+        },
+        {
+            "id": "river:MOSELLE_<-_MOSELOTTE",
+            "name": "Moselle <- Moselotte",
+            "length": 549,
+            "basin": 28153,
+            "flow": 320,
+            "mounth": "Koblenz"
+        },
+        {
+            "id": "river:SAAR",
+            "name": "Saar",
+            "length": 235,
+            "basin": 7431,
+            "flow": 78,
+            "mounth": "Konz"
+        },
+        {
+            "id": "river:SAUER",
+            "name": "Sauer",
+            "length": 173,
+            "basin": 4259,
+            "flow": 41,
+            "mounth": "Wasserbillig"
+        },
+        {
+            "id": "river:LAHN_<-_OHM_<-_FELDA",
+            "name": "Lahn <- Ohm <- Felda",
+            "length": 251,
+            "basin": 5925,
+            "flow": 51,
+            "mounth": "Lahnstein"
+        },
+        {
+            "id": "river:MAIN_<-_REGNITZ_SYSTEM",
+            "name": "Main <- Regnitz system",
+            "length": 583,
+            "basin": 27208,
+            "flow": 211,
+            "mounth": "Mainz"
+        },
+        {
+            "id": "river:MAIN",
+            "name": "Main",
+            "length": 525,
+            "basin": 27208,
+            "flow": 211,
+            "mounth": "Mainz"
+        },
+        {
+            "id": "river:REGNITZ_<-_PEGNITZ_<-_FICHTENOHE",
+            "name": "Regnitz <- Pegnitz <- Fichtenohe",
+            "length": 191,
+            "basin": 7521,
+            "flow": 57,
+            "mounth": "Bamberg"
+        },
+        {
+            "id": "river:NECKAR_<-_ESCHACH",
+            "name": "Neckar <- Eschach",
+            "length": 380,
+            "basin": 13934,
+            "flow": 136,
+            "mounth": "Mannheim"
+        },
+        {
+            "id": "river:ILL",
+            "name": "Ill",
+            "length": 217,
+            "basin": 4760,
+            "flow": 54,
+            "mounth": "Strasbourg"
+        },
+        {
+            "id": "river:AARE",
+            "name": "Aare",
+            "length": 288,
+            "basin": 17684,
+            "flow": 559,
+            "mounth": "Koblenz"
+        },
+        {
+            "id": "river:LIMMAT_<-_LAKE_ZÜRICH_<-_LINTH",
+            "name": "Limmat <- Lake Zürich <- Linth",
+            "length": 140,
+            "basin": 2417,
+            "flow": 101,
+            "mounth": "Brugg"
+        },
+        {
+            "id": "river:REUSS",
+            "name": "Reuss",
+            "length": 164,
+            "basin": 3443,
+            "flow": 140,
+            "mounth": "Brugg"
+        },
+        {
+            "id": "river:MEUSE/MAAS",
+            "name": "Meuse/Maas",
+            "length": 950,
+            "basin": 34364,
+            "flow": 357,
+            "mounth": "Hellevoetsluis"
+        },
+        {
+            "id": "river:OURTHE",
+            "name": "Ourthe",
+            "length": 181,
+            "basin": 3624,
+            "flow": 55,
+            "mounth": "Liège"
+        },
+        {
+            "id": "river:SAMBRE",
+            "name": "Sambre",
+            "length": 193,
+            "basin": 2856,
+            "flow": 29,
+            "mounth": "Namur"
+        },
+        {
+            "id": "river:SCHELDT",
+            "name": "Scheldt",
+            "length": 360,
+            "basin": 21683,
+            "flow": 129,
+            "mounth": "Flushing"
+        },
+        {
+            "id": "river:LEIE/LYS",
+            "name": "Leie/Lys",
+            "length": 202,
+            "basin": 4305,
+            "flow": 28,
+            "mounth": "Ghent"
+        },
+        {
+            "id": "river:THAMES_<-_CHURN",
+            "name": "Thames <- Churn",
+            "length": 360,
+            "basin": 14292,
+            "flow": 66,
+            "mounth": "Southend-on-Sea"
+        },
+        {
+            "id": "river:GREAT_OUSE",
+            "name": "Great Ouse",
+            "length": 230,
+            "basin": 8172,
+            "flow": 39,
+            "mounth": "King's Lynn"
+        },
+        {
+            "id": "river:TRENT",
+            "name": "Trent",
+            "length": 298,
+            "basin": 10435,
+            "flow": 100,
+            "mounth": "Scunthorpe"
+        },
+        {
+            "id": "river:OUSE_<-_URE",
+            "name": "Ouse <- Ure",
+            "length": 208,
+            "basin": 10704,
+            "flow": 145,
+            "mounth": "Scunthorpe"
+        },
+        {
+            "id": "river:TYNE_<-_NORTH_TYNE",
+            "name": "Tyne <- North Tyne",
+            "length": 118,
+            "basin": 2936,
+            "flow": 45,
+            "mounth": "South Shields"
+        },
+        {
+            "id": "river:TWEED",
+            "name": "Tweed",
+            "length": 156,
+            "basin": 4988,
+            "flow": 90,
+            "mounth": "Berwick-upon-Tweed"
+        },
+        {
+            "id": "river:TAY",
+            "name": "Tay",
+            "length": 193,
+            "basin": 6019,
+            "flow": 220,
+            "mounth": "Dundee"
+        },
+        {
+            "id": "river:SPEY",
+            "name": "Spey",
+            "length": 173,
+            "basin": 2944,
+            "flow": 66,
+            "mounth": "Elgin"
+        },
+        {
+            "id": "river:MEZEN",
+            "name": "Mezen",
+            "length": 966,
+            "basin": 78000,
+            "flow": 890,
+            "mounth": "Mezen"
+        },
+        {
+            "id": "river:PYOZA",
+            "name": "Pyoza",
+            "length": 363,
+            "basin": 15100,
+            "flow": 123,
+            "mounth": null
+        },
+        {
+            "id": "river:VASHKA",
+            "name": "Vashka",
+            "length": 605,
+            "basin": 20500,
+            "flow": 184,
+            "mounth": null
+        },
+        {
+            "id": "river:KULOY_<-_SOTKA",
+            "name": "Kuloy <- Sotka",
+            "length": 350,
+            "basin": 19000,
+            "flow": 17,
+            "mounth": "Dolgoshchelye"
+        },
+        {
+            "id": "river:NORTHERN_DVINA_<-_VYCHEGDA",
+            "name": "Northern Dvina <- Vychegda",
+            "length": 1803,
+            "basin": 357052,
+            "flow": 3330,
+            "mounth": "Severodvinsk"
+        },
+        {
+            "id": "river:NORTHERN_DVINA_<-_SUKHONA_<-_LAKE_KUBENSKOYE_<-_KUBENA",
+            "name": "Northern Dvina <- Sukhona <- Lake Kubenskoye <- Kubena",
+            "length": 1685,
+            "basin": 357052,
+            "flow": 3330,
+            "mounth": "Severodvinsk"
+        },
+        {
+            "id": "river:PINEGA",
+            "name": "Pinega",
+            "length": 779,
+            "basin": 42600,
+            "flow": 430,
+            "mounth": "Ust-Pinega"
+        },
+        {
+            "id": "river:YULA",
+            "name": "Yula",
+            "length": 250,
+            "basin": 5290,
+            "flow": 49,
+            "mounth": null
+        },
+        {
+            "id": "river:YEMTSA_<-_MEKHRENGA",
+            "name": "Yemtsa <- Mekhrenga",
+            "length": 299,
+            "basin": 14100,
+            "flow": 70,
+            "mounth": "Bolshaya Gora"
+        },
+        {
+            "id": "river:VAGA_<-_USTYA",
+            "name": "Vaga <- Ustya",
+            "length": 736,
+            "basin": 44800,
+            "flow": 384,
+            "mounth": "Bereznik"
+        },
+        {
+            "id": "river:VAGA",
+            "name": "Vaga",
+            "length": 575,
+            "basin": 44800,
+            "flow": 384,
+            "mounth": "Bereznik"
+        },
+        {
+            "id": "river:USTYA",
+            "name": "Ustya",
+            "length": 477,
+            "basin": 17500,
+            "flow": 92,
+            "mounth": null
+        },
+        {
+            "id": "river:KOKSHENGA",
+            "name": "Kokshenga",
+            "length": 251,
+            "basin": 5670,
+            "flow": 36,
+            "mounth": null
+        },
+        {
+            "id": "river:VYCHEGDA",
+            "name": "Vychegda",
+            "length": 1130,
+            "basin": 121000,
+            "flow": 1160,
+            "mounth": "Kotlas"
+        },
+        {
+            "id": "river:VILED",
+            "name": "Viled",
+            "length": 321,
+            "basin": 5610,
+            "flow": 43,
+            "mounth": "Koryazhma"
+        },
+        {
+            "id": "river:YARENGA",
+            "name": "Yarenga",
+            "length": 281,
+            "basin": 5140,
+            "flow": 49,
+            "mounth": null
+        },
+        {
+            "id": "river:VYM",
+            "name": "Vym",
+            "length": 499,
+            "basin": 25600,
+            "flow": 260,
+            "mounth": "Ust-Vym"
+        },
+        {
+            "id": "river:YOLVA_",
+            "name": "Yolva ",
+            "length": 255,
+            "basin": 3440,
+            "flow": 31,
+            "mounth": null
+        },
+        {
+            "id": "river:SYSOLA",
+            "name": "Sysola",
+            "length": 487,
+            "basin": 17200,
+            "flow": 105,
+            "mounth": "Syktyvkar"
+        },
+        {
+            "id": "river:LOKCHIM_",
+            "name": "Lokchim ",
+            "length": 272,
+            "basin": 6600,
+            "flow": 52,
+            "mounth": null
+        },
+        {
+            "id": "river:VISHERA",
+            "name": "Vishera",
+            "length": 247,
+            "basin": 8780,
+            "flow": 79,
+            "mounth": null
+        },
+        {
+            "id": "river:NEM_",
+            "name": "Nem ",
+            "length": 260,
+            "basin": 4230,
+            "flow": 37,
+            "mounth": null
+        },
+        {
+            "id": "river:LOWER_YUG_<-_LUZA",
+            "name": "Lower Yug <- Luza",
+            "length": 609,
+            "basin": 35600,
+            "flow": 290,
+            "mounth": "Veliky Ustyug"
+        },
+        {
+            "id": "river:YUG",
+            "name": "Yug",
+            "length": 574,
+            "basin": 35600,
+            "flow": 290,
+            "mounth": "Veliky Ustyug"
+        },
+        {
+            "id": "river:LUZA",
+            "name": "Luza",
+            "length": 574,
+            "basin": 18300,
+            "flow": 132,
+            "mounth": null
+        },
+        {
+            "id": "river:SUKHONA_<-_LAKE_KUBENSKOYE_<-_KUBENA",
+            "name": "Sukhona <- Lake Kubenskoye <- Kubena",
+            "length": 941,
+            "basin": 50300,
+            "flow": 438,
+            "mounth": "Veliky Ustyug"
+        },
+        {
+            "id": "river:ONEGA_<-_LAKE_LACHA_<-_SVID_<-_LAKE_VOZHE_<-_VOZHEGA",
+            "name": "Onega <- Lake Lacha <- Svid <- Lake Vozhe <- Vozhega",
+            "length": 680,
+            "basin": 56900,
+            "flow": 492,
+            "mounth": "Onega town"
+        },
+        {
+            "id": "river:ONEGA",
+            "name": "Onega",
+            "length": 416,
+            "basin": 56900,
+            "flow": 492,
+            "mounth": "Onega town"
+        },
+        {
+            "id": "river:VOLOSHKA",
+            "name": "Voloshka",
+            "length": 260,
+            "basin": 7100,
+            "flow": 72,
+            "mounth": null
+        },
+        {
+            "id": "river:LOWER_VYG_<-_LAKE_VYGOZERO_<-_SEGEZHA_-SYSTEM",
+            "name": "Lower Vyg <- Lake Vygozero <- Segezha -system",
+            "length": 436,
+            "basin": 27100,
+            "flow": 267,
+            "mounth": "Belomorsk"
+        },
+        {
+            "id": "river:VYG_<-_UMBA_",
+            "name": "Vyg <- Umba ",
+            "length": 315,
+            "basin": 27100,
+            "flow": 267,
+            "mounth": "Belomorsk"
+        },
+        {
+            "id": "river:SEGEZHA_<-_LAKE_SEGOZERO_<-_VUOLOMA_<-_TALVIESDEGI_",
+            "name": "Segezha <- Lake Segozero <- Vuoloma <- Talviesdegi ",
+            "length": 329,
+            "basin": 9140,
+            "flow": 74,
+            "mounth": "Segezha"
+        },
+        {
+            "id": "river:KEM_<-_ČIRKA-KEM_",
+            "name": "Kem <- Čirka-Kem ",
+            "length": 422,
+            "basin": 27700,
+            "flow": 279,
+            "mounth": "Kem"
+        },
+        {
+            "id": "river:KEM_<-_KUYTO_LAKES_<-_PISTA/PISTOJOKI_",
+            "name": "Kem <- Kuyto Lakes <- Pista/Pistojoki ",
+            "length": 399,
+            "basin": 27700,
+            "flow": 279,
+            "mounth": "Kem"
+        },
+        {
+            "id": "river:KOVDA_<-_LAKE_TOPOZERO_<-_KARANGO_",
+            "name": "Kovda <- Lake Topozero <- Karango ",
+            "length": 325,
+            "basin": 26100,
+            "flow": 276,
+            "mounth": null
+        },
+        {
+            "id": "river:KOVDA_<-_LAKE_TOPOZERO_<-_KARANGO_",
+            "name": "Kovda <- Lake Topozero <- Karango ",
+            "length": 325,
+            "basin": 26100,
+            "flow": 276,
+            "mounth": null
+        },
+        {
+            "id": "river:VARZUGA",
+            "name": "Varzuga",
+            "length": 254,
+            "basin": 9840,
+            "flow": 79,
+            "mounth": null
+        },
+        {
+            "id": "river:PONOY",
+            "name": "Ponoy",
+            "length": 426,
+            "basin": 15500,
+            "flow": 167,
+            "mounth": null
+        },
+        {
+            "id": "river:MOTALA_STRÖM_<-_VÄTTERN_<-_HUSKVARNAÅN_SYSTEM",
+            "name": "Motala ström <- Vättern <- Huskvarnaån system",
+            "length": 285,
+            "basin": 15481,
+            "flow": 100,
+            "mounth": "Norrköping"
+        },
+        {
+            "id": "river:NORRSTRÖM_<-_MÄLAREN_<-_KOLBÄCKSÅN_SYSTEM",
+            "name": "Norrström <- Mälaren <- Kolbäcksån system",
+            "length": 307,
+            "basin": 22650,
+            "flow": 166,
+            "mounth": "Stockholm"
+        },
+        {
+            "id": "river:DALÄLVEN_<-_ÖSTERDALÄLVEN",
+            "name": "Dalälven <- Österdalälven",
+            "length": 542,
+            "basin": 28954,
+            "flow": 353,
+            "mounth": "Gävle"
+        },
+        {
+            "id": "river:VÄSTERDALÄLVEN_<-_FULAN",
+            "name": "Västerdalälven <- Fulan",
+            "length": 315,
+            "basin": 8642,
+            "flow": 124,
+            "mounth": "Djurås"
+        },
+        {
+            "id": "river:LJUSNAN",
+            "name": "Ljusnan",
+            "length": 443,
+            "basin": 19828,
+            "flow": 226,
+            "mounth": "Söderhamn"
+        },
+        {
+            "id": "river:LJUNGAN",
+            "name": "Ljungan",
+            "length": 399,
+            "basin": 12851,
+            "flow": 135,
+            "mounth": "Sundsvall"
+        },
+        {
+            "id": "river:INDALSÄLVEN",
+            "name": "Indalsälven",
+            "length": 430,
+            "basin": 26726,
+            "flow": 448,
+            "mounth": "Sundsvall"
+        },
+        {
+            "id": "river:ÅNGERMAN",
+            "name": "Ångerman",
+            "length": 463,
+            "basin": 31864,
+            "flow": 481,
+            "mounth": "Kramfors"
+        },
+        {
+            "id": "river:FAXÄLVEN",
+            "name": "Faxälven",
+            "length": 399,
+            "basin": 9037,
+            "flow": 152,
+            "mounth": "Sollefteå"
+        },
+        {
+            "id": "river:FJÄLLSJÖÄLVEN",
+            "name": "Fjällsjöälven",
+            "length": 263,
+            "basin": 8432,
+            "flow": 139,
+            "mounth": "Näsåker"
+        },
+        {
+            "id": "river:UMEÄLVEN",
+            "name": "Umeälven",
+            "length": 467,
+            "basin": 26815,
+            "flow": 435,
+            "mounth": "Umeå"
+        },
+        {
+            "id": "river:VINDELÄLVEN",
+            "name": "Vindelälven",
+            "length": 453,
+            "basin": 12654,
+            "flow": 188,
+            "mounth": "Umeå"
+        },
+        {
+            "id": "river:SKELLEFTEÄLVEN",
+            "name": "Skellefteälven",
+            "length": 440,
+            "basin": 11731,
+            "flow": 157,
+            "mounth": "Skellefteå"
+        },
+        {
+            "id": "river:PITEÄLVEN",
+            "name": "Piteälven",
+            "length": 402,
+            "basin": 11285,
+            "flow": 156,
+            "mounth": "Piteå"
+        },
+        {
+            "id": "river:LULEÄLVEN",
+            "name": "Luleälven",
+            "length": 461,
+            "basin": 25240,
+            "flow": 500,
+            "mounth": "Luleå"
+        },
+        {
+            "id": "river:LESSER_LULE",
+            "name": "Lesser Lule",
+            "length": 238,
+            "basin": 9678,
+            "flow": 180,
+            "mounth": "Vuollerim"
+        },
+        {
+            "id": "river:KALIXÄLVEN",
+            "name": "Kalixälven",
+            "length": 461,
+            "basin": 18130,
+            "flow": 289,
+            "mounth": "Kalix"
+        },
+        {
+            "id": "river:TORNE_<-_TORNETRÄSK_<-_ABISKOJOKK_<-_VÁLFOJOHKA",
+            "name": "Torne <- Torneträsk <- Abiskojokk <- Válfojohka",
+            "length": 565,
+            "basin": 40157,
+            "flow": 430,
+            "mounth": "Tornio"
+        },
+        {
+            "id": "river:MUONIO_<-_KÖNKÄMÄENO_<-_KILPISJÄRVI",
+            "name": "Muonio <- Könkämäeno <- Kilpisjärvi",
+            "length": 350,
+            "basin": 14430,
+            "flow": 162,
+            "mounth": "Pajala"
+        },
+        {
+            "id": "river:LAINIOÄLVEN_<-_ROSTOEATNU_<-_ROSTOJÁVRI_<-_OHMÁTJOHKA",
+            "name": "Lainioälven <- Rostoeatnu <- Rostojávri <- Ohmátjohka",
+            "length": 290,
+            "basin": 6002,
+            "flow": 70,
+            "mounth": "Junosuando"
+        },
+        {
+            "id": "river:KEMIJOKI",
+            "name": "Kemijoki",
+            "length": 552,
+            "basin": 51127,
+            "flow": 553,
+            "mounth": "Kemi"
+        },
+        {
+            "id": "river:OUNASJOKI",
+            "name": "Ounasjoki",
+            "length": 300,
+            "basin": 13968,
+            "flow": 140,
+            "mounth": "Rovaniemi"
+        },
+        {
+            "id": "river:KITINEN",
+            "name": "Kitinen",
+            "length": 278,
+            "basin": 11214,
+            "flow": null,
+            "mounth": "Pelkosenniemi"
+        },
+        {
+            "id": "river:IIJOKI",
+            "name": "Iijoki",
+            "length": 310,
+            "basin": 14191,
+            "flow": 174,
+            "mounth": "Ii"
+        },
+        {
+            "id": "river:OULUJOKI_<-_OULUJÄRVI_<-_HYRYNSALMI_SYSTEM",
+            "name": "Oulujoki <- Oulujärvi <- Hyrynsalmi system",
+            "length": 420,
+            "basin": 22841,
+            "flow": 262,
+            "mounth": "Oulu"
+        },
+        {
+            "id": "river:KOKEMÄENJOKI",
+            "name": "Kokemäenjoki",
+            "length": 150,
+            "basin": 27046,
+            "flow": 238,
+            "mounth": "Pori"
+        },
+        {
+            "id": "river:KYMI_<-_LAKE_PÄIJÄNNE_<-<-<-_KOIVUJÄRVI_SOURCES",
+            "name": "Kymi <- Lake Päijänne <-<-<- Koivujärvi sources",
+            "length": 554,
+            "basin": 37159,
+            "flow": 282,
+            "mounth": "Kotka"
+        },
+        {
+            "id": "river:NEVA_<-_LAKE_LADOGA_<-_VOLKHOV-SYSTEM",
+            "name": "Neva <- Lake Ladoga <- Volkhov-system",
+            "length": 1010,
+            "basin": 281000,
+            "flow": 2490,
+            "mounth": "Saint Petersburg"
+        },
+        {
+            "id": "river:NEVA_<-_LAKE_LADOGA_<-_VOLKHOV-SYSTEM",
+            "name": "Neva <- Lake Ladoga <- Volkhov-system",
+            "length": 1010,
+            "basin": 281000,
+            "flow": 2490,
+            "mounth": "Saint Petersburg"
+        },
+        {
+            "id": "river:VUOKSI_<-_SAIMAA_<-_PIELISJOKI-SYSTEM",
+            "name": "Vuoksi <- Saimaa <- Pielisjoki-system",
+            "length": 806,
+            "basin": 68501,
+            "flow": 584,
+            "mounth": "Solovyovo and at Priozersk"
+        },
+        {
+            "id": "river:PIELISJOKI_<-_PIELINEN_<-_LIEKSANJOKI_<-<-_MURDOYOKI_",
+            "name": "Pielisjoki <- Pielinen <- Lieksanjoki <-<- Murdoyoki ",
+            "length": 390,
+            "basin": 20000,
+            "flow": 240,
+            "mounth": "Joensuu"
+        },
+        {
+            "id": "river:SVIR_<-_LAKE_ONEGA_<-_VODLA-SYSTEM",
+            "name": "Svir <- Lake Onega <- Vodla-system",
+            "length": 678,
+            "basin": 88200,
+            "flow": 790,
+            "mounth": "Lodeynoye Pole"
+        },
+        {
+            "id": "river:OYAT",
+            "name": "Oyat",
+            "length": 266,
+            "basin": 5220,
+            "flow": 52,
+            "mounth": "Lodeynoye Pole"
+        },
+        {
+            "id": "river:SHUYA",
+            "name": "Shuya",
+            "length": 194,
+            "basin": 10100,
+            "flow": 130,
+            "mounth": "Petrozavodsk"
+        },
+        {
+            "id": "river:SUNA",
+            "name": "Suna",
+            "length": 280,
+            "basin": 7670,
+            "flow": 66,
+            "mounth": "Kondopoga"
+        },
+        {
+            "id": "river:VODLA_<-_LAKE_VODLOZERO_<-_ILEKSA_<-_OLOVA_",
+            "name": "Vodla <- Lake Vodlozero <- Ileksa <- Olova ",
+            "length": 358,
+            "basin": 13700,
+            "flow": 130,
+            "mounth": "Pudozh"
+        },
+        {
+            "id": "river:SYAS",
+            "name": "Syas",
+            "length": 260,
+            "basin": 7330,
+            "flow": 53,
+            "mounth": "Syasstroy"
+        },
+        {
+            "id": "river:VOLKHOV_<-_LAKE_ILMEN_<-_MSTA-SYSTEM",
+            "name": "Volkhov <- Lake Ilmen <- Msta-system",
+            "length": 844,
+            "basin": 80200,
+            "flow": 580,
+            "mounth": "Volkhov"
+        },
+        {
+            "id": "river:MSTA_<-_LAKE_MSTINO_<-_TSNA",
+            "name": "Msta <- Lake Mstino <- Tsna",
+            "length": 620,
+            "basin": 23300,
+            "flow": 202,
+            "mounth": "Velikiy Novgorod"
+        },
+        {
+            "id": "river:POLA",
+            "name": "Pola",
+            "length": 267,
+            "basin": 7420,
+            "flow": 63,
+            "mounth": "Staraya Russa"
+        },
+        {
+            "id": "river:LOVAT",
+            "name": "Lovat",
+            "length": 530,
+            "basin": 21900,
+            "flow": 105,
+            "mounth": "Staraya Russa"
+        },
+        {
+            "id": "river:SHELON",
+            "name": "Shelon",
+            "length": 248,
+            "basin": 9710,
+            "flow": 44,
+            "mounth": "Shimsk"
+        },
+        {
+            "id": "river:LUGA_<-_OREDEZH",
+            "name": "Luga <- Oredezh",
+            "length": 383,
+            "basin": 13364,
+            "flow": 93,
+            "mounth": "Ust-Luga"
+        },
+        {
+            "id": "river:LUGA",
+            "name": "Luga",
+            "length": 353,
+            "basin": 13364,
+            "flow": 93,
+            "mounth": "Ust-Luga"
+        },
+        {
+            "id": "river:NARVA_<-_LAKE_PEIPUS_<-_VELIKAYA",
+            "name": "Narva <- Lake Peipus <- Velikaya",
+            "length": 647,
+            "basin": 56229,
+            "flow": 400,
+            "mounth": "Narva"
+        },
+        {
+            "id": "river:NARVA_<-_LAKE_PEIPUS_<-_VELIKAYA",
+            "name": "Narva <- Lake Peipus <- Velikaya",
+            "length": 647,
+            "basin": 56229,
+            "flow": 400,
+            "mounth": "Narva"
+        },
+        {
+            "id": "river:PLYUSSA",
+            "name": "Plyussa",
+            "length": 281,
+            "basin": 6963,
+            "flow": 50,
+            "mounth": "Narva"
+        },
+        {
+            "id": "river:VELIKAYA",
+            "name": "Velikaya",
+            "length": 430,
+            "basin": 25153,
+            "flow": 134,
+            "mounth": "Pskov"
+        },
+        {
+            "id": "river:EMAJÕGI_<-_VÕRTSJÄRV_<-_VÄIKE_EMAJÕGI",
+            "name": "Emajõgi <- Võrtsjärv <- Väike Emajõgi",
+            "length": 218,
+            "basin": 10039,
+            "flow": 70,
+            "mounth": null
+        },
+        {
+            "id": "river:PÄRNU",
+            "name": "Pärnu",
+            "length": 144,
+            "basin": 6887,
+            "flow": 64,
+            "mounth": "Pärnu"
+        },
+        {
+            "id": "river:GAUJA",
+            "name": "Gauja",
+            "length": 452,
+            "basin": 9161,
+            "flow": 71,
+            "mounth": "Riga"
+        },
+        {
+            "id": "river:DAUGAVA/WESTERN_DVINA",
+            "name": "Daugava/Western Dvina",
+            "length": 1020,
+            "basin": 85613,
+            "flow": 640,
+            "mounth": "Riga"
+        },
+        {
+            "id": "river:AIVIEKSTE_<-_PEDEDZE",
+            "name": "Aiviekste <- Pededze",
+            "length": 254,
+            "basin": 9135,
+            "flow": 57,
+            "mounth": "Pļaviņas"
+        },
+        {
+            "id": "river:MEZHA",
+            "name": "Mezha",
+            "length": 259,
+            "basin": 9525,
+            "flow": 61,
+            "mounth": "Doroshkino"
+        },
+        {
+            "id": "river:LIELUPE_<-_MĒMELE/NEMUNĖLIS",
+            "name": "Lielupe <- Mēmele/Nemunėlis",
+            "length": 310,
+            "basin": 17504,
+            "flow": 106,
+            "mounth": "Jūrmala"
+        },
+        {
+            "id": "river:VENTA",
+            "name": "Venta",
+            "length": 346,
+            "basin": 11843,
+            "flow": 98,
+            "mounth": "Ventspils"
+        },
+        {
+            "id": "river:NEMAN",
+            "name": "Neman",
+            "length": 914,
+            "basin": 92523,
+            "flow": 634,
+            "mounth": "Šilutė"
+        },
+        {
+            "id": "river:ŠEŠUPĖ",
+            "name": "Šešupė",
+            "length": 298,
+            "basin": 6194,
+            "flow": 34,
+            "mounth": "Neman"
+        },
+        {
+            "id": "river:NEVĖŽIS",
+            "name": "Nevėžis",
+            "length": 209,
+            "basin": 5947,
+            "flow": 33,
+            "mounth": "Raudondvaris"
+        },
+        {
+            "id": "river:NERIS/VILIYA",
+            "name": "Neris/Viliya",
+            "length": 510,
+            "basin": 25254,
+            "flow": 182,
+            "mounth": "Kaunas"
+        },
+        {
+            "id": "river:ŠVENTOJI",
+            "name": "Šventoji",
+            "length": 246,
+            "basin": 6804,
+            "flow": 56,
+            "mounth": "Jonava"
+        },
+        {
+            "id": "river:SHCHARA",
+            "name": "Shchara",
+            "length": 325,
+            "basin": 6724,
+            "flow": 31,
+            "mounth": null
+        },
+        {
+            "id": "river:PREGOLYA_<-_LAVA/ŁYNA",
+            "name": "Pregolya <- Lava/Łyna",
+            "length": 336,
+            "basin": 14117,
+            "flow": 90,
+            "mounth": "Kaliningrad"
+        },
+        {
+            "id": "river:PREGOLYA_<-_ANGRAPA_<-_GOŁDAPA",
+            "name": "Pregolya <- Angrapa <- Gołdapa",
+            "length": 310,
+            "basin": 14117,
+            "flow": 90,
+            "mounth": "Kaliningrad"
+        },
+        {
+            "id": "river:ŁYNA/ALNA/LAVA",
+            "name": "Łyna/Alna/Lava",
+            "length": 264,
+            "basin": 7020,
+            "flow": 40,
+            "mounth": "Znamensk"
+        },
+        {
+            "id": "river:VISTULA_<-_BUGONAREW_<-_WESTERN_BUG",
+            "name": "Vistula <- Bugonarew <- Western Bug",
+            "length": 1211,
+            "basin": 192632,
+            "flow": 1080,
+            "mounth": "Gdańsk"
+        },
+        {
+            "id": "river:VISTULA",
+            "name": "Vistula",
+            "length": 1047,
+            "basin": 192632,
+            "flow": 1080,
+            "mounth": "Gdańsk"
+        },
+        {
+            "id": "river:BUGONAREW_<-_WESTERN_BUG",
+            "name": "Bugonarew <- Western Bug",
+            "length": 810,
+            "basin": 74714,
+            "flow": 328,
+            "mounth": "Nowy Dwór Mazowiecki"
+        },
+        {
+            "id": "river:WKRA",
+            "name": "Wkra",
+            "length": 249,
+            "basin": 5322,
+            "flow": 20,
+            "mounth": "Nowy Dwór Mazowiecki"
+        },
+        {
+            "id": "river:NAREW",
+            "name": "Narew",
+            "length": 446,
+            "basin": 28645,
+            "flow": 146,
+            "mounth": "Serock"
+        },
+        {
+            "id": "river:WESTERN_BUG",
+            "name": "Western Bug",
+            "length": 772,
+            "basin": 38676,
+            "flow": 158,
+            "mounth": "Serock"
+        },
+        {
+            "id": "river:PILICA",
+            "name": "Pilica",
+            "length": 319,
+            "basin": 9138,
+            "flow": 46,
+            "mounth": "Warka"
+        },
+        {
+            "id": "river:WIEPRZ",
+            "name": "Wieprz",
+            "length": 303,
+            "basin": 10256,
+            "flow": 43,
+            "mounth": "Dęblin"
+        },
+        {
+            "id": "river:SAN",
+            "name": "San",
+            "length": 443,
+            "basin": 16769,
+            "flow": 126,
+            "mounth": "Sandomierz"
+        },
+        {
+            "id": "river:DUNAJEC",
+            "name": "Dunajec",
+            "length": 247,
+            "basin": 6802,
+            "flow": 85,
+            "mounth": "Opatowiec"
+        },
+        {
+            "id": "river:ODER_<-_WARTA",
+            "name": "Oder <- Warta",
+            "length": 1045,
+            "basin": 118791,
+            "flow": 574,
+            "mounth": "Świnoujście"
+        },
+        {
+            "id": "river:ODER",
+            "name": "Oder",
+            "length": 854,
+            "basin": 118791,
+            "flow": 574,
+            "mounth": "Świnoujście"
+        },
+        {
+            "id": "river:WARTA",
+            "name": "Warta",
+            "length": 808,
+            "basin": 55538,
+            "flow": 195,
+            "mounth": "Kostrzyn nad Odrą"
+        },
+        {
+            "id": "river:NOTEĆ",
+            "name": "Noteć",
+            "length": 388,
+            "basin": 17159,
+            "flow": 76,
+            "mounth": "Santok"
+        },
+        {
+            "id": "river:LUSATIAN_NEISSE",
+            "name": "Lusatian Neisse",
+            "length": 255,
+            "basin": 4403,
+            "flow": 31,
+            "mounth": "Neißemünde"
+        },
+        {
+            "id": "river:BÓBR",
+            "name": "Bóbr",
+            "length": 272,
+            "basin": 5943,
+            "flow": 39,
+            "mounth": "Krosno Odrzańskie"
+        },
+        {
+            "id": "river:CLYDE",
+            "name": "Clyde",
+            "length": 176,
+            "basin": 3045,
+            "flow": 83,
+            "mounth": "Glasgow"
+        },
+        {
+            "id": "river:LOWER_BANN_<-_LOUGH_NEAGH_<-_ULSTER_BLACKWATER",
+            "name": "Lower Bann <- Lough Neagh <- Ulster Blackwater",
+            "length": 186,
+            "basin": 5775,
+            "flow": 92,
+            "mounth": "Coleraine"
+        },
+        {
+            "id": "river:SHANNON",
+            "name": "Shannon",
+            "length": 258,
+            "basin": 11773,
+            "flow": 208,
+            "mounth": "Limerick"
+        },
+        {
+            "id": "river:THE_THREE_SISTERS",
+            "name": "The Three Sisters",
+            "length": 192,
+            "basin": 9207,
+            "flow": 157,
+            "mounth": "Waterford"
+        },
+        {
+            "id": "river:MERSEY_<-_TAME",
+            "name": "Mersey <- Tame",
+            "length": 160,
+            "basin": 4312,
+            "flow": 66,
+            "mounth": "Liverpool"
+        },
+        {
+            "id": "river:WYE",
+            "name": "Wye",
+            "length": 215,
+            "basin": 4136,
+            "flow": 80,
+            "mounth": "Chepstow"
+        },
+        {
+            "id": "river:SEVERN",
+            "name": "Severn",
+            "length": 354,
+            "basin": 11420,
+            "flow": 120,
+            "mounth": "Weston-super-Mare"
+        },
+        {
+            "id": "river:SOMME",
+            "name": "Somme",
+            "length": 245,
+            "basin": 6548,
+            "flow": 37,
+            "mounth": "Abbeville"
+        },
+        {
+            "id": "river:SEINE_<-_MARNE",
+            "name": "Seine <- Marne",
+            "length": 875,
+            "basin": 75374,
+            "flow": 560,
+            "mounth": "Le Havre"
+        },
+        {
+            "id": "river:SEINE",
+            "name": "Seine",
+            "length": 777,
+            "basin": 75374,
+            "flow": 560,
+            "mounth": "Le Havre"
+        },
+        {
+            "id": "river:EURE",
+            "name": "Eure",
+            "length": 229,
+            "basin": 6017,
+            "flow": 26,
+            "mounth": "Pont-de-l'Arche"
+        },
+        {
+            "id": "river:OISE_<-_AISNE_<-_AIRE",
+            "name": "Oise <- Aisne <- Aire",
+            "length": 454,
+            "basin": 16783,
+            "flow": 110,
+            "mounth": "Conflans-Sainte-Honorine"
+        },
+        {
+            "id": "river:OISE",
+            "name": "Oise",
+            "length": 341,
+            "basin": 16783,
+            "flow": 110,
+            "mounth": "Conflans-Sainte-Honorine"
+        },
+        {
+            "id": "river:AISNE",
+            "name": "Aisne",
+            "length": 356,
+            "basin": 7939,
+            "flow": 65,
+            "mounth": "Compiègne"
+        },
+        {
+            "id": "river:MARNE",
+            "name": "Marne",
+            "length": 514,
+            "basin": 12783,
+            "flow": 110,
+            "mounth": "Ivry-sur-Seine"
+        },
+        {
+            "id": "river:YONNE",
+            "name": "Yonne",
+            "length": 292,
+            "basin": 10836,
+            "flow": 93,
+            "mounth": "Montereau-Fault-Yonne"
+        },
+        {
+            "id": "river:AUBE",
+            "name": "Aube",
+            "length": 249,
+            "basin": 4595,
+            "flow": 41,
+            "mounth": "Romilly-sur-Seine"
+        },
+        {
+            "id": "river:VILAINE",
+            "name": "Vilaine",
+            "length": 218,
+            "basin": 10459,
+            "flow": 72,
+            "mounth": "Pénestin"
+        },
+        {
+            "id": "river:LOIRE",
+            "name": "Loire",
+            "length": 1006,
+            "basin": 117356,
+            "flow": 889,
+            "mounth": "Saint-Nazaire"
+        },
+        {
+            "id": "river:MAINE_<-_SARTHE_<-_LOIR",
+            "name": "Maine <- Sarthe <- Loir",
+            "length": 338,
+            "basin": 22240,
+            "flow": 127,
+            "mounth": "Angers"
+        },
+        {
+            "id": "river:MAYENNE",
+            "name": "Mayenne",
+            "length": 202,
+            "basin": 5844,
+            "flow": 50,
+            "mounth": "Angers"
+        },
+        {
+            "id": "river:SARTHE",
+            "name": "Sarthe",
+            "length": 314,
+            "basin": 16250,
+            "flow": 82,
+            "mounth": "Angers"
+        },
+        {
+            "id": "river:LOIR",
+            "name": "Loir",
+            "length": 317,
+            "basin": 8294,
+            "flow": 32,
+            "mounth": "Angers"
+        },
+        {
+            "id": "river:VIENNE",
+            "name": "Vienne",
+            "length": 363,
+            "basin": 21161,
+            "flow": 210,
+            "mounth": "Candes-Saint-Martin"
+        },
+        {
+            "id": "river:CREUSE",
+            "name": "Creuse",
+            "length": 264,
+            "basin": 10279,
+            "flow": 85,
+            "mounth": "Châtellerault"
+        },
+        {
+            "id": "river:INDRE",
+            "name": "Indre",
+            "length": 279,
+            "basin": 3428,
+            "flow": 19,
+            "mounth": "Candes-Saint-Martin"
+        },
+        {
+            "id": "river:CHER",
+            "name": "Cher",
+            "length": 368,
+            "basin": 13718,
+            "flow": 96,
+            "mounth": "Villandry"
+        },
+        {
+            "id": "river:ALLIER",
+            "name": "Allier",
+            "length": 421,
+            "basin": 14350,
+            "flow": 144,
+            "mounth": "Nevers"
+        },
+        {
+            "id": "river:CHARENTE",
+            "name": "Charente",
+            "length": 381,
+            "basin": 9855,
+            "flow": 49,
+            "mounth": "Rochefort"
+        },
+        {
+            "id": "river:DORDOGNE",
+            "name": "Dordogne",
+            "length": 483,
+            "basin": 23957,
+            "flow": 380,
+            "mounth": "Bordeaux"
+        },
+        {
+            "id": "river:ISLE",
+            "name": "Isle",
+            "length": 255,
+            "basin": 7558,
+            "flow": 63,
+            "mounth": "Libourne"
+        },
+        {
+            "id": "river:VÉZÈRE",
+            "name": "Vézère",
+            "length": 211,
+            "basin": 3715,
+            "flow": 58,
+            "mounth": "Le Bugue"
+        },
+        {
+            "id": "river:GARONNE_<-_TARN",
+            "name": "Garonne <- Tarn",
+            "length": 610,
+            "basin": 55846,
+            "flow": 650,
+            "mounth": "Bordeaux"
+        },
+        {
+            "id": "river:GARONNE",
+            "name": "Garonne",
+            "length": 575,
+            "basin": 55846,
+            "flow": 650,
+            "mounth": "Bordeaux"
+        },
+        {
+            "id": "river:LOT",
+            "name": "Lot",
+            "length": 485,
+            "basin": 11538,
+            "flow": 155,
+            "mounth": "Aiguillon"
+        },
+        {
+            "id": "river:TARN",
+            "name": "Tarn",
+            "length": 380,
+            "basin": 15586,
+            "flow": 233,
+            "mounth": "Castelsarrasin"
+        },
+        {
+            "id": "river:AVEYRON",
+            "name": "Aveyron",
+            "length": 291,
+            "basin": 5176,
+            "flow": 57,
+            "mounth": "Montauban"
+        },
+        {
+            "id": "river:ARIÈGE",
+            "name": "Ariège",
+            "length": 163,
+            "basin": 4135,
+            "flow": 76,
+            "mounth": "Toulouse"
+        },
+        {
+            "id": "river:ADOUR",
+            "name": "Adour",
+            "length": 308,
+            "basin": 16912,
+            "flow": 360,
+            "mounth": "Bayonne"
+        },
+        {
+            "id": "river:GAVES_RÉUNIS_<-_GAVE_DE_PAU",
+            "name": "Gaves réunis <- Gave de Pau",
+            "length": 193,
+            "basin": 5464,
+            "flow": 82,
+            "mounth": "Peyrehorade"
+        },
+        {
+            "id": "river:MINHO_<-_SIL",
+            "name": "Minho <- Sil",
+            "length": 361,
+            "basin": 16651,
+            "flow": 340,
+            "mounth": "Caminha"
+        },
+        {
+            "id": "river:MINHO",
+            "name": "Minho",
+            "length": 309,
+            "basin": 16651,
+            "flow": 340,
+            "mounth": "Caminha"
+        },
+        {
+            "id": "river:SIL",
+            "name": "Sil",
+            "length": 226,
+            "basin": 7969,
+            "flow": 100,
+            "mounth": "Ourense"
+        },
+        {
+            "id": "river:DOURO",
+            "name": "Douro",
+            "length": 897,
+            "basin": 97290,
+            "flow": 650,
+            "mounth": "Porto"
+        },
+        {
+            "id": "river:TORMES",
+            "name": "Tormes",
+            "length": 247,
+            "basin": 7054,
+            "flow": 42,
+            "mounth": "Bemposta / Villarino"
+        },
+        {
+            "id": "river:ESLA",
+            "name": "Esla",
+            "length": 275,
+            "basin": 16018,
+            "flow": 182,
+            "mounth": "Muelas del Pan"
+        },
+        {
+            "id": "river:PISUERGA",
+            "name": "Pisuerga",
+            "length": 276,
+            "basin": 15665,
+            "flow": 82,
+            "mounth": "Valladolid"
+        },
+        {
+            "id": "river:MONDEGO",
+            "name": "Mondego",
+            "length": 234,
+            "basin": 6656,
+            "flow": 108,
+            "mounth": "Figueira da Foz"
+        },
+        {
+            "id": "river:TAGUS",
+            "name": "Tagus",
+            "length": 1007,
+            "basin": 70756,
+            "flow": 500,
+            "mounth": "Lisbon"
+        },
+        {
+            "id": "river:JARAMA",
+            "name": "Jarama",
+            "length": 194,
+            "basin": 11532,
+            "flow": 32,
+            "mounth": "Aranjuez"
+        },
+        {
+            "id": "river:SADO",
+            "name": "Sado",
+            "length": 180,
+            "basin": 6186,
+            "flow": 40,
+            "mounth": "Setúbal"
+        },
+        {
+            "id": "river:GUADIANA_(<-_CIGÜELA)_<-_ZÁNCARA",
+            "name": "Guadiana (<- Cigüela) <- Záncara",
+            "length": 922,
+            "basin": 67027,
+            "flow": 79,
+            "mounth": "Ayamonte"
+        },
+        {
+            "id": "river:GUADIANA_<-_GUADIANA_ALTO_.",
+            "name": "Guadiana <- Guadiana Alto .",
+            "length": 852,
+            "basin": 67027,
+            "flow": 79,
+            "mounth": "Ayamonte"
+        },
+        {
+            "id": "river:GUADALQUIVIR_<-_GUADIANA_MENOR_<-_GUARDAL_",
+            "name": "Guadalquivir <- Guadiana Menor <- Guardal ",
+            "length": 722,
+            "basin": 57053,
+            "flow": 164,
+            "mounth": "Sanlúcar de Barrameda"
+        },
+        {
+            "id": "river:GENIL",
+            "name": "Genil",
+            "length": 358,
+            "basin": 8257,
+            "flow": 9.3,
+            "mounth": "Palma del Río"
+        },
+        {
+            "id": "river:SEGURA",
+            "name": "Segura",
+            "length": 325,
+            "basin": 16599,
+            "flow": 26,
+            "mounth": "Guardamar del Segura"
+        },
+        {
+            "id": "river:JÚCAR",
+            "name": "Júcar",
+            "length": 498,
+            "basin": 21430,
+            "flow": 49,
+            "mounth": "Cullera"
+        },
+        {
+            "id": "river:TURIA",
+            "name": "Turia",
+            "length": 280,
+            "basin": 6674,
+            "flow": 14,
+            "mounth": "Valencia"
+        },
+        {
+            "id": "river:EBRO",
+            "name": "Ebro",
+            "length": 910,
+            "basin": 84763,
+            "flow": 577,
+            "mounth": "Tortosa"
+        },
+        {
+            "id": "river:SEGRE",
+            "name": "Segre",
+            "length": 265,
+            "basin": 22719,
+            "flow": 100,
+            "mounth": "Mequinenza"
+        },
+        {
+            "id": "river:CINCA",
+            "name": "Cinca",
+            "length": 170,
+            "basin": 9720,
+            "flow": 82,
+            "mounth": "Mequinenza"
+        },
+        {
+            "id": "river:JALÓN_<-_JILOCA",
+            "name": "Jalón <- Jiloca",
+            "length": 224,
+            "basin": 9658,
+            "flow": 21,
+            "mounth": "Torres de Berrellén"
+        },
+        {
+            "id": "river:ARAGÓN",
+            "name": "Aragón",
+            "length": 195,
+            "basin": 8529,
+            "flow": 41,
+            "mounth": "Tudela"
+        },
+        {
+            "id": "river:LLOBREGAT",
+            "name": "Llobregat",
+            "length": 170,
+            "basin": 4948,
+            "flow": 21,
+            "mounth": "Barcelona"
+        },
+        {
+            "id": "river:AUDE",
+            "name": "Aude",
+            "length": 224,
+            "basin": 5327,
+            "flow": 44,
+            "mounth": "Narbonne"
+        },
+        {
+            "id": "river:RHÔNE_<-_SAÔNE_<-_DOUBS",
+            "name": "Rhône <- Saône <- Doubs",
+            "length": 957,
+            "basin": 98131,
+            "flow": 1900,
+            "mounth": "Port-Saint-Louis-du-Rhône"
+        },
+        {
+            "id": "river:RHÔNE",
+            "name": "Rhône",
+            "length": 812,
+            "basin": 98131,
+            "flow": 1900,
+            "mounth": "Port-Saint-Louis-du-Rhône"
+        },
+        {
+            "id": "river:DURANCE",
+            "name": "Durance",
+            "length": 323,
+            "basin": 14342,
+            "flow": 180,
+            "mounth": "Avignon"
+        },
+        {
+            "id": "river:ISÈRE",
+            "name": "Isère",
+            "length": 286,
+            "basin": 11890,
+            "flow": 333,
+            "mounth": "Valence"
+        },
+        {
+            "id": "river:SAÔNE",
+            "name": "Saône",
+            "length": 480,
+            "basin": 29321,
+            "flow": 473,
+            "mounth": "Lyon"
+        },
+        {
+            "id": "river:DOUBS",
+            "name": "Doubs",
+            "length": 453,
+            "basin": 7874,
+            "flow": 176,
+            "mounth": "Verdun-sur-le-Doubs"
+        },
+        {
+            "id": "river:AIN",
+            "name": "Ain",
+            "length": 190,
+            "basin": 3765,
+            "flow": 123,
+            "mounth": "Pont-de-Chéruy"
+        },
+        {
+            "id": "river:ARNO",
+            "name": "Arno",
+            "length": 241,
+            "basin": 8852,
+            "flow": 110,
+            "mounth": "Pisa"
+        },
+        {
+            "id": "river:TIBER",
+            "name": "Tiber",
+            "length": 405,
+            "basin": 16668,
+            "flow": 239,
+            "mounth": "Ostia"
+        },
+        {
+            "id": "river:NERA",
+            "name": "Nera",
+            "length": 116,
+            "basin": 4163,
+            "flow": 168,
+            "mounth": "Orte"
+        },
+        {
+            "id": "river:GARIGLIANO_<-_LIRI",
+            "name": "Garigliano <- Liri",
+            "length": 158,
+            "basin": 4059,
+            "flow": 120,
+            "mounth": "Minturno"
+        },
+        {
+            "id": "river:VOLTURNO",
+            "name": "Volturno",
+            "length": 175,
+            "basin": 5784,
+            "flow": 82,
+            "mounth": "Castel Volturno"
+        },
+        {
+            "id": "river:RENO",
+            "name": "Reno",
+            "length": 212,
+            "basin": 5615,
+            "flow": 95,
+            "mounth": "Comacchio"
+        },
+        {
+            "id": "river:PO_<-_TANARO",
+            "name": "Po <- Tanaro",
+            "length": 702,
+            "basin": 73746,
+            "flow": 1460,
+            "mounth": "Porto Tolle"
+        },
+        {
+            "id": "river:PO",
+            "name": "Po",
+            "length": 652,
+            "basin": 73746,
+            "flow": 1460,
+            "mounth": "Porto Tolle"
+        },
+        {
+            "id": "river:MINCIO_<-_LAKE_GARDA_<-_SARCA",
+            "name": "Mincio <- Lake Garda <- Sarca",
+            "length": 203,
+            "basin": 2977,
+            "flow": 60,
+            "mounth": "Mantua"
+        },
+        {
+            "id": "river:OGLIO_<-_LAKE_ISEO_<-_OGLIO",
+            "name": "Oglio <- Lake Iseo <- Oglio",
+            "length": 280,
+            "basin": 6598,
+            "flow": 130,
+            "mounth": "Mantua"
+        },
+        {
+            "id": "river:ADDA_<-_LAKE_COMO_<-_ADDA",
+            "name": "Adda <- Lake Como <- Adda",
+            "length": 313,
+            "basin": 7842,
+            "flow": 187,
+            "mounth": "Cremona"
+        },
+        {
+            "id": "river:TICINO_<-_LAKE_MAGGIORE_<-_TICINO",
+            "name": "Ticino <- Lake Maggiore <- Ticino",
+            "length": 248,
+            "basin": 8061,
+            "flow": 348,
+            "mounth": "Pavia"
+        },
+        {
+            "id": "river:TANARO_<-_NEGRONE",
+            "name": "Tanaro <- Negrone",
+            "length": 285,
+            "basin": 8182,
+            "flow": 116,
+            "mounth": "Alessandria"
+        },
+        {
+            "id": "river:DORA_BALTEA",
+            "name": "Dora Baltea",
+            "length": 168,
+            "basin": 3921,
+            "flow": 96,
+            "mounth": "Crescentino"
+        },
+        {
+            "id": "river:TARTARO-CANALBIANCO-PO_DI_LEVANTE",
+            "name": "Tartaro-Canalbianco-Po di Levante",
+            "length": 147,
+            "basin": 2885,
+            "flow": 218,
+            "mounth": "Porto Viro"
+        },
+        {
+            "id": "river:ADIGE_<-_EISACK_<-_RIENZ_<-_AHR",
+            "name": "Adige <- Eisack <- Rienz <- Ahr",
+            "length": 436,
+            "basin": 14543,
+            "flow": 235,
+            "mounth": "Chioggia"
+        },
+        {
+            "id": "river:ADIGE_<-_ETSCH_<-_KARLINBACH",
+            "name": "Adige <- Etsch <- Karlinbach",
+            "length": 421,
+            "basin": 14543,
+            "flow": 235,
+            "mounth": "Chioggia"
+        },
+        {
+            "id": "river:BRENTA",
+            "name": "Brenta",
+            "length": 174,
+            "basin": 4811,
+            "flow": 93,
+            "mounth": "Chioggia"
+        },
+        {
+            "id": "river:PIAVE",
+            "name": "Piave",
+            "length": 231,
+            "basin": 4420,
+            "flow": 137,
+            "mounth": "Venice"
+        },
+        {
+            "id": "river:TAGLIAMENTO",
+            "name": "Tagliamento",
+            "length": 170,
+            "basin": 2939,
+            "flow": 92,
+            "mounth": "Lignano"
+        },
+        {
+            "id": "river:ISONZO/SOČA",
+            "name": "Isonzo/Soča",
+            "length": 138,
+            "basin": 3327,
+            "flow": 173,
+            "mounth": "Monfalcone"
+        },
+        {
+            "id": "river:NERETVA",
+            "name": "Neretva",
+            "length": 240,
+            "basin": 10380,
+            "flow": 378,
+            "mounth": "Ploče"
+        },
+        {
+            "id": "river:TREBIŠNJICA",
+            "name": "Trebišnjica",
+            "length": 187,
+            "basin": 4926,
+            "flow": 114,
+            "mounth": "Neum"
+        },
+        {
+            "id": "river:BOJANA/BUNA_<-_DRIN",
+            "name": "Bojana/Buna <- Drin",
+            "length": 384,
+            "basin": 18620,
+            "flow": 672,
+            "mounth": "Ulcinj"
+        },
+        {
+            "id": "river:DRIN_<-_BLACK_DRIN_<-_SATESKA",
+            "name": "Drin <- Black Drin <- Sateska",
+            "length": 343,
+            "basin": 14351,
+            "flow": 352,
+            "mounth": "Lezhë"
+        },
+        {
+            "id": "river:WHITE_DRIN",
+            "name": "White Drin",
+            "length": 136,
+            "basin": 5005,
+            "flow": 66,
+            "mounth": "Kukës"
+        },
+        {
+            "id": "river:MORAČA",
+            "name": "Morača",
+            "length": 100,
+            "basin": 2820,
+            "flow": 156,
+            "mounth": "Žabljak Crnojevića"
+        },
+        {
+            "id": "river:SHKUMBIN",
+            "name": "Shkumbin",
+            "length": 181,
+            "basin": 2922,
+            "flow": 62,
+            "mounth": "Lushnjë"
+        },
+        {
+            "id": "river:SEMAN_<-_DEVOLL",
+            "name": "Seman <- Devoll",
+            "length": 281,
+            "basin": 6124,
+            "flow": 96,
+            "mounth": "Fier"
+        },
+        {
+            "id": "river:AOÖS/VJOSË",
+            "name": "Aoös/Vjosë",
+            "length": 272,
+            "basin": 6777,
+            "flow": 204,
+            "mounth": "Vlorë"
+        },
+        {
+            "id": "river:ACHELOUS",
+            "name": "Achelous",
+            "length": 220,
+            "basin": 5662,
+            "flow": 137,
+            "mounth": "Astakos"
+        },
+        {
+            "id": "river:PINEIOS_(THESSALY)",
+            "name": "Pineios (Thessaly)",
+            "length": 216,
+            "basin": 9301,
+            "flow": 81,
+            "mounth": "Larissa"
+        },
+        {
+            "id": "river:HALIACMON",
+            "name": "Haliacmon",
+            "length": 297,
+            "basin": 8664,
+            "flow": 80,
+            "mounth": "Thessaloniki"
+        },
+        {
+            "id": "river:VARDAR/AXIOS_<-_TRESKA",
+            "name": "Vardar/Axios <- Treska",
+            "length": 393,
+            "basin": 24503,
+            "flow": 170,
+            "mounth": "Thessaloniki"
+        },
+        {
+            "id": "river:VARDAR/AXIOS",
+            "name": "Vardar/Axios",
+            "length": 388,
+            "basin": 24503,
+            "flow": 170,
+            "mounth": "Thessaloniki"
+        },
+        {
+            "id": "river:STRUMA/STRYMON",
+            "name": "Struma/Strymon",
+            "length": 415,
+            "basin": 16801,
+            "flow": 76,
+            "mounth": "Amphipolis"
+        },
+        {
+            "id": "river:NESTOS/MESTA",
+            "name": "Nestos/Mesta",
+            "length": 243,
+            "basin": 5864,
+            "flow": 45,
+            "mounth": "Thasos"
+        },
+        {
+            "id": "river:MARITSA/MERIÇ/EVROS",
+            "name": "Maritsa/Meriç/Evros",
+            "length": 515,
+            "basin": 53475,
+            "flow": 383,
+            "mounth": "Alexandroupoli"
+        },
+        {
+            "id": "river:ERGENE",
+            "name": "Ergene",
+            "length": 281,
+            "basin": 11016,
+            "flow": 28,
+            "mounth": "İpsala"
+        },
+        {
+            "id": "river:TUNDZHA",
+            "name": "Tundzha",
+            "length": 380,
+            "basin": 8583,
+            "flow": 32,
+            "mounth": "Edirne"
+        },
+        {
+            "id": "river:ARDA",
+            "name": "Arda",
+            "length": 290,
+            "basin": 5623,
+            "flow": 77,
+            "mounth": "Edirne"
+        },
+        {
+            "id": "river:VELEKA",
+            "name": "Veleka",
+            "length": 147,
+            "basin": 995,
+            "flow": 9.4,
+            "mounth": "Sinemorets"
+        },
+        {
+            "id": "river:KAMCHIYA_<-_LUDA_KAMCHIYA",
+            "name": "Kamchiya <- Luda Kamchiya",
+            "length": 254,
+            "basin": 5373,
+            "flow": 26,
+            "mounth": "Varna"
+        },
+        {
+            "id": "river:DANUBE",
+            "name": "Danube",
+            "length": 2857,
+            "basin": 801463,
+            "flow": 6450,
+            "mounth": "Sulina"
+        },
+        {
+            "id": "river:PRUT",
+            "name": "Prut",
+            "length": 953,
+            "basin": 27820,
+            "flow": 105,
+            "mounth": "Giurgiulești"
+        },
+        {
+            "id": "river:JIJIA",
+            "name": "Jijia",
+            "length": 275,
+            "basin": 5757,
+            "flow": 14,
+            "mounth": "Huși"
+        },
+        {
+            "id": "river:SIRET",
+            "name": "Siret",
+            "length": 559,
+            "basin": 45857,
+            "flow": 240,
+            "mounth": "Galați"
+        },
+        {
+            "id": "river:BUZĂU",
+            "name": "Buzău",
+            "length": 325,
+            "basin": 5537,
+            "flow": 29,
+            "mounth": "Galați"
+        },
+        {
+            "id": "river:BISTRIȚA",
+            "name": "Bistrița",
+            "length": 283,
+            "basin": 7018,
+            "flow": 66,
+            "mounth": "Bacău"
+        },
+        {
+            "id": "river:IALOMIȚA",
+            "name": "Ialomița",
+            "length": 417,
+            "basin": 11116,
+            "flow": 40,
+            "mounth": "Hârșova"
+        },
+        {
+            "id": "river:ARGEȘ",
+            "name": "Argeș",
+            "length": 350,
+            "basin": 12652,
+            "flow": 73,
+            "mounth": "Oltenița"
+        },
+        {
+            "id": "river:DÂMBOVIȚA",
+            "name": "Dâmbovița",
+            "length": 245,
+            "basin": 2837,
+            "flow": 26,
+            "mounth": "Budești"
+        },
+        {
+            "id": "river:YANTRA",
+            "name": "Yantra",
+            "length": 285,
+            "basin": 7897,
+            "flow": 47,
+            "mounth": "Svishtov"
+        },
+        {
+            "id": "river:OSAM",
+            "name": "Osam",
+            "length": 314,
+            "basin": 2866,
+            "flow": 16,
+            "mounth": "Nikopol"
+        },
+        {
+            "id": "river:OLT",
+            "name": "Olt",
+            "length": 615,
+            "basin": 24130,
+            "flow": 174,
+            "mounth": "Turnu Măgurele"
+        },
+        {
+            "id": "river:ISKAR",
+            "name": "Iskar",
+            "length": 368,
+            "basin": 8511,
+            "flow": 54,
+            "mounth": "Gigen"
+        },
+        {
+            "id": "river:JIU",
+            "name": "Jiu",
+            "length": 339,
+            "basin": 10157,
+            "flow": 86,
+            "mounth": "Bechet"
+        },
+        {
+            "id": "river:GREAT_MORAVA_<-_WEST_MORAVA_<-_IBAR",
+            "name": "Great Morava <- West Morava <- Ibar",
+            "length": 550,
+            "basin": 37709,
+            "flow": 232,
+            "mounth": "Smederevo"
+        },
+        {
+            "id": "river:SOUTH_MORAVA",
+            "name": "South Morava",
+            "length": 295,
+            "basin": 15550,
+            "flow": 100,
+            "mounth": "Kruševac"
+        },
+        {
+            "id": "river:WEST_MORAVA",
+            "name": "West Morava",
+            "length": 308,
+            "basin": 15710,
+            "flow": 120,
+            "mounth": "Kruševac"
+        },
+        {
+            "id": "river:IBAR",
+            "name": "Ibar",
+            "length": 276,
+            "basin": 7914,
+            "flow": 60,
+            "mounth": "Kraljevo"
+        },
+        {
+            "id": "river:TIMIŠ/TAMIS",
+            "name": "Timiš/Tamis",
+            "length": 359,
+            "basin": 10495,
+            "flow": 47,
+            "mounth": "Pančevo"
+        },
+        {
+            "id": "river:SAVA_<-_SAVA_DOLINKA",
+            "name": "Sava <- Sava Dolinka",
+            "length": 945,
+            "basin": 94613,
+            "flow": 1609,
+            "mounth": "Belgrade"
+        },
+        {
+            "id": "river:DRINA_<-_TARA",
+            "name": "Drina <- Tara",
+            "length": 486,
+            "basin": 19650,
+            "flow": 370,
+            "mounth": "Bijeljina"
+        },
+        {
+            "id": "river:LIM",
+            "name": "Lim",
+            "length": 220,
+            "basin": 6797,
+            "flow": 96,
+            "mounth": "Višegrad"
+        },
+        {
+            "id": "river:BOSNA",
+            "name": "Bosna",
+            "length": 271,
+            "basin": 10490,
+            "flow": 174,
+            "mounth": "Bosanski Šamac"
+        },
+        {
+            "id": "river:VRBAS",
+            "name": "Vrbas",
+            "length": 235,
+            "basin": 6501,
+            "flow": 132,
+            "mounth": "Srbac"
+        },
+        {
+            "id": "river:UNA",
+            "name": "Una",
+            "length": 214,
+            "basin": 9657,
+            "flow": 220,
+            "mounth": "Jasenovac"
+        },
+        {
+            "id": "river:KUPA/KOLPA",
+            "name": "Kupa/Kolpa",
+            "length": 297,
+            "basin": 10194,
+            "flow": 201,
+            "mounth": "Sisak"
+        },
+        {
+            "id": "river:TISZA_<-_SOMEȘ",
+            "name": "Tisza <- Someș",
+            "length": 1111,
+            "basin": 154073,
+            "flow": 863,
+            "mounth": "Titel"
+        },
+        {
+            "id": "river:TISZA",
+            "name": "Tisza",
+            "length": 966,
+            "basin": 154073,
+            "flow": 863,
+            "mounth": "Titel"
+        },
+        {
+            "id": "river:BEGA",
+            "name": "Bega",
+            "length": 256,
+            "basin": 6250,
+            "flow": 13,
+            "mounth": "Titel"
+        },
+        {
+            "id": "river:MUREȘ/MAROS",
+            "name": "Mureș/Maros",
+            "length": 789,
+            "basin": 30190,
+            "flow": 190,
+            "mounth": "Szeged"
+        },
+        {
+            "id": "river:TÂRNAVA_<-_TÂRNAVA_MARE",
+            "name": "Târnava <- Târnava Mare",
+            "length": 249,
+            "basin": 6236,
+            "flow": 15,
+            "mounth": "Teiuș"
+        },
+        {
+            "id": "river:KÖRÖS_<-_CRIȘUL_ALB",
+            "name": "Körös <- Crișul Alb",
+            "length": 365,
+            "basin": 27123,
+            "flow": 100,
+            "mounth": "Csongrád"
+        },
+        {
+            "id": "river:SAJÓ_/_SLANÁ_<-_HORNÁD",
+            "name": "Sajó / Slaná <- Hornád",
+            "length": 314,
+            "basin": 12870,
+            "flow": 70,
+            "mounth": "Tiszaújváros"
+        },
+        {
+            "id": "river:HERNÁD_/_HORNÁD",
+            "name": "Hernád / Hornád",
+            "length": 286,
+            "basin": 5414,
+            "flow": 31,
+            "mounth": "Miskolc"
+        },
+        {
+            "id": "river:BODROG_<-_LATORICA",
+            "name": "Bodrog <- Latorica",
+            "length": 255,
+            "basin": 13579,
+            "flow": 115,
+            "mounth": "Tokaj"
+        },
+        {
+            "id": "river:SZAMOS_/_SOMEȘ",
+            "name": "Szamos / Someș",
+            "length": 415,
+            "basin": 16046,
+            "flow": 132,
+            "mounth": "Vásárosnamény"
+        },
+        {
+            "id": "river:DRAVA/DRAU_<-_ISEL_<-_SCHWARZACH_",
+            "name": "Drava/Drau <- Isel <- Schwarzach ",
+            "length": 728,
+            "basin": 40154,
+            "flow": 577,
+            "mounth": "Osijek"
+        },
+        {
+            "id": "river:MUR",
+            "name": "Mur",
+            "length": 453,
+            "basin": 14108,
+            "flow": 166,
+            "mounth": "Legrad"
+        },
+        {
+            "id": "river:SIÓ_<-_LAKE_BALATON_<-_ZALA_SYSTEM",
+            "name": "Sió <- Lake Balaton <- Zala system",
+            "length": 330,
+            "basin": 14890,
+            "flow": 39,
+            "mounth": "Szekszárd"
+        },
+        {
+            "id": "river:HRON",
+            "name": "Hron",
+            "length": 298,
+            "basin": 5441,
+            "flow": 54,
+            "mounth": "Esztergom"
+        },
+        {
+            "id": "river:VÁH",
+            "name": "Váh",
+            "length": 398,
+            "basin": 19484,
+            "flow": 194,
+            "mounth": "Komárno"
+        },
+        {
+            "id": "river:RÁBA/RAAB",
+            "name": "Rába/Raab",
+            "length": 311,
+            "basin": 10401,
+            "flow": 80,
+            "mounth": "Győr"
+        },
+        {
+            "id": "river:LEITHA_<-_SCHWARZA",
+            "name": "Leitha <- Schwarza",
+            "length": 258,
+            "basin": 2138,
+            "flow": 8.2,
+            "mounth": "Mosonmagyaróvár"
+        },
+        {
+            "id": "river:MORAVA_<-_THAYA_<-_AUSTRIAN_THAYA",
+            "name": "Morava <- Thaya <- Austrian Thaya",
+            "length": 402,
+            "basin": 26734,
+            "flow": 110,
+            "mounth": "Bratislava-Devin"
+        },
+        {
+            "id": "river:MORAVA",
+            "name": "Morava",
+            "length": 352,
+            "basin": 26734,
+            "flow": 110,
+            "mounth": "Bratislava-Devin"
+        },
+        {
+            "id": "river:THAYA_<-_AUSTRIAN_THAYA",
+            "name": "Thaya <- Austrian Thaya",
+            "length": 311,
+            "basin": 13419,
+            "flow": 44,
+            "mounth": "Hohenau"
+        },
+        {
+            "id": "river:ENNS",
+            "name": "Enns",
+            "length": 254,
+            "basin": 6084,
+            "flow": 200,
+            "mounth": "Enns"
+        },
+        {
+            "id": "river:TRAUN",
+            "name": "Traun",
+            "length": 153,
+            "basin": 4277,
+            "flow": 150,
+            "mounth": "Linz"
+        },
+        {
+            "id": "river:INN_<-_AUA_DA_FEDOZ",
+            "name": "Inn <- Aua da Fedoz",
+            "length": 522,
+            "basin": 26053,
+            "flow": 735,
+            "mounth": "Passau"
+        },
+        {
+            "id": "river:SALZACH_<-_KRIMMLER_ACHE",
+            "name": "Salzach <- Krimmler Ache",
+            "length": 232,
+            "basin": 6829,
+            "flow": 252,
+            "mounth": "Haiming"
+        },
+        {
+            "id": "river:ISAR_<-_LEUTASCHER_ACHE",
+            "name": "Isar <- Leutascher Ache",
+            "length": 295,
+            "basin": 8962,
+            "flow": 175,
+            "mounth": "Deggendorf"
+        },
+        {
+            "id": "river:LECH",
+            "name": "Lech",
+            "length": 264,
+            "basin": 4125,
+            "flow": 115,
+            "mounth": "Donauwörth"
+        },
+        {
+            "id": "river:ILLER_<-_BREITACH_<-_TURABACH",
+            "name": "Iller <- Breitach <- Turabach",
+            "length": 170,
+            "basin": 2147,
+            "flow": 70,
+            "mounth": "Ulm"
+        },
+        {
+            "id": "river:COGÂLNIC",
+            "name": "Cogâlnic",
+            "length": 243,
+            "basin": 5388,
+            "flow": 6.5,
+            "mounth": "Tatarbunary"
+        },
+        {
+            "id": "river:DNIESTER/NISTRU",
+            "name": "Dniester/Nistru",
+            "length": 1362,
+            "basin": 73158,
+            "flow": 313,
+            "mounth": "Bilhorod-Dnistrovskyi"
+        },
+        {
+            "id": "river:RĂUT",
+            "name": "Răut",
+            "length": 286,
+            "basin": 7761,
+            "flow": 5.7,
+            "mounth": "Dubăsari"
+        },
+        {
+            "id": "river:ZBRUCH",
+            "name": "Zbruch",
+            "length": 247,
+            "basin": 3365,
+            "flow": 7,
+            "mounth": "Khotyn"
+        },
+        {
+            "id": "river:SOUTHERN_BUG",
+            "name": "Southern Bug",
+            "length": 806,
+            "basin": 63569,
+            "flow": 160,
+            "mounth": "Mykolaiv"
+        },
+        {
+            "id": "river:INHUL",
+            "name": "Inhul",
+            "length": 354,
+            "basin": 9773,
+            "flow": 8.8,
+            "mounth": "Mykolayiv"
+        },
+        {
+            "id": "river:SYNIUKHA_<-_HNYLYI_TIKYCH_<-_HIRSKYI_TIKYCH",
+            "name": "Syniukha <- Hnylyi Tikych <- Hirskyi Tikych",
+            "length": 283,
+            "basin": 16640,
+            "flow": 29,
+            "mounth": "Pervomaisk"
+        },
+        {
+            "id": "river:DNIEPER",
+            "name": "Dnieper",
+            "length": 2201,
+            "basin": 509824,
+            "flow": 1700,
+            "mounth": "Kherson"
+        },
+        {
+            "id": "river:INHULETS",
+            "name": "Inhulets",
+            "length": 549,
+            "basin": 14487,
+            "flow": 0.3,
+            "mounth": "Kropyvnytskyi"
+        },
+        {
+            "id": "river:SAMARA_<-_VOVCHA",
+            "name": "Samara <- Vovcha",
+            "length": 421,
+            "basin": 22734,
+            "flow": 20,
+            "mounth": "Dnipro"
+        },
+        {
+            "id": "river:SAMARA",
+            "name": "Samara",
+            "length": 320,
+            "basin": 22734,
+            "flow": 20,
+            "mounth": "Dnipro"
+        },
+        {
+            "id": "river:VOVCHA",
+            "name": "Vovcha",
+            "length": 323,
+            "basin": 13035,
+            "flow": 5.3,
+            "mounth": "Pavlohrad"
+        },
+        {
+            "id": "river:ORIL",
+            "name": "Oril",
+            "length": 346,
+            "basin": 10093,
+            "flow": 13,
+            "mounth": "Dnipro"
+        },
+        {
+            "id": "river:VORSKLA",
+            "name": "Vorskla",
+            "length": 452,
+            "basin": 14511,
+            "flow": 36,
+            "mounth": "Verkhn'odniprovs'k"
+        },
+        {
+            "id": "river:PSEL",
+            "name": "Psel",
+            "length": 717,
+            "basin": 22782,
+            "flow": 55,
+            "mounth": "Kremenchuk"
+        },
+        {
+            "id": "river:KHOROL",
+            "name": "Khorol",
+            "length": 308,
+            "basin": 4039,
+            "flow": 3.6,
+            "mounth": null
+        },
+        {
+            "id": "river:SULA_<-_UDAY",
+            "name": "Sula <- Uday",
+            "length": 447,
+            "basin": 19218,
+            "flow": 29,
+            "mounth": "Kremenchuk"
+        },
+        {
+            "id": "river:SULA",
+            "name": "Sula",
+            "length": 363,
+            "basin": 19218,
+            "flow": 29,
+            "mounth": "Kremenchuk"
+        },
+        {
+            "id": "river:UDAY",
+            "name": "Uday",
+            "length": 327,
+            "basin": 6995,
+            "flow": 9.4,
+            "mounth": "Lubny"
+        },
+        {
+            "id": "river:ROS",
+            "name": "Ros",
+            "length": 346,
+            "basin": 12581,
+            "flow": 27,
+            "mounth": "Kaniv"
+        },
+        {
+            "id": "river:DESNA",
+            "name": "Desna",
+            "length": 1130,
+            "basin": 88490,
+            "flow": 360,
+            "mounth": "Kyiv"
+        },
+        {
+            "id": "river:SNOV",
+            "name": "Snov",
+            "length": 253,
+            "basin": 8265,
+            "flow": 24,
+            "mounth": null
+        },
+        {
+            "id": "river:SEYM",
+            "name": "Seym",
+            "length": 748,
+            "basin": 27895,
+            "flow": 100,
+            "mounth": "Sosnytsia"
+        },
+        {
+            "id": "river:TETERIV",
+            "name": "Teteriv",
+            "length": 385,
+            "basin": 15213,
+            "flow": 18,
+            "mounth": "Chernobyl"
+        },
+        {
+            "id": "river:PRIPYAT_<-_HORYN",
+            "name": "Pripyat <- Horyn",
+            "length": 1052,
+            "basin": 119911,
+            "flow": 460,
+            "mounth": "Chernobyl"
+        },
+        {
+            "id": "river:PRIPYAT",
+            "name": "Pripyat",
+            "length": 761,
+            "basin": 119911,
+            "flow": 460,
+            "mounth": "Chernobyl"
+        },
+        {
+            "id": "river:UZH",
+            "name": "Uzh",
+            "length": 256,
+            "basin": 8129,
+            "flow": 25,
+            "mounth": "Chernobyl"
+        },
+        {
+            "id": "river:PTSICH",
+            "name": "Ptsich",
+            "length": 421,
+            "basin": 9516,
+            "flow": 48,
+            "mounth": "Mazyr"
+        },
+        {
+            "id": "river:UBORT",
+            "name": "Ubort",
+            "length": 292,
+            "basin": 5504,
+            "flow": 23,
+            "mounth": "Pyetrykaw"
+        },
+        {
+            "id": "river:HORYN",
+            "name": "Horyn",
+            "length": 659,
+            "basin": 27065,
+            "flow": 90,
+            "mounth": "Davyd-Haradok"
+        },
+        {
+            "id": "river:SOUTHERN_SLUCH",
+            "name": "Southern Sluch",
+            "length": 451,
+            "basin": 13675,
+            "flow": 45,
+            "mounth": "Zviahel"
+        },
+        {
+            "id": "river:STYR",
+            "name": "Styr",
+            "length": 494,
+            "basin": 12999,
+            "flow": 45,
+            "mounth": "Pinsk"
+        },
+        {
+            "id": "river:SOZH",
+            "name": "Sozh",
+            "length": 648,
+            "basin": 42199,
+            "flow": 207,
+            "mounth": "Loyew"
+        },
+        {
+            "id": "river:IPUT",
+            "name": "Iput",
+            "length": 437,
+            "basin": 10789,
+            "flow": 83,
+            "mounth": "Gomel"
+        },
+        {
+            "id": "river:BESED",
+            "name": "Besed",
+            "length": 261,
+            "basin": 5537,
+            "flow": 28,
+            "mounth": null
+        },
+        {
+            "id": "river:OSTYOR",
+            "name": "Ostyor",
+            "length": 274,
+            "basin": 3382,
+            "flow": 21,
+            "mounth": "Krychaw"
+        },
+        {
+            "id": "river:BEREZINA",
+            "name": "Berezina",
+            "length": 613,
+            "basin": 24895,
+            "flow": 145,
+            "mounth": "Rechytsa"
+        },
+        {
+            "id": "river:SVISLACH",
+            "name": "Svislach",
+            "length": 327,
+            "basin": 5190,
+            "flow": 30,
+            "mounth": "Asipovichy"
+        },
+        {
+            "id": "river:DRUT",
+            "name": "Drut",
+            "length": 295,
+            "basin": 4952,
+            "flow": 30,
+            "mounth": "Rahachow"
+        },
+        {
+            "id": "river:MIUS",
+            "name": "Mius",
+            "length": 258,
+            "basin": 7059,
+            "flow": 12,
+            "mounth": "Taganrog"
+        },
+        {
+            "id": "river:DON_<-_VORONEZH_<-_POLNOY_VORONEZH",
+            "name": "Don <- Voronezh <- Polnoy Voronezh",
+            "length": 1923,
+            "basin": 437308,
+            "flow": 890,
+            "mounth": "Azov"
+        },
+        {
+            "id": "river:DON",
+            "name": "Don",
+            "length": 1870,
+            "basin": 437308,
+            "flow": 890,
+            "mounth": "Azov"
+        },
+        {
+            "id": "river:MANYCH_<-_KALAUS_<-_BOLSHOY_YANKUL",
+            "name": "Manych <- Kalaus <- Bolshoy Yankul",
+            "length": 863,
+            "basin": 49977,
+            "flow": 16,
+            "mounth": "Rostov-on-Don"
+        },
+        {
+            "id": "river:YEGORLYK",
+            "name": "Yegorlyk",
+            "length": 448,
+            "basin": 14972,
+            "flow": 38,
+            "mounth": "Salsk"
+        },
+        {
+            "id": "river:SAL",
+            "name": "Sal",
+            "length": 798,
+            "basin": 20932,
+            "flow": 15,
+            "mounth": "Semikarakorsk"
+        },
+        {
+            "id": "river:DONETS",
+            "name": "Donets",
+            "length": 1053,
+            "basin": 98720,
+            "flow": 159,
+            "mounth": "Semikarakorsk"
+        },
+        {
+            "id": "river:KALITVA_",
+            "name": "Kalitva ",
+            "length": 308,
+            "basin": 10543,
+            "flow": null,
+            "mounth": "Belaya Kalitva"
+        },
+        {
+            "id": "river:AIDAR",
+            "name": "Aidar",
+            "length": 264,
+            "basin": 7390,
+            "flow": 15,
+            "mounth": "Shchastia"
+        },
+        {
+            "id": "river:OSKIL/OSKOL",
+            "name": "Oskil/Oskol",
+            "length": 472,
+            "basin": 14818,
+            "flow": 44,
+            "mounth": "Izium"
+        },
+        {
+            "id": "river:CHIR",
+            "name": "Chir",
+            "length": 317,
+            "basin": 10580,
+            "flow": 13,
+            "mounth": null
+        },
+        {
+            "id": "river:ILOVLYA",
+            "name": "Ilovlya",
+            "length": 358,
+            "basin": 9377,
+            "flow": 9.8,
+            "mounth": null
+        },
+        {
+            "id": "river:MEDVEDITSA_<-_MALAYA_MEDVEDITSA",
+            "name": "Medveditsa <- Malaya Medveditsa",
+            "length": 748,
+            "basin": 34914,
+            "flow": 69,
+            "mounth": "Serafimovitch"
+        },
+        {
+            "id": "river:TERSA_<-_YELAN_",
+            "name": "Tersa <- Yelan ",
+            "length": 326,
+            "basin": 8807,
+            "flow": 5.6,
+            "mounth": null
+        },
+        {
+            "id": "river:KHOPYOR_<-_SERDOBA_",
+            "name": "Khopyor <- Serdoba ",
+            "length": 1011,
+            "basin": 61052,
+            "flow": 150,
+            "mounth": "Bukanovskaya"
+        },
+        {
+            "id": "river:BUZULUK",
+            "name": "Buzuluk",
+            "length": 314,
+            "basin": 9465,
+            "flow": 13,
+            "mounth": null
+        },
+        {
+            "id": "river:SAVALA",
+            "name": "Savala",
+            "length": 285,
+            "basin": 7585,
+            "flow": 20,
+            "mounth": "Novokhopyorsk"
+        },
+        {
+            "id": "river:VORONA_<-_CHEMBAR",
+            "name": "Vorona <- Chembar",
+            "length": 511,
+            "basin": 13229,
+            "flow": 42,
+            "mounth": "Borisoglebsk"
+        },
+        {
+            "id": "river:BITYUG",
+            "name": "Bityug",
+            "length": 379,
+            "basin": 8818,
+            "flow": 18,
+            "mounth": "Pavlovsk"
+        },
+        {
+            "id": "river:VORONEZH_<-_POLNOY_VORONEZH",
+            "name": "Voronezh <- Polnoy Voronezh",
+            "length": 520,
+            "basin": 21286,
+            "flow": 71,
+            "mounth": "Voronezh"
+        },
+        {
+            "id": "river:BYSTRAYA_SOSNA",
+            "name": "Bystraya Sosna",
+            "length": 296,
+            "basin": 13012,
+            "flow": 74,
+            "mounth": "Yelets"
+        },
+        {
+            "id": "river:YEYA",
+            "name": "Yeya",
+            "length": 313,
+            "basin": 9191,
+            "flow": 2.5,
+            "mounth": "Yeysk"
+        },
+        {
+            "id": "river:CHELBAS_",
+            "name": "Chelbas ",
+            "length": 288,
+            "basin": 4911,
+            "flow": 2.4,
+            "mounth": "Primorsko-Akhtarsk"
+        },
+        {
+            "id": "river:KUBAN",
+            "name": "Kuban",
+            "length": 906,
+            "basin": 52399,
+            "flow": 430,
+            "mounth": "Temryuk"
+        },
+        {
+            "id": "river:PSHISH_<-_BOLSHOY_PSHISH",
+            "name": "Pshish <- Bolshoy Pshish",
+            "length": 270,
+            "basin": 1927,
+            "flow": 25,
+            "mounth": "Ryazanskaya"
+        },
+        {
+            "id": "river:BELAYA",
+            "name": "Belaya",
+            "length": 265,
+            "basin": 6054,
+            "flow": null,
+            "mounth": null
+        },
+        {
+            "id": "river:LABA_<-_BOLSHAYA_LABA",
+            "name": "Laba <- Bolshaya Laba",
+            "length": 347,
+            "basin": 12664,
+            "flow": 96,
+            "mounth": "Ust-Labinsk"
+        },
+        {
+            "id": "river:KODORI",
+            "name": "Kodori",
+            "length": 105,
+            "basin": 2087,
+            "flow": 144,
+            "mounth": "Adzyubzha"
+        },
+        {
+            "id": "river:ENGURI",
+            "name": "Enguri",
+            "length": 213,
+            "basin": 4052,
+            "flow": 170,
+            "mounth": "Anaklia"
+        },
+        {
+            "id": "river:RIONI",
+            "name": "Rioni",
+            "length": 327,
+            "basin": 13511,
+            "flow": 424,
+            "mounth": "Poti"
+        },
+        {
+            "id": "river:CHOROKHI/ÇORUH",
+            "name": "Chorokhi/Çoruh",
+            "length": 438,
+            "basin": 22011,
+            "flow": 278,
+            "mounth": "Batumi"
+        },
+        {
+            "id": "river:KUR/KURA/MTKVARI",
+            "name": "Kur/Kura/Mtkvari",
+            "length": 1364,
+            "basin": 188378,
+            "flow": 448,
+            "mounth": "Neftçala"
+        },
+        {
+            "id": "river:ARAS/ARAKS",
+            "name": "Aras/Araks",
+            "length": 1072,
+            "basin": 102000,
+            "flow": 141,
+            "mounth": "Sabirabad"
+        },
+        {
+            "id": "river:ALAZANI",
+            "name": "Alazani",
+            "length": 391,
+            "basin": 11717,
+            "flow": 110,
+            "mounth": null
+        },
+        {
+            "id": "river:IORI",
+            "name": "Iori",
+            "length": 320,
+            "basin": 4897,
+            "flow": 15,
+            "mounth": "Burunqovaq"
+        },
+        {
+            "id": "river:SAMUR",
+            "name": "Samur",
+            "length": 213,
+            "basin": 6777,
+            "flow": 75,
+            "mounth": "Derbent"
+        },
+        {
+            "id": "river:SULAK_<-_ANDI_KOYSU_<-_TUSHETIS_ALAZANI",
+            "name": "Sulak <- Andi Koysu <- Tushetis Alazani",
+            "length": 361,
+            "basin": 14085,
+            "flow": 176,
+            "mounth": "Makhachkala"
+        },
+        {
+            "id": "river:TEREK",
+            "name": "Terek",
+            "length": 623,
+            "basin": 42927,
+            "flow": 305,
+            "mounth": "Kizlyar"
+        },
+        {
+            "id": "river:SUNZHA",
+            "name": "Sunzha",
+            "length": 278,
+            "basin": 12153,
+            "flow": 85,
+            "mounth": "Gudermes"
+        },
+        {
+            "id": "river:MALKA",
+            "name": "Malka",
+            "length": 210,
+            "basin": 10163,
+            "flow": 98,
+            "mounth": "Prokhladny"
+        },
+        {
+            "id": "river:KUMA",
+            "name": "Kuma",
+            "length": 802,
+            "basin": 33500,
+            "flow": 11,
+            "mounth": "Lagan"
+        },
+        {
+            "id": "river:VOLGA_<-_OKA_<-_UPA_<-_UPERTA",
+            "name": "Volga <- Oka <- Upa <- Uperta",
+            "length": 3790,
+            "basin": 1432506,
+            "flow": 8087,
+            "mounth": "Astrakhan"
+        },
+        {
+            "id": "river:VOLGA_<-_KUYBYSHEV_RESERVOIR_<-_KAMA",
+            "name": "Volga <- Kuybyshev Reservoir <- Kama",
+            "length": 3771,
+            "basin": 1432506,
+            "flow": 8087,
+            "mounth": "Astrakhan"
+        },
+        {
+            "id": "river:VOLGA",
+            "name": "Volga",
+            "length": 3530,
+            "basin": 1432506,
+            "flow": 8087,
+            "mounth": "Astrakhan"
+        },
+        {
+            "id": "river:AKHTUBA",
+            "name": "Akhtuba",
+            "length": 537,
+            "basin": null,
+            "flow": 153,
+            "mounth": "Astrakhan"
+        },
+        {
+            "id": "river:YERUSLAN",
+            "name": "Yeruslan",
+            "length": 278,
+            "basin": 6196,
+            "flow": null,
+            "mounth": "Kamyshin"
+        },
+        {
+            "id": "river:TERESHKA",
+            "name": "Tereshka",
+            "length": 273,
+            "basin": 9864,
+            "flow": 18,
+            "mounth": "Saratov"
+        },
+        {
+            "id": "river:BOLSHOY_IRGIZ_<-_BOLSHAYA_GLUSHITSA",
+            "name": "Bolshoy Irgiz <- Bolshaya Glushitsa",
+            "length": 679,
+            "basin": 24010,
+            "flow": 23,
+            "mounth": "Volsk"
+        },
+        {
+            "id": "river:MALY_IRGIZ_<-_CHERNAVA",
+            "name": "Maly Irgiz <- Chernava",
+            "length": 262,
+            "basin": 3916,
+            "flow": 6.4,
+            "mounth": null
+        },
+        {
+            "id": "river:CHAPAYEVKA/MOCHA",
+            "name": "Chapayevka/Mocha",
+            "length": 298,
+            "basin": 5126,
+            "flow": 2.5,
+            "mounth": "Novokuybyshevsk"
+        },
+        {
+            "id": "river:SAMARA",
+            "name": "Samara",
+            "length": 594,
+            "basin": 46454,
+            "flow": 46,
+            "mounth": "Samara"
+        },
+        {
+            "id": "river:BOLSHOY_KINEL",
+            "name": "Bolshoy Kinel",
+            "length": 436,
+            "basin": 14929,
+            "flow": 34,
+            "mounth": "Kinel"
+        },
+        {
+            "id": "river:TOK_-_BITKUL",
+            "name": "Tok - Bitkul",
+            "length": 312,
+            "basin": 5897,
+            "flow": 13,
+            "mounth": "Buzuluk"
+        },
+        {
+            "id": "river:SOK",
+            "name": "Sok",
+            "length": 363,
+            "basin": 11455,
+            "flow": 33,
+            "mounth": "Samara"
+        },
+        {
+            "id": "river:KONDURCHA",
+            "name": "Kondurcha",
+            "length": 294,
+            "basin": 4327,
+            "flow": 9.4,
+            "mounth": null
+        },
+        {
+            "id": "river:BOLSHOY_CHEREMSHAN",
+            "name": "Bolshoy Cheremshan",
+            "length": 336,
+            "basin": 11806,
+            "flow": 35,
+            "mounth": "Dimitrovgrad"
+        },
+        {
+            "id": "river:KAMA",
+            "name": "Kama",
+            "length": 1967,
+            "basin": 523324,
+            "flow": 3800,
+            "mounth": null
+        },
+        {
+            "id": "river:SHESHMA_<-_LESNAYA_SHESHMA",
+            "name": "Sheshma <- Lesnaya Sheshma",
+            "length": 268,
+            "basin": 6196,
+            "flow": 11,
+            "mounth": "Starosheshminsk"
+        },
+        {
+            "id": "river:VYATKA_<-_BELAYA",
+            "name": "Vyatka <- Belaya",
+            "length": 1318,
+            "basin": 128713,
+            "flow": 890,
+            "mounth": "Nizhnekamsk"
+        },
+        {
+            "id": "river:KILMEZ_<-_UT_",
+            "name": "Kilmez <- Ut ",
+            "length": 295,
+            "basin": 17160,
+            "flow": 85,
+            "mounth": "Ust-Kilmez"
+        },
+        {
+            "id": "river:PIZHMA",
+            "name": "Pizhma",
+            "length": 305,
+            "basin": 14981,
+            "flow": 90,
+            "mounth": "Sovetsk"
+        },
+        {
+            "id": "river:MOLOMA_<-_PALOMKA",
+            "name": "Moloma <- Palomka",
+            "length": 435,
+            "basin": 12399,
+            "flow": 48,
+            "mounth": "Kotelnich"
+        },
+        {
+            "id": "river:CHEPTSA_<-_LOZA",
+            "name": "Cheptsa <- Loza",
+            "length": 526,
+            "basin": 20230,
+            "flow": 130,
+            "mounth": "Kirovo-Chepetsk"
+        },
+        {
+            "id": "river:LETKA",
+            "name": "Letka",
+            "length": 260,
+            "basin": 3633,
+            "flow": 21,
+            "mounth": null
+        },
+        {
+            "id": "river:KOBRA_",
+            "name": "Kobra ",
+            "length": 324,
+            "basin": 7824,
+            "flow": 55,
+            "mounth": "Nagorsk"
+        },
+        {
+            "id": "river:IK",
+            "name": "Ik",
+            "length": 571,
+            "basin": 17934,
+            "flow": 46,
+            "mounth": "Menzelinsk"
+        },
+        {
+            "id": "river:IZH",
+            "name": "Izh",
+            "length": 259,
+            "basin": 8469,
+            "flow": 34,
+            "mounth": null
+        },
+        {
+            "id": "river:BELAYA",
+            "name": "Belaya",
+            "length": 1430,
+            "basin": 141609,
+            "flow": 858,
+            "mounth": "Neftekamsk"
+        },
+        {
+            "id": "river:BYSTRY_TANYP",
+            "name": "Bystry Tanyp",
+            "length": 345,
+            "basin": 7700,
+            "flow": 45,
+            "mounth": null
+        },
+        {
+            "id": "river:DYOMA_<-_TYATEP",
+            "name": "Dyoma <- Tyatep",
+            "length": 556,
+            "basin": 13022,
+            "flow": 35,
+            "mounth": "Ufa"
+        },
+        {
+            "id": "river:UFA_<-_AY",
+            "name": "Ufa <- Ay",
+            "length": 931,
+            "basin": 52747,
+            "flow": 388,
+            "mounth": "Ufa"
+        },
+        {
+            "id": "river:UFA",
+            "name": "Ufa",
+            "length": 918,
+            "basin": 52747,
+            "flow": 388,
+            "mounth": "Ufa"
+        },
+        {
+            "id": "river:YURYUZAN",
+            "name": "Yuryuzan",
+            "length": 404,
+            "basin": 7850,
+            "flow": 55,
+            "mounth": "Karaidel"
+        },
+        {
+            "id": "river:AY",
+            "name": "Ay",
+            "length": 549,
+            "basin": 14825,
+            "flow": 84,
+            "mounth": "Krasnoufimsk"
+        },
+        {
+            "id": "river:SIM_<-_INZER_",
+            "name": "Sim <- Inzer ",
+            "length": 313,
+            "basin": 11629,
+            "flow": 110,
+            "mounth": null
+        },
+        {
+            "id": "river:CHUSOVAYA",
+            "name": "Chusovaya",
+            "length": 592,
+            "basin": 46812,
+            "flow": 222,
+            "mounth": "Perm"
+        },
+        {
+            "id": "river:SYLVA",
+            "name": "Sylva",
+            "length": 493,
+            "basin": 22188,
+            "flow": 139,
+            "mounth": "Perm"
+        },
+        {
+            "id": "river:USVA",
+            "name": "Usva",
+            "length": 266,
+            "basin": 6125,
+            "flow": 31,
+            "mounth": "Chusovoy"
+        },
+        {
+            "id": "river:KOSVA_<-_TYPYL",
+            "name": "Kosva <- Typyl",
+            "length": 298,
+            "basin": 7322,
+            "flow": 90,
+            "mounth": "Perermskoye"
+        },
+        {
+            "id": "river:INVA",
+            "name": "Inva",
+            "length": 257,
+            "basin": 6304,
+            "flow": 29,
+            "mounth": "Maykor"
+        },
+        {
+            "id": "river:YAYVA",
+            "name": "Yayva",
+            "length": 304,
+            "basin": 6530,
+            "flow": 88,
+            "mounth": "Berezniki"
+        },
+        {
+            "id": "river:VISHERA_<-_KOLVA",
+            "name": "Vishera <- Kolva",
+            "length": 494,
+            "basin": 31286,
+            "flow": 457,
+            "mounth": "Solikamsk"
+        },
+        {
+            "id": "river:VISHERA",
+            "name": "Vishera",
+            "length": 415,
+            "basin": 31286,
+            "flow": 457,
+            "mounth": "Solikamsk"
+        },
+        {
+            "id": "river:KOLVA",
+            "name": "Kolva",
+            "length": 460,
+            "basin": 13311,
+            "flow": 200,
+            "mounth": "Cherdyn, Perm Krai"
+        },
+        {
+            "id": "river:YAZVA_<-_GLUKHAYA_VILVA",
+            "name": "Yazva <- Glukhaya Vilva",
+            "length": 272,
+            "basin": 5855,
+            "flow": 70,
+            "mounth": "Cherdyn"
+        },
+        {
+            "id": "river:KOSA",
+            "name": "Kosa",
+            "length": 267,
+            "basin": 9851,
+            "flow": 40,
+            "mounth": "Ust-Kosa"
+        },
+        {
+            "id": "river:VESLYANA",
+            "name": "Veslyana",
+            "length": 266,
+            "basin": 7253,
+            "flow": 68,
+            "mounth": "Ust-Veslyana"
+        },
+        {
+            "id": "river:SVIYAGA_<-_MALAYA_SVIYAGA",
+            "name": "Sviyaga <- Malaya Sviyaga",
+            "length": 379,
+            "basin": 16944,
+            "flow": 57,
+            "mounth": null
+        },
+        {
+            "id": "river:BOLSHAYA_KOKSHAGA",
+            "name": "Bolshaya Kokshaga",
+            "length": 297,
+            "basin": 6481,
+            "flow": 40,
+            "mounth": "Kokshaysk"
+        },
+        {
+            "id": "river:VETLUGA_<-_VOKHMA_",
+            "name": "Vetluga <- Vokhma ",
+            "length": 901,
+            "basin": 39438,
+            "flow": 255,
+            "mounth": "Kozmodemyansk"
+        },
+        {
+            "id": "river:USTA",
+            "name": "Usta",
+            "length": 253,
+            "basin": 6019,
+            "flow": 28,
+            "mounth": "Voskresenskoye"
+        },
+        {
+            "id": "river:SURA_<-_KADADA_",
+            "name": "Sura <- Kadada ",
+            "length": 867,
+            "basin": 67240,
+            "flow": 260,
+            "mounth": "Vasilsursk"
+        },
+        {
+            "id": "river:PYANA_<-_CHEKA",
+            "name": "Pyana <- Cheka",
+            "length": 453,
+            "basin": 7991,
+            "flow": 25,
+            "mounth": "Sergach"
+        },
+        {
+            "id": "river:ALATYR",
+            "name": "Alatyr",
+            "length": 304,
+            "basin": 11171,
+            "flow": 43,
+            "mounth": "Alatyr"
+        },
+        {
+            "id": "river:KERZHENETS",
+            "name": "Kerzhenets",
+            "length": 290,
+            "basin": 6207,
+            "flow": 20,
+            "mounth": "Lyskovo"
+        },
+        {
+            "id": "river:OKA_<-_UPA_<-_UPERTA",
+            "name": "Oka <- Upa <- Uperta",
+            "length": 1559,
+            "basin": 244308,
+            "flow": 1258,
+            "mounth": "Nizhny Novgorod"
+        },
+        {
+            "id": "river:OKA",
+            "name": "Oka",
+            "length": 1504,
+            "basin": 244308,
+            "flow": 1258,
+            "mounth": "Nizhny Novgorod"
+        },
+        {
+            "id": "river:KLYAZMA",
+            "name": "Klyazma",
+            "length": 686,
+            "basin": 42421,
+            "flow": 147,
+            "mounth": "Gorbatov"
+        },
+        {
+            "id": "river:NERL",
+            "name": "Nerl",
+            "length": 284,
+            "basin": 6766,
+            "flow": 26,
+            "mounth": "Bogolyubovo"
+        },
+        {
+            "id": "river:TYOSHA",
+            "name": "Tyosha",
+            "length": 311,
+            "basin": 7781,
+            "flow": 4,
+            "mounth": "Murom"
+        },
+        {
+            "id": "river:MOKSHA_<-_AZYAS",
+            "name": "Moksha <- Azyas",
+            "length": 660,
+            "basin": 50379,
+            "flow": 95,
+            "mounth": "Yelatma"
+        },
+        {
+            "id": "river:TSNA_<-_OSINOVKA",
+            "name": "Tsna <- Osinovka",
+            "length": 457,
+            "basin": 21437,
+            "flow": 46,
+            "mounth": "Sasovo"
+        },
+        {
+            "id": "river:PRONYA",
+            "name": "Pronya",
+            "length": 336,
+            "basin": 10180,
+            "flow": 50,
+            "mounth": "Spassk-Ryazansky"
+        },
+        {
+            "id": "river:MOSKVA_<-_RUZA",
+            "name": "Moskva <- Ruza",
+            "length": 487,
+            "basin": 17618,
+            "flow": 150,
+            "mounth": "Kolomna"
+        },
+        {
+            "id": "river:PROTVA",
+            "name": "Protva",
+            "length": 282,
+            "basin": 4602,
+            "flow": 25,
+            "mounth": "Serpukhov"
+        },
+        {
+            "id": "river:UGRA_<-_DEMINA_",
+            "name": "Ugra <- Demina ",
+            "length": 436,
+            "basin": 15699,
+            "flow": 90,
+            "mounth": "Kaluga"
+        },
+        {
+            "id": "river:UPA_<-_UPERTA_",
+            "name": "Upa <- Uperta ",
+            "length": 356,
+            "basin": 9529,
+            "flow": 40,
+            "mounth": "Suvorov"
+        },
+        {
+            "id": "river:UNZHA_<-_KEMA_",
+            "name": "Unzha <- Kema ",
+            "length": 531,
+            "basin": 29156,
+            "flow": 158,
+            "mounth": "Yuryevets"
+        },
+        {
+            "id": "river:NEYA",
+            "name": "Neya",
+            "length": 253,
+            "basin": 6286,
+            "flow": 46,
+            "mounth": "Makaryev"
+        },
+        {
+            "id": "river:KOSTROMA",
+            "name": "Kostroma",
+            "length": 354,
+            "basin": 19838,
+            "flow": 85,
+            "mounth": "Kostroma"
+        },
+        {
+            "id": "river:SHEKSNA_<-_LAKE_BELOYE_<-_KEMA",
+            "name": "Sheksna <- Lake Beloye <- Kema",
+            "length": 441,
+            "basin": 21419,
+            "flow": 172,
+            "mounth": "Rybinsk"
+        },
+        {
+            "id": "river:SUDA_<-_NOZHEMA_",
+            "name": "Suda <- Nozhema ",
+            "length": 261,
+            "basin": 13469,
+            "flow": 134,
+            "mounth": "Cherepovets"
+        },
+        {
+            "id": "river:MOLOGA",
+            "name": "Mologa",
+            "length": 456,
+            "basin": 30074,
+            "flow": 172,
+            "mounth": "Rybinsk"
+        },
+        {
+            "id": "river:CHAGODOSHCHA_<-_LID_",
+            "name": "Chagodoshcha <- Lid ",
+            "length": 286,
+            "basin": 9333,
+            "flow": 58,
+            "mounth": "Ustyuzhna"
+        },
+        {
+            "id": "river:MEDVEDITSA",
+            "name": "Medveditsa",
+            "length": 259,
+            "basin": 6384,
+            "flow": 41,
+            "mounth": "Sknyatino"
+        },
+        {
+            "id": "river:MALY_UZEN",
+            "name": "Maly Uzen",
+            "length": 638,
+            "basin": 11600,
+            "flow": 8,
+            "mounth": null
+        },
+        {
+            "id": "river:BOLSHOY_UZEN",
+            "name": "Bolshoy Uzen",
+            "length": 650,
+            "basin": 15795,
+            "flow": 11,
+            "mounth": null
+        },
+        {
+            "id": "river:URAL",
+            "name": "Ural",
+            "length": 2428,
+            "basin": 210581,
+            "flow": 400,
+            "mounth": "Atyrau"
+        },
+        {
+            "id": "river:CHAGAN",
+            "name": "Chagan",
+            "length": 264,
+            "basin": 7530,
+            "flow": 7.7,
+            "mounth": "Oral"
+        },
+        {
+            "id": "river:UTVA",
+            "name": "Utva",
+            "length": 290,
+            "basin": 6952,
+            "flow": 3.8,
+            "mounth": null
+        },
+        {
+            "id": "river:ILEK",
+            "name": "Ilek",
+            "length": 623,
+            "basin": 41875,
+            "flow": 40,
+            "mounth": "Ilek"
+        },
+        {
+            "id": "river:BOLSHAYA_KHOBDA_-_KARAKHOBDA",
+            "name": "Bolshaya Khobda - Karakhobda",
+            "length": 363,
+            "basin": 14666,
+            "flow": 14,
+            "mounth": null
+        },
+        {
+            "id": "river:SAKMARA",
+            "name": "Sakmara",
+            "length": 798,
+            "basin": 31040,
+            "flow": 144,
+            "mounth": "Orenburg"
+        },
+        {
+            "id": "river:BOLSHOY_IK",
+            "name": "Bolshoy Ik",
+            "length": 341,
+            "basin": 7651,
+            "flow": 61,
+            "mounth": "Saraktash"
+        },
+        {
+            "id": "river:OR",
+            "name": "Or",
+            "length": 332,
+            "basin": 18533,
+            "flow": 21,
+            "mounth": "Orsk"
+        }
+    ]
+}

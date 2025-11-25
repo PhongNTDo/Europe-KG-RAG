@@ -1,0 +1,196 @@
+{
+    "sea": [
+        {
+            "name": "Kara Sea",
+            "id": "sea:KARA_SEA"
+        },
+        {
+            "name": "Pechora Sea",
+            "id": "sea:PECHORA_SEA"
+        },
+        {
+            "name": "Barents Sea",
+            "id": "sea:BARENTS_SEA"
+        },
+        {
+            "name": "Arctic Ocean",
+            "id": "sea:ARCTIC_OCEAN"
+        },
+        {
+            "name": "Atlantic Ocean",
+            "id": "sea:ATLANTIC_OCEAN"
+        },
+        {
+            "name": "Norwegian Sea",
+            "id": "sea:NORWEGIAN_SEA"
+        },
+        {
+            "name": "North Sea",
+            "id": "sea:NORTH_SEA"
+        },
+        {
+            "name": "Skagerrak",
+            "id": "sea:SKAGERRAK"
+        },
+        {
+            "name": "Kattegat",
+            "id": "sea:KATTEGAT"
+        },
+        {
+            "name": "Wadden Sea",
+            "id": "sea:WADDEN_SEA"
+        },
+        {
+            "name": "IJsselmeer",
+            "id": "sea:IJSSELMEER"
+        },
+        {
+            "name": "Humber Estuary",
+            "id": "sea:HUMBER_ESTUARY"
+        },
+        {
+            "name": "White Sea (Mezen Bay)",
+            "id": "sea:WHITE_SEA_(MEZEN_BAY)"
+        },
+        {
+            "name": "White Sea",
+            "id": "sea:WHITE_SEA"
+        },
+        {
+            "name": "Dvina Bay",
+            "id": "sea:DVINA_BAY"
+        },
+        {
+            "name": "Onega Bay",
+            "id": "sea:ONEGA_BAY"
+        },
+        {
+            "name": "Kandalaksha Gulf",
+            "id": "sea:KANDALAKSHA_GULF"
+        },
+        {
+            "name": "Baltic Sea",
+            "id": "sea:BALTIC_SEA"
+        },
+        {
+            "name": "Bothnian Sea",
+            "id": "sea:BOTHNIAN_SEA"
+        },
+        {
+            "name": "Bothnian Bay",
+            "id": "sea:BOTHNIAN_BAY"
+        },
+        {
+            "name": "Gulf of Finland",
+            "id": "sea:GULF_OF_FINLAND"
+        },
+        {
+            "name": "Neva",
+            "id": "sea:NEVA"
+        },
+        {
+            "name": "Narva",
+            "id": "sea:NARVA"
+        },
+        {
+            "name": "Gulf of Riga",
+            "id": "sea:GULF_OF_RIGA"
+        },
+        {
+            "name": "North Channel",
+            "id": "sea:NORTH_CHANNEL"
+        },
+        {
+            "name": "Shannon Estuary",
+            "id": "sea:SHANNON_ESTUARY"
+        },
+        {
+            "name": "Celtic Sea",
+            "id": "sea:CELTIC_SEA"
+        },
+        {
+            "name": "Irish Sea",
+            "id": "sea:IRISH_SEA"
+        },
+        {
+            "name": "Severn Estuary",
+            "id": "sea:SEVERN_ESTUARY"
+        },
+        {
+            "name": "Bristol Channel",
+            "id": "sea:BRISTOL_CHANNEL"
+        },
+        {
+            "name": "English Channel",
+            "id": "sea:ENGLISH_CHANNEL"
+        },
+        {
+            "name": "Bay of Biscay",
+            "id": "sea:BAY_OF_BISCAY"
+        },
+        {
+            "name": "Gironde estuary",
+            "id": "sea:GIRONDE_ESTUARY"
+        },
+        {
+            "name": "Gulf of Cadiz",
+            "id": "sea:GULF_OF_CADIZ"
+        },
+        {
+            "name": "Mediterranean Sea",
+            "id": "sea:MEDITERRANEAN_SEA"
+        },
+        {
+            "name": "Balearic Sea",
+            "id": "sea:BALEARIC_SEA"
+        },
+        {
+            "name": "Gulf of Lion",
+            "id": "sea:GULF_OF_LION"
+        },
+        {
+            "name": "Ligurian Sea",
+            "id": "sea:LIGURIAN_SEA"
+        },
+        {
+            "name": "Tyrrhenian Sea",
+            "id": "sea:TYRRHENIAN_SEA"
+        },
+        {
+            "name": "Adriatic Sea",
+            "id": "sea:ADRIATIC_SEA"
+        },
+        {
+            "name": "Ionian Sea",
+            "id": "sea:IONIAN_SEA"
+        },
+        {
+            "name": "Aegean Sea",
+            "id": "sea:AEGEAN_SEA"
+        },
+        {
+            "name": "Thracian Sea",
+            "id": "sea:THRACIAN_SEA"
+        },
+        {
+            "name": "Black Sea",
+            "id": "sea:BLACK_SEA"
+        },
+        {
+            "name": "Dnieper-Bug Estuary",
+            "id": "sea:DNIEPER-BUG_ESTUARY"
+        },
+        {
+            "name": "Sea of Azov",
+            "id": "sea:SEA_OF_AZOV"
+        },
+        {
+            "name": "Caspian Sea",
+            "id": "sea:CASPIAN_SEA"
+        },
+        {
+            "name": "Kamysh-Samarskiye Lakes",
+            "id": "sea:KAMYSH-SAMARSKIYE_LAKES"
+        }
+    ]
+}

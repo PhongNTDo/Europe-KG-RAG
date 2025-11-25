@@ -1,0 +1,2709 @@
+{
+    "relations": [
+        {
+            "source_id": "river:KARA_<-_BOLSHOY_KARA",
+            "target_id": "sea:KARA_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KOROTAIKHA_<-_SYADEJ-YU",
+            "target_id": "sea:PECHORA_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PECHORA",
+            "target_id": "sea:PECHORA_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SULA",
+            "target_id": "river:PECHORA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SHAPKINA_<-_LEKEYYU_",
+            "target_id": "river:PECHORA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TSILMA",
+            "target_id": "river:PECHORA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PIZHMA",
+            "target_id": "river:PECHORA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:IZHMA",
+            "target_id": "river:PECHORA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LAYA_",
+            "target_id": "river:PECHORA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:USA",
+            "target_id": "river:PECHORA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KOLVA",
+            "target_id": "river:USA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ADZVA",
+            "target_id": "river:USA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KOSYU_",
+            "target_id": "river:USA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BOLSHAYA_ROGOVAYA_",
+            "target_id": "river:USA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SHCHUGOR",
+            "target_id": "river:PECHORA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ILYCH",
+            "target_id": "river:PECHORA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VORONYA_<-_LAKE_LOVOZERO_<-_KURGA_",
+            "target_id": "sea:BARENTS_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TULOMA_<-_LAKE_NOTOZERO_<-_LUTTO",
+            "target_id": "sea:BARENTS_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PAATSJOKI_<-_LAKE_INARI_<-_IVALO",
+            "target_id": "sea:BARENTS_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TANA/DEATNU_<-_KARASJOHKA",
+            "target_id": "sea:BARENTS_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:JÖKULSÁ_Á_FJÖLLUM",
+            "target_id": "sea:ARCTIC_OCEAN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ÖLFUSÁ_<-_HVÍTÁ",
+            "target_id": "sea:ATLANTIC_OCEAN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ÞJÓRSÁ",
+            "target_id": "sea:ATLANTIC_OCEAN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KÚÐAFLJÓT",
+            "target_id": "sea:ATLANTIC_OCEAN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:JÖKULSÁ_Á_DAL",
+            "target_id": "sea:ATLANTIC_OCEAN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ALTAELVA",
+            "target_id": "sea:NORWEGIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MÅLSELVA_<-_ROSTAELVA",
+            "target_id": "sea:NORWEGIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VEFSNA",
+            "target_id": "sea:NORWEGIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NAMSEN",
+            "target_id": "sea:NORWEGIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:GAULA_(TRØNDELAG)",
+            "target_id": "sea:NORWEGIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ORKLA_(RIVER)",
+            "target_id": "sea:NORWEGIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:OTRA",
+            "target_id": "sea:NORTH_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SKIEN_<-_NORSJØ_<-_SAUA_<-_HEDDALSVATNET_<-_TINNE_-_ETC._SYSTEM",
+            "target_id": "sea:SKAGERRAK",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NUMEDALSLÅGEN",
+            "target_id": "sea:SKAGERRAK",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DRAMMENSELVA_<-_TYRIFJORDEN_<-_STORELVA-ÅDALSELVA-SPERILLEN_<-_BEGNA_<-_OTRØELVA",
+            "target_id": "sea:SKAGERRAK",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:GLOMMA/GLÅMA",
+            "target_id": "sea:SKAGERRAK",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VORMA_<-_MJØSA_<-_GUDBRANDSDALSLÅGEN",
+            "target_id": "river:GLOMMA/GLÅMA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:GÖTA_ÄLV_<-_VÄNERN_<-_KLARÄLVEN_SYSTEM",
+            "target_id": "sea:KATTEGAT",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KLARÄLVEN_<-_TRYSILELVA_<-_FEMUNDELVA_<-_ROGEN",
+            "target_id": "river:GÖTA_ÄLV_<-_VÄNERN_<-_KLARÄLVEN_SYSTEM",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ÄTRAN",
+            "target_id": "sea:KATTEGAT",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LAGAN",
+            "target_id": "sea:KATTEGAT",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ELBE_<-_VLTAVA_<-_TEPLÁ_VLTAVA",
+            "target_id": "sea:WADDEN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ELBE",
+            "target_id": "sea:WADDEN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:HAVEL_<-_SPREE",
+            "target_id": "river:ELBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:HAVEL",
+            "target_id": "river:ELBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SPREE",
+            "target_id": "river:HAVEL",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SAALE",
+            "target_id": "river:ELBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:WHITE_ELSTER",
+            "target_id": "river:SAALE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MULDE_<-_ZWICKAUER_MULDE",
+            "target_id": "river:ELBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:OHŘE_/_EGER",
+            "target_id": "river:ELBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VLTAVA_-_TEPLÁ_VLTAVA",
+            "target_id": "river:ELBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:WESER_<-_WERRA",
+            "target_id": "sea:WADDEN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ALLER_<-_LEINE",
+            "target_id": "river:WESER_<-_WERRA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ALLER",
+            "target_id": "river:WESER_<-_WERRA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LEINE",
+            "target_id": "river:ALLER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:FULDA",
+            "target_id": "river:WESER_<-_WERRA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:WERRA",
+            "target_id": "river:WESER_<-_WERRA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:EMS",
+            "target_id": "sea:WADDEN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ZWARTE_WATER_<-_VECHT/VECHTE",
+            "target_id": "sea:IJSSELMEER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:IJSSEL_<-_OUDE_IJSSEL",
+            "target_id": "sea:IJSSELMEER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:RHINE",
+            "target_id": "sea:NORTH_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:RHINE",
+            "target_id": "river:RHINE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:RHINE",
+            "target_id": "river:RHINE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LIPPE_<-_ALME",
+            "target_id": "river:RHINE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:RUHR_<-_NEGER_<-_RENAU",
+            "target_id": "river:RHINE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MOSELLE_<-_MOSELOTTE",
+            "target_id": "river:RHINE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SAAR",
+            "target_id": "river:MOSELLE_<-_MOSELOTTE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SAUER",
+            "target_id": "river:MOSELLE_<-_MOSELOTTE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LAHN_<-_OHM_<-_FELDA",
+            "target_id": "river:RHINE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MAIN_<-_REGNITZ_SYSTEM",
+            "target_id": "river:RHINE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MAIN",
+            "target_id": "river:RHINE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:REGNITZ_<-_PEGNITZ_<-_FICHTENOHE",
+            "target_id": "river:MAIN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NECKAR_<-_ESCHACH",
+            "target_id": "river:RHINE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ILL",
+            "target_id": "river:RHINE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:AARE",
+            "target_id": "river:RHINE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LIMMAT_<-_LAKE_ZÜRICH_<-_LINTH",
+            "target_id": "river:AARE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:REUSS",
+            "target_id": "river:AARE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MEUSE/MAAS",
+            "target_id": "sea:NORTH_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:OURTHE",
+            "target_id": "river:MEUSE/MAAS",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SAMBRE",
+            "target_id": "river:MEUSE/MAAS",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SCHELDT",
+            "target_id": "sea:NORTH_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LEIE/LYS",
+            "target_id": "river:SCHELDT",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:THAMES_<-_CHURN",
+            "target_id": "sea:NORTH_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:GREAT_OUSE",
+            "target_id": "sea:NORTH_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TRENT",
+            "target_id": "sea:HUMBER_ESTUARY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:OUSE_<-_URE",
+            "target_id": "sea:HUMBER_ESTUARY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TYNE_<-_NORTH_TYNE",
+            "target_id": "sea:NORTH_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TWEED",
+            "target_id": "sea:NORTH_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TAY",
+            "target_id": "sea:NORTH_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SPEY",
+            "target_id": "sea:NORTH_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MEZEN",
+            "target_id": "sea:WHITE_SEA_(MEZEN_BAY)",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PYOZA",
+            "target_id": "river:MEZEN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VASHKA",
+            "target_id": "river:MEZEN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KULOY_<-_SOTKA",
+            "target_id": "sea:WHITE_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NORTHERN_DVINA_<-_VYCHEGDA",
+            "target_id": "sea:DVINA_BAY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NORTHERN_DVINA_<-_SUKHONA_<-_LAKE_KUBENSKOYE_<-_KUBENA",
+            "target_id": "sea:DVINA_BAY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PINEGA",
+            "target_id": "river:NORTHERN_DVINA_<-_SUKHONA_<-_LAKE_KUBENSKOYE_<-_KUBENA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:YULA",
+            "target_id": "river:NORTHERN_DVINA_<-_SUKHONA_<-_LAKE_KUBENSKOYE_<-_KUBENA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:YEMTSA_<-_MEKHRENGA",
+            "target_id": "river:NORTHERN_DVINA_<-_SUKHONA_<-_LAKE_KUBENSKOYE_<-_KUBENA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VAGA_<-_USTYA",
+            "target_id": "river:NORTHERN_DVINA_<-_SUKHONA_<-_LAKE_KUBENSKOYE_<-_KUBENA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VAGA",
+            "target_id": "river:NORTHERN_DVINA_<-_SUKHONA_<-_LAKE_KUBENSKOYE_<-_KUBENA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:USTYA",
+            "target_id": "river:VAGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KOKSHENGA",
+            "target_id": "river:USTYA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VYCHEGDA",
+            "target_id": "river:NORTHERN_DVINA_<-_SUKHONA_<-_LAKE_KUBENSKOYE_<-_KUBENA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VILED",
+            "target_id": "river:VYCHEGDA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:YARENGA",
+            "target_id": "river:VYCHEGDA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VYM",
+            "target_id": "river:VYCHEGDA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:YOLVA_",
+            "target_id": "river:VYM",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SYSOLA",
+            "target_id": "river:VYCHEGDA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LOKCHIM_",
+            "target_id": "river:VYCHEGDA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VISHERA",
+            "target_id": "river:VYCHEGDA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NEM_",
+            "target_id": "river:VYCHEGDA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LOWER_YUG_<-_LUZA",
+            "target_id": "river:NORTHERN_DVINA_<-_SUKHONA_<-_LAKE_KUBENSKOYE_<-_KUBENA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:YUG",
+            "target_id": "river:NORTHERN_DVINA_<-_SUKHONA_<-_LAKE_KUBENSKOYE_<-_KUBENA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LUZA",
+            "target_id": "river:YUG",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SUKHONA_<-_LAKE_KUBENSKOYE_<-_KUBENA",
+            "target_id": "river:NORTHERN_DVINA_<-_SUKHONA_<-_LAKE_KUBENSKOYE_<-_KUBENA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ONEGA_<-_LAKE_LACHA_<-_SVID_<-_LAKE_VOZHE_<-_VOZHEGA",
+            "target_id": "sea:ONEGA_BAY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ONEGA",
+            "target_id": "sea:ONEGA_BAY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VOLOSHKA",
+            "target_id": "river:ONEGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LOWER_VYG_<-_LAKE_VYGOZERO_<-_SEGEZHA_-SYSTEM",
+            "target_id": "sea:WHITE_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VYG_<-_UMBA_",
+            "target_id": "sea:WHITE_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SEGEZHA_<-_LAKE_SEGOZERO_<-_VUOLOMA_<-_TALVIESDEGI_",
+            "target_id": "river:VYG_<-_UMBA_",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KEM_<-_ČIRKA-KEM_",
+            "target_id": "sea:WHITE_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KEM_<-_KUYTO_LAKES_<-_PISTA/PISTOJOKI_",
+            "target_id": "sea:WHITE_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KOVDA_<-_LAKE_TOPOZERO_<-_KARANGO_",
+            "target_id": "sea:KANDALAKSHA_GULF",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KOVDA_<-_LAKE_TOPOZERO_<-_KARANGO_",
+            "target_id": "sea:KANDALAKSHA_GULF",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VARZUGA",
+            "target_id": "sea:WHITE_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PONOY",
+            "target_id": "sea:WHITE_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MOTALA_STRÖM_<-_VÄTTERN_<-_HUSKVARNAÅN_SYSTEM",
+            "target_id": "sea:BALTIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NORRSTRÖM_<-_MÄLAREN_<-_KOLBÄCKSÅN_SYSTEM",
+            "target_id": "sea:BALTIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DALÄLVEN_<-_ÖSTERDALÄLVEN",
+            "target_id": "sea:BOTHNIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VÄSTERDALÄLVEN_<-_FULAN",
+            "target_id": "river:DALÄLVEN_<-_ÖSTERDALÄLVEN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LJUSNAN",
+            "target_id": "sea:BOTHNIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LJUNGAN",
+            "target_id": "sea:BOTHNIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:INDALSÄLVEN",
+            "target_id": "sea:BOTHNIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ÅNGERMAN",
+            "target_id": "sea:BOTHNIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:FAXÄLVEN",
+            "target_id": "river:ÅNGERMAN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:FJÄLLSJÖÄLVEN",
+            "target_id": "river:ÅNGERMAN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:UMEÄLVEN",
+            "target_id": "sea:BOTHNIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VINDELÄLVEN",
+            "target_id": "river:UMEÄLVEN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SKELLEFTEÄLVEN",
+            "target_id": "sea:BOTHNIAN_BAY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PITEÄLVEN",
+            "target_id": "sea:BOTHNIAN_BAY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LULEÄLVEN",
+            "target_id": "sea:BOTHNIAN_BAY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LESSER_LULE",
+            "target_id": "river:LULEÄLVEN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KALIXÄLVEN",
+            "target_id": "sea:BOTHNIAN_BAY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TORNE_<-_TORNETRÄSK_<-_ABISKOJOKK_<-_VÁLFOJOHKA",
+            "target_id": "sea:BOTHNIAN_BAY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MUONIO_<-_KÖNKÄMÄENO_<-_KILPISJÄRVI",
+            "target_id": "river:TORNE_<-_TORNETRÄSK_<-_ABISKOJOKK_<-_VÁLFOJOHKA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LAINIOÄLVEN_<-_ROSTOEATNU_<-_ROSTOJÁVRI_<-_OHMÁTJOHKA",
+            "target_id": "river:TORNE_<-_TORNETRÄSK_<-_ABISKOJOKK_<-_VÁLFOJOHKA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KEMIJOKI",
+            "target_id": "sea:BOTHNIAN_BAY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:OUNASJOKI",
+            "target_id": "river:KEMIJOKI",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KITINEN",
+            "target_id": "river:KEMIJOKI",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:IIJOKI",
+            "target_id": "sea:BOTHNIAN_BAY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:OULUJOKI_<-_OULUJÄRVI_<-_HYRYNSALMI_SYSTEM",
+            "target_id": "sea:BOTHNIAN_BAY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KOKEMÄENJOKI",
+            "target_id": "sea:BOTHNIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KYMI_<-_LAKE_PÄIJÄNNE_<-<-<-_KOIVUJÄRVI_SOURCES",
+            "target_id": "sea:GULF_OF_FINLAND",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NEVA_<-_LAKE_LADOGA_<-_VOLKHOV-SYSTEM",
+            "target_id": "sea:GULF_OF_FINLAND",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NEVA_<-_LAKE_LADOGA_<-_VOLKHOV-SYSTEM",
+            "target_id": "sea:GULF_OF_FINLAND",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VUOKSI_<-_SAIMAA_<-_PIELISJOKI-SYSTEM",
+            "target_id": "sea:NEVA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PIELISJOKI_<-_PIELINEN_<-_LIEKSANJOKI_<-<-_MURDOYOKI_",
+            "target_id": "river:VUOKSI_<-_SAIMAA_<-_PIELISJOKI-SYSTEM",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SVIR_<-_LAKE_ONEGA_<-_VODLA-SYSTEM",
+            "target_id": "sea:NEVA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:OYAT",
+            "target_id": "river:SVIR_<-_LAKE_ONEGA_<-_VODLA-SYSTEM",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SHUYA",
+            "target_id": "river:SVIR_<-_LAKE_ONEGA_<-_VODLA-SYSTEM",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SUNA",
+            "target_id": "river:SVIR_<-_LAKE_ONEGA_<-_VODLA-SYSTEM",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VODLA_<-_LAKE_VODLOZERO_<-_ILEKSA_<-_OLOVA_",
+            "target_id": "river:SVIR_<-_LAKE_ONEGA_<-_VODLA-SYSTEM",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SYAS",
+            "target_id": "sea:NEVA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VOLKHOV_<-_LAKE_ILMEN_<-_MSTA-SYSTEM",
+            "target_id": "sea:NEVA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MSTA_<-_LAKE_MSTINO_<-_TSNA",
+            "target_id": "river:VOLKHOV_<-_LAKE_ILMEN_<-_MSTA-SYSTEM",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:POLA",
+            "target_id": "river:VOLKHOV_<-_LAKE_ILMEN_<-_MSTA-SYSTEM",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LOVAT",
+            "target_id": "river:VOLKHOV_<-_LAKE_ILMEN_<-_MSTA-SYSTEM",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SHELON",
+            "target_id": "river:VOLKHOV_<-_LAKE_ILMEN_<-_MSTA-SYSTEM",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LUGA_<-_OREDEZH",
+            "target_id": "sea:GULF_OF_FINLAND",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LUGA",
+            "target_id": "sea:GULF_OF_FINLAND",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NARVA_<-_LAKE_PEIPUS_<-_VELIKAYA",
+            "target_id": "sea:GULF_OF_FINLAND",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NARVA_<-_LAKE_PEIPUS_<-_VELIKAYA",
+            "target_id": "sea:GULF_OF_FINLAND",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PLYUSSA",
+            "target_id": "sea:NARVA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VELIKAYA",
+            "target_id": "sea:NARVA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:EMAJÕGI_<-_VÕRTSJÄRV_<-_VÄIKE_EMAJÕGI",
+            "target_id": "sea:NARVA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PÄRNU",
+            "target_id": "sea:GULF_OF_RIGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:GAUJA",
+            "target_id": "sea:GULF_OF_RIGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DAUGAVA/WESTERN_DVINA",
+            "target_id": "sea:GULF_OF_RIGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:AIVIEKSTE_<-_PEDEDZE",
+            "target_id": "river:DAUGAVA/WESTERN_DVINA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MEZHA",
+            "target_id": "river:DAUGAVA/WESTERN_DVINA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LIELUPE_<-_MĒMELE/NEMUNĖLIS",
+            "target_id": "sea:GULF_OF_RIGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VENTA",
+            "target_id": "sea:BALTIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NEMAN",
+            "target_id": "sea:BALTIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ŠEŠUPĖ",
+            "target_id": "river:NEMAN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NEVĖŽIS",
+            "target_id": "river:NEMAN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NERIS/VILIYA",
+            "target_id": "river:NEMAN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ŠVENTOJI",
+            "target_id": "river:NERIS/VILIYA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SHCHARA",
+            "target_id": "river:NEMAN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PREGOLYA_<-_LAVA/ŁYNA",
+            "target_id": "sea:BALTIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PREGOLYA_<-_ANGRAPA_<-_GOŁDAPA",
+            "target_id": "sea:BALTIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ŁYNA/ALNA/LAVA",
+            "target_id": "river:PREGOLYA_<-_ANGRAPA_<-_GOŁDAPA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VISTULA_<-_BUGONAREW_<-_WESTERN_BUG",
+            "target_id": "sea:BALTIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VISTULA",
+            "target_id": "sea:BALTIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BUGONAREW_<-_WESTERN_BUG",
+            "target_id": "river:VISTULA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:WKRA",
+            "target_id": "river:BUGONAREW_<-_WESTERN_BUG",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NAREW",
+            "target_id": "river:BUGONAREW_<-_WESTERN_BUG",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:WESTERN_BUG",
+            "target_id": "river:BUGONAREW_<-_WESTERN_BUG",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PILICA",
+            "target_id": "river:VISTULA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:WIEPRZ",
+            "target_id": "river:VISTULA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SAN",
+            "target_id": "river:VISTULA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DUNAJEC",
+            "target_id": "river:VISTULA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ODER_<-_WARTA",
+            "target_id": "sea:BALTIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ODER",
+            "target_id": "sea:BALTIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:WARTA",
+            "target_id": "river:ODER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NOTEĆ",
+            "target_id": "river:WARTA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LUSATIAN_NEISSE",
+            "target_id": "river:ODER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BÓBR",
+            "target_id": "river:ODER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:CLYDE",
+            "target_id": "sea:NORTH_CHANNEL",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LOWER_BANN_<-_LOUGH_NEAGH_<-_ULSTER_BLACKWATER",
+            "target_id": "sea:NORTH_CHANNEL",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SHANNON",
+            "target_id": "sea:SHANNON_ESTUARY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:THE_THREE_SISTERS",
+            "target_id": "sea:CELTIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MERSEY_<-_TAME",
+            "target_id": "sea:IRISH_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:WYE",
+            "target_id": "sea:SEVERN_ESTUARY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SEVERN",
+            "target_id": "sea:BRISTOL_CHANNEL",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SOMME",
+            "target_id": "sea:ENGLISH_CHANNEL",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SEINE_<-_MARNE",
+            "target_id": "sea:ENGLISH_CHANNEL",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SEINE",
+            "target_id": "sea:ENGLISH_CHANNEL",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:EURE",
+            "target_id": "river:SEINE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:OISE_<-_AISNE_<-_AIRE",
+            "target_id": "river:SEINE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:OISE",
+            "target_id": "river:SEINE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:AISNE",
+            "target_id": "river:OISE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MARNE",
+            "target_id": "river:SEINE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:YONNE",
+            "target_id": "river:SEINE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:AUBE",
+            "target_id": "river:SEINE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VILAINE",
+            "target_id": "sea:BAY_OF_BISCAY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LOIRE",
+            "target_id": "sea:BAY_OF_BISCAY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MAINE_<-_SARTHE_<-_LOIR",
+            "target_id": "river:LOIRE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MAYENNE",
+            "target_id": "river:MAINE_<-_SARTHE_<-_LOIR",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SARTHE",
+            "target_id": "river:MAINE_<-_SARTHE_<-_LOIR",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LOIR",
+            "target_id": "river:SARTHE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VIENNE",
+            "target_id": "river:LOIRE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:CREUSE",
+            "target_id": "river:VIENNE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:INDRE",
+            "target_id": "river:LOIRE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:CHER",
+            "target_id": "river:LOIRE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ALLIER",
+            "target_id": "river:LOIRE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:CHARENTE",
+            "target_id": "sea:BAY_OF_BISCAY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DORDOGNE",
+            "target_id": "sea:GIRONDE_ESTUARY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ISLE",
+            "target_id": "river:DORDOGNE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VÉZÈRE",
+            "target_id": "river:DORDOGNE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:GARONNE_<-_TARN",
+            "target_id": "sea:GIRONDE_ESTUARY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:GARONNE",
+            "target_id": "sea:GIRONDE_ESTUARY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LOT",
+            "target_id": "river:GARONNE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TARN",
+            "target_id": "river:GARONNE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:AVEYRON",
+            "target_id": "river:TARN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ARIÈGE",
+            "target_id": "river:GARONNE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ADOUR",
+            "target_id": "sea:BAY_OF_BISCAY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:GAVES_RÉUNIS_<-_GAVE_DE_PAU",
+            "target_id": "river:ADOUR",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MINHO_<-_SIL",
+            "target_id": "sea:ATLANTIC_OCEAN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MINHO",
+            "target_id": "sea:ATLANTIC_OCEAN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SIL",
+            "target_id": "river:MINHO",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DOURO",
+            "target_id": "sea:ATLANTIC_OCEAN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TORMES",
+            "target_id": "river:DOURO",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ESLA",
+            "target_id": "river:DOURO",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PISUERGA",
+            "target_id": "river:DOURO",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MONDEGO",
+            "target_id": "sea:ATLANTIC_OCEAN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TAGUS",
+            "target_id": "sea:ATLANTIC_OCEAN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:JARAMA",
+            "target_id": "river:TAGUS",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SADO",
+            "target_id": "sea:ATLANTIC_OCEAN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:GUADIANA_(<-_CIGÜELA)_<-_ZÁNCARA",
+            "target_id": "sea:GULF_OF_CADIZ",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:GUADIANA_<-_GUADIANA_ALTO_.",
+            "target_id": "sea:GULF_OF_CADIZ",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:GUADALQUIVIR_<-_GUADIANA_MENOR_<-_GUARDAL_",
+            "target_id": "sea:GULF_OF_CADIZ",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:GENIL",
+            "target_id": "river:GUADALQUIVIR_<-_GUADIANA_MENOR_<-_GUARDAL_",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SEGURA",
+            "target_id": "sea:MEDITERRANEAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:JÚCAR",
+            "target_id": "sea:BALEARIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TURIA",
+            "target_id": "sea:BALEARIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:EBRO",
+            "target_id": "sea:BALEARIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SEGRE",
+            "target_id": "river:EBRO",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:CINCA",
+            "target_id": "river:SEGRE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:JALÓN_<-_JILOCA",
+            "target_id": "river:EBRO",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ARAGÓN",
+            "target_id": "river:EBRO",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LLOBREGAT",
+            "target_id": "sea:BALEARIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:AUDE",
+            "target_id": "sea:GULF_OF_LION",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:RHÔNE_<-_SAÔNE_<-_DOUBS",
+            "target_id": "sea:GULF_OF_LION",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:RHÔNE",
+            "target_id": "sea:GULF_OF_LION",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DURANCE",
+            "target_id": "river:RHÔNE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ISÈRE",
+            "target_id": "river:RHÔNE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SAÔNE",
+            "target_id": "river:RHÔNE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DOUBS",
+            "target_id": "river:SAÔNE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:AIN",
+            "target_id": "river:RHÔNE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ARNO",
+            "target_id": "sea:LIGURIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TIBER",
+            "target_id": "sea:TYRRHENIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NERA",
+            "target_id": "river:TIBER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:GARIGLIANO_<-_LIRI",
+            "target_id": "sea:TYRRHENIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VOLTURNO",
+            "target_id": "sea:TYRRHENIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:RENO",
+            "target_id": "sea:ADRIATIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PO_<-_TANARO",
+            "target_id": "sea:ADRIATIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PO",
+            "target_id": "sea:ADRIATIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MINCIO_<-_LAKE_GARDA_<-_SARCA",
+            "target_id": "river:PO",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:OGLIO_<-_LAKE_ISEO_<-_OGLIO",
+            "target_id": "river:PO",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ADDA_<-_LAKE_COMO_<-_ADDA",
+            "target_id": "river:PO",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TICINO_<-_LAKE_MAGGIORE_<-_TICINO",
+            "target_id": "river:PO",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TANARO_<-_NEGRONE",
+            "target_id": "river:PO",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DORA_BALTEA",
+            "target_id": "river:PO",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TARTARO-CANALBIANCO-PO_DI_LEVANTE",
+            "target_id": "sea:ADRIATIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ADIGE_<-_EISACK_<-_RIENZ_<-_AHR",
+            "target_id": "sea:ADRIATIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ADIGE_<-_ETSCH_<-_KARLINBACH",
+            "target_id": "sea:ADRIATIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BRENTA",
+            "target_id": "sea:ADRIATIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PIAVE",
+            "target_id": "sea:ADRIATIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TAGLIAMENTO",
+            "target_id": "sea:ADRIATIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ISONZO/SOČA",
+            "target_id": "sea:ADRIATIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NERETVA",
+            "target_id": "sea:ADRIATIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TREBIŠNJICA",
+            "target_id": "river:NERETVA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BOJANA/BUNA_<-_DRIN",
+            "target_id": "sea:ADRIATIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DRIN_<-_BLACK_DRIN_<-_SATESKA",
+            "target_id": "river:BOJANA/BUNA_<-_DRIN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:WHITE_DRIN",
+            "target_id": "river:DRIN_<-_BLACK_DRIN_<-_SATESKA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MORAČA",
+            "target_id": "river:BOJANA/BUNA_<-_DRIN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SHKUMBIN",
+            "target_id": "sea:ADRIATIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SEMAN_<-_DEVOLL",
+            "target_id": "sea:ADRIATIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:AOÖS/VJOSË",
+            "target_id": "sea:ADRIATIC_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ACHELOUS",
+            "target_id": "sea:IONIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PINEIOS_(THESSALY)",
+            "target_id": "sea:AEGEAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:HALIACMON",
+            "target_id": "sea:AEGEAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VARDAR/AXIOS_<-_TRESKA",
+            "target_id": "sea:AEGEAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VARDAR/AXIOS",
+            "target_id": "sea:AEGEAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:STRUMA/STRYMON",
+            "target_id": "sea:THRACIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NESTOS/MESTA",
+            "target_id": "sea:THRACIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MARITSA/MERIÇ/EVROS",
+            "target_id": "sea:THRACIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ERGENE",
+            "target_id": "river:MARITSA/MERIÇ/EVROS",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TUNDZHA",
+            "target_id": "river:MARITSA/MERIÇ/EVROS",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ARDA",
+            "target_id": "river:MARITSA/MERIÇ/EVROS",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VELEKA",
+            "target_id": "sea:BLACK_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KAMCHIYA_<-_LUDA_KAMCHIYA",
+            "target_id": "sea:BLACK_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DANUBE",
+            "target_id": "sea:BLACK_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PRUT",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:JIJIA",
+            "target_id": "river:PRUT",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SIRET",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BUZĂU",
+            "target_id": "river:SIRET",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BISTRIȚA",
+            "target_id": "river:SIRET",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:IALOMIȚA",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ARGEȘ",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DÂMBOVIȚA",
+            "target_id": "river:ARGEȘ",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:YANTRA",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:OSAM",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:OLT",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ISKAR",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:JIU",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:GREAT_MORAVA_<-_WEST_MORAVA_<-_IBAR",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SOUTH_MORAVA",
+            "target_id": "river:GREAT_MORAVA_<-_WEST_MORAVA_<-_IBAR",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:WEST_MORAVA",
+            "target_id": "river:GREAT_MORAVA_<-_WEST_MORAVA_<-_IBAR",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:IBAR",
+            "target_id": "river:WEST_MORAVA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TIMIŠ/TAMIS",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SAVA_<-_SAVA_DOLINKA",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DRINA_<-_TARA",
+            "target_id": "river:SAVA_<-_SAVA_DOLINKA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LIM",
+            "target_id": "river:DRINA_<-_TARA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BOSNA",
+            "target_id": "river:SAVA_<-_SAVA_DOLINKA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VRBAS",
+            "target_id": "river:SAVA_<-_SAVA_DOLINKA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:UNA",
+            "target_id": "river:SAVA_<-_SAVA_DOLINKA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KUPA/KOLPA",
+            "target_id": "river:SAVA_<-_SAVA_DOLINKA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TISZA_<-_SOMEȘ",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TISZA",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BEGA",
+            "target_id": "river:TISZA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MUREȘ/MAROS",
+            "target_id": "river:TISZA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TÂRNAVA_<-_TÂRNAVA_MARE",
+            "target_id": "river:MUREȘ/MAROS",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KÖRÖS_<-_CRIȘUL_ALB",
+            "target_id": "river:TISZA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SAJÓ_/_SLANÁ_<-_HORNÁD",
+            "target_id": "river:TISZA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:HERNÁD_/_HORNÁD",
+            "target_id": "river:SAJÓ_/_SLANÁ_<-_HORNÁD",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BODROG_<-_LATORICA",
+            "target_id": "river:TISZA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SZAMOS_/_SOMEȘ",
+            "target_id": "river:TISZA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DRAVA/DRAU_<-_ISEL_<-_SCHWARZACH_",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MUR",
+            "target_id": "river:DRAVA/DRAU_<-_ISEL_<-_SCHWARZACH_",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SIÓ_<-_LAKE_BALATON_<-_ZALA_SYSTEM",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:HRON",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VÁH",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:RÁBA/RAAB",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LEITHA_<-_SCHWARZA",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MORAVA_<-_THAYA_<-_AUSTRIAN_THAYA",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MORAVA",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:THAYA_<-_AUSTRIAN_THAYA",
+            "target_id": "river:MORAVA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ENNS",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TRAUN",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:INN_<-_AUA_DA_FEDOZ",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SALZACH_<-_KRIMMLER_ACHE",
+            "target_id": "river:INN_<-_AUA_DA_FEDOZ",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ISAR_<-_LEUTASCHER_ACHE",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LECH",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ILLER_<-_BREITACH_<-_TURABACH",
+            "target_id": "river:DANUBE",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:COGÂLNIC",
+            "target_id": "sea:BLACK_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DNIESTER/NISTRU",
+            "target_id": "sea:BLACK_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:RĂUT",
+            "target_id": "river:DNIESTER/NISTRU",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ZBRUCH",
+            "target_id": "river:DNIESTER/NISTRU",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SOUTHERN_BUG",
+            "target_id": "sea:DNIEPER-BUG_ESTUARY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:INHUL",
+            "target_id": "river:SOUTHERN_BUG",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SYNIUKHA_<-_HNYLYI_TIKYCH_<-_HIRSKYI_TIKYCH",
+            "target_id": "river:SOUTHERN_BUG",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DNIEPER",
+            "target_id": "sea:DNIEPER-BUG_ESTUARY",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:INHULETS",
+            "target_id": "river:DNIEPER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SAMARA_<-_VOVCHA",
+            "target_id": "river:DNIEPER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SAMARA",
+            "target_id": "river:DNIEPER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VOVCHA",
+            "target_id": "river:DNIEPER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ORIL",
+            "target_id": "river:DNIEPER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VORSKLA",
+            "target_id": "river:DNIEPER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PSEL",
+            "target_id": "river:DNIEPER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KHOROL",
+            "target_id": "river:PSEL",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SULA_<-_UDAY",
+            "target_id": "river:DNIEPER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SULA",
+            "target_id": "river:DNIEPER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:UDAY",
+            "target_id": "river:SULA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ROS",
+            "target_id": "river:DNIEPER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DESNA",
+            "target_id": "river:DNIEPER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SNOV",
+            "target_id": "river:DESNA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SEYM",
+            "target_id": "river:DESNA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TETERIV",
+            "target_id": "river:DNIEPER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PRIPYAT_<-_HORYN",
+            "target_id": "river:DNIEPER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PRIPYAT",
+            "target_id": "river:DNIEPER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:UZH",
+            "target_id": "river:PRIPYAT",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PTSICH",
+            "target_id": "river:PRIPYAT",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:UBORT",
+            "target_id": "river:PRIPYAT",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:HORYN",
+            "target_id": "river:PRIPYAT",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SOUTHERN_SLUCH",
+            "target_id": "river:HORYN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:STYR",
+            "target_id": "river:PRIPYAT",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SOZH",
+            "target_id": "river:DNIEPER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:IPUT",
+            "target_id": "river:SOZH",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BESED",
+            "target_id": "river:SOZH",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:OSTYOR",
+            "target_id": "river:SOZH",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BEREZINA",
+            "target_id": "river:DNIEPER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SVISLACH",
+            "target_id": "river:BEREZINA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DRUT",
+            "target_id": "river:DNIEPER",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MIUS",
+            "target_id": "sea:SEA_OF_AZOV",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DON_<-_VORONEZH_<-_POLNOY_VORONEZH",
+            "target_id": "sea:SEA_OF_AZOV",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DON",
+            "target_id": "sea:SEA_OF_AZOV",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MANYCH_<-_KALAUS_<-_BOLSHOY_YANKUL",
+            "target_id": "river:DON",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:YEGORLYK",
+            "target_id": "river:MANYCH_<-_KALAUS_<-_BOLSHOY_YANKUL",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SAL",
+            "target_id": "river:DON",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DONETS",
+            "target_id": "river:DON",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KALITVA_",
+            "target_id": "river:DONETS",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:AIDAR",
+            "target_id": "river:DONETS",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:OSKIL/OSKOL",
+            "target_id": "river:DONETS",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:CHIR",
+            "target_id": "river:DON",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ILOVLYA",
+            "target_id": "river:DON",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MEDVEDITSA_<-_MALAYA_MEDVEDITSA",
+            "target_id": "river:DON",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TERSA_<-_YELAN_",
+            "target_id": "river:MEDVEDITSA_<-_MALAYA_MEDVEDITSA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KHOPYOR_<-_SERDOBA_",
+            "target_id": "river:DON",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BUZULUK",
+            "target_id": "river:KHOPYOR_<-_SERDOBA_",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SAVALA",
+            "target_id": "river:KHOPYOR_<-_SERDOBA_",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VORONA_<-_CHEMBAR",
+            "target_id": "river:KHOPYOR_<-_SERDOBA_",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BITYUG",
+            "target_id": "river:DON",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VORONEZH_<-_POLNOY_VORONEZH",
+            "target_id": "river:DON",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BYSTRAYA_SOSNA",
+            "target_id": "river:DON",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:YEYA",
+            "target_id": "sea:SEA_OF_AZOV",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:CHELBAS_",
+            "target_id": "sea:SEA_OF_AZOV",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KUBAN",
+            "target_id": "sea:SEA_OF_AZOV",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PSHISH_<-_BOLSHOY_PSHISH",
+            "target_id": "river:KUBAN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BELAYA",
+            "target_id": "river:KUBAN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LABA_<-_BOLSHAYA_LABA",
+            "target_id": "river:KUBAN",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KODORI",
+            "target_id": "sea:BLACK_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ENGURI",
+            "target_id": "sea:BLACK_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:RIONI",
+            "target_id": "sea:BLACK_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:CHOROKHI/ÇORUH",
+            "target_id": "sea:BLACK_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KUR/KURA/MTKVARI",
+            "target_id": "sea:CASPIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ARAS/ARAKS",
+            "target_id": "river:KUR/KURA/MTKVARI",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ALAZANI",
+            "target_id": "river:KUR/KURA/MTKVARI",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:IORI",
+            "target_id": "river:ALAZANI",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SAMUR",
+            "target_id": "sea:CASPIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SULAK_<-_ANDI_KOYSU_<-_TUSHETIS_ALAZANI",
+            "target_id": "sea:CASPIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TEREK",
+            "target_id": "sea:CASPIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SUNZHA",
+            "target_id": "river:TEREK",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MALKA",
+            "target_id": "river:TEREK",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KUMA",
+            "target_id": "sea:CASPIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VOLGA_<-_OKA_<-_UPA_<-_UPERTA",
+            "target_id": "sea:CASPIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VOLGA_<-_KUYBYSHEV_RESERVOIR_<-_KAMA",
+            "target_id": "sea:CASPIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VOLGA",
+            "target_id": "sea:CASPIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:AKHTUBA",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:YERUSLAN",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TERESHKA",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BOLSHOY_IRGIZ_<-_BOLSHAYA_GLUSHITSA",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MALY_IRGIZ_<-_CHERNAVA",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:CHAPAYEVKA/MOCHA",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SAMARA",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BOLSHOY_KINEL",
+            "target_id": "river:SAMARA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TOK_-_BITKUL",
+            "target_id": "river:SAMARA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SOK",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KONDURCHA",
+            "target_id": "river:SOK",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BOLSHOY_CHEREMSHAN",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KAMA",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SHESHMA_<-_LESNAYA_SHESHMA",
+            "target_id": "river:KAMA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VYATKA_<-_BELAYA",
+            "target_id": "river:KAMA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KILMEZ_<-_UT_",
+            "target_id": "river:VYATKA_<-_BELAYA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PIZHMA",
+            "target_id": "river:VYATKA_<-_BELAYA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MOLOMA_<-_PALOMKA",
+            "target_id": "river:VYATKA_<-_BELAYA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:CHEPTSA_<-_LOZA",
+            "target_id": "river:VYATKA_<-_BELAYA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:LETKA",
+            "target_id": "river:VYATKA_<-_BELAYA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KOBRA_",
+            "target_id": "river:VYATKA_<-_BELAYA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:IK",
+            "target_id": "river:KAMA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:IZH",
+            "target_id": "river:KAMA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BELAYA",
+            "target_id": "river:KAMA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BYSTRY_TANYP",
+            "target_id": "river:BELAYA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:DYOMA_<-_TYATEP",
+            "target_id": "river:BELAYA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:UFA_<-_AY",
+            "target_id": "river:BELAYA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:UFA",
+            "target_id": "river:BELAYA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:YURYUZAN",
+            "target_id": "river:UFA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:AY",
+            "target_id": "river:UFA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SIM_<-_INZER_",
+            "target_id": "river:BELAYA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:CHUSOVAYA",
+            "target_id": "river:KAMA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SYLVA",
+            "target_id": "river:CHUSOVAYA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:USVA",
+            "target_id": "river:CHUSOVAYA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KOSVA_<-_TYPYL",
+            "target_id": "river:KAMA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:INVA",
+            "target_id": "river:KAMA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:YAYVA",
+            "target_id": "river:KAMA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VISHERA_<-_KOLVA",
+            "target_id": "river:KAMA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VISHERA",
+            "target_id": "river:KAMA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KOLVA",
+            "target_id": "river:VISHERA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:YAZVA_<-_GLUKHAYA_VILVA",
+            "target_id": "river:VISHERA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KOSA",
+            "target_id": "river:KAMA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VESLYANA",
+            "target_id": "river:KAMA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SVIYAGA_<-_MALAYA_SVIYAGA",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BOLSHAYA_KOKSHAGA",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:VETLUGA_<-_VOKHMA_",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:USTA",
+            "target_id": "river:VETLUGA_<-_VOKHMA_",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SURA_<-_KADADA_",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PYANA_<-_CHEKA",
+            "target_id": "river:SURA_<-_KADADA_",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ALATYR",
+            "target_id": "river:SURA_<-_KADADA_",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KERZHENETS",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:OKA_<-_UPA_<-_UPERTA",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:OKA",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KLYAZMA",
+            "target_id": "river:OKA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NERL",
+            "target_id": "river:KLYAZMA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TYOSHA",
+            "target_id": "river:OKA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MOKSHA_<-_AZYAS",
+            "target_id": "river:OKA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:TSNA_<-_OSINOVKA",
+            "target_id": "river:MOKSHA_<-_AZYAS",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PRONYA",
+            "target_id": "river:OKA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MOSKVA_<-_RUZA",
+            "target_id": "river:OKA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:PROTVA",
+            "target_id": "river:OKA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:UGRA_<-_DEMINA_",
+            "target_id": "river:OKA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:UPA_<-_UPERTA_",
+            "target_id": "river:OKA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:UNZHA_<-_KEMA_",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:NEYA",
+            "target_id": "river:UNZHA_<-_KEMA_",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:KOSTROMA",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SHEKSNA_<-_LAKE_BELOYE_<-_KEMA",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SUDA_<-_NOZHEMA_",
+            "target_id": "river:SHEKSNA_<-_LAKE_BELOYE_<-_KEMA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MOLOGA",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:CHAGODOSHCHA_<-_LID_",
+            "target_id": "river:MOLOGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MEDVEDITSA",
+            "target_id": "river:VOLGA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:MALY_UZEN",
+            "target_id": "sea:KAMYSH-SAMARSKIYE_LAKES",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BOLSHOY_UZEN",
+            "target_id": "sea:KAMYSH-SAMARSKIYE_LAKES",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:URAL",
+            "target_id": "sea:CASPIAN_SEA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:CHAGAN",
+            "target_id": "river:URAL",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:UTVA",
+            "target_id": "river:URAL",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:ILEK",
+            "target_id": "river:URAL",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BOLSHAYA_KHOBDA_-_KARAKHOBDA",
+            "target_id": "river:ILEK",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:SAKMARA",
+            "target_id": "river:URAL",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:BOLSHOY_IK",
+            "target_id": "river:SAKMARA",
+            "type": "TRIBUTARY_OF"
+        },
+        {
+            "source_id": "river:OR",
+            "target_id": "river:URAL",
+            "type": "TRIBUTARY_OF"
+        }
+    ]
+}

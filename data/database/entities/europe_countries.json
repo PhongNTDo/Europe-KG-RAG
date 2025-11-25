@@ -51,7 +51,7 @@
             "population_work_rank": 83
         },
         {
-            "id": "country:BOSNIA AND HERZEGOVINA",
+            "id": "country:BOSNIA_AND_HERZEGOVINA",
             "name": "Bosnia and Herzegovina",
             "population": 3140100,
             "area_km2": 51209,
@@ -91,7 +91,7 @@
             "population_work_rank": 156
         },
         {
-            "id": "country:CZECH REPUBLIC",
+            "id": "country:CZECH_REPUBLIC",
             "name": "Czech Republic",
             "population": 10609200,
             "area_km2": 78865,
@@ -281,7 +281,7 @@
             "population_work_rank": 71
         },
         {
-            "id": "country:NORTH MACEDONIA",
+            "id": "country:NORTH_MACEDONIA",
             "name": "North Macedonia",
             "population": 1813790,
             "area_km2": 25713,
@@ -391,7 +391,7 @@
             "population_work_rank": 101
         },
         {
-            "id": "country:UNITED KINGDOM",
+            "id": "country:UNITED_KINGDOM",
             "name": "United Kingdom",
             "population": 69551300,
             "area_km2": 242900,
@@ -401,7 +401,7 @@
             "population_work_rank": 22
         },
         {
-            "id": "country:VATICAN CITY",
+            "id": "country:VATICAN_CITY",
             "name": "Vatican City",
             "population": 501,
             "area_km2": 0.44,
@@ -461,7 +461,7 @@
             "population_work_rank": 218
         },
         {
-            "id": "country:SAN MARINO",
+            "id": "country:SAN_MARINO",
             "name": "San Marino",
             "population": 33572,
             "area_km2": 61,

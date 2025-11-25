@@ -1,0 +1,959 @@
+{
+    "relations": [
+        {
+            "source_id": "country:ALBANIA",
+            "target_id": "country:GREECE",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ALBANIA",
+            "target_id": "country:KOSOVO",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ALBANIA",
+            "target_id": "country:MONTENEGRO",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ALBANIA",
+            "target_id": "country:NORTH_MACEDONIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ANDORRA",
+            "target_id": "country:FRANCE",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ANDORRA",
+            "target_id": "country:SPAIN",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:AUSTRIA",
+            "target_id": "country:CZECH_REPUBLIC",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:AUSTRIA",
+            "target_id": "country:GERMANY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:AUSTRIA",
+            "target_id": "country:HUNGARY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:AUSTRIA",
+            "target_id": "country:ITALY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:AUSTRIA",
+            "target_id": "country:LIECHTENSTEIN",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:AUSTRIA",
+            "target_id": "country:SLOVAKIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:AUSTRIA",
+            "target_id": "country:SLOVENIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:AUSTRIA",
+            "target_id": "country:SWITZERLAND",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:BELARUS",
+            "target_id": "country:LATVIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:BELARUS",
+            "target_id": "country:LITHUANIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:BELARUS",
+            "target_id": "country:POLAND",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:BELARUS",
+            "target_id": "country:RUSSIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:BELARUS",
+            "target_id": "country:UKRAINE",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:BELGIUM",
+            "target_id": "country:FRANCE",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:BELGIUM",
+            "target_id": "country:GERMANY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:BELGIUM",
+            "target_id": "country:LUXEMBOURG",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:BELGIUM",
+            "target_id": "country:NETHERLANDS",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:BOSNIA_AND_HERZEGOVINA",
+            "target_id": "country:CROATIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:BOSNIA_AND_HERZEGOVINA",
+            "target_id": "country:MONTENEGRO",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:BOSNIA_AND_HERZEGOVINA",
+            "target_id": "country:SERBIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:BULGARIA",
+            "target_id": "country:GREECE",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:BULGARIA",
+            "target_id": "country:NORTH_MACEDONIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:BULGARIA",
+            "target_id": "country:ROMANIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:BULGARIA",
+            "target_id": "country:TURKEY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:BULGARIA",
+            "target_id": "country:SERBIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:CROATIA",
+            "target_id": "country:BOSNIA_AND_HERZEGOVINA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:CROATIA",
+            "target_id": "country:HUNGARY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:CROATIA",
+            "target_id": "country:MONTENEGRO",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:CROATIA",
+            "target_id": "country:SLOVENIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:CROATIA",
+            "target_id": "country:SERBIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:CZECH_REPUBLIC",
+            "target_id": "country:AUSTRIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:CZECH_REPUBLIC",
+            "target_id": "country:GERMANY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:CZECH_REPUBLIC",
+            "target_id": "country:POLAND",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:CZECH_REPUBLIC",
+            "target_id": "country:SLOVAKIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:DENMARK",
+            "target_id": "country:GERMANY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ESTONIA",
+            "target_id": "country:LATVIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ESTONIA",
+            "target_id": "country:RUSSIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:FINLAND",
+            "target_id": "country:NORWAY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:FINLAND",
+            "target_id": "country:RUSSIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:FINLAND",
+            "target_id": "country:SWEDEN",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:FRANCE",
+            "target_id": "country:ANDORRA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:FRANCE",
+            "target_id": "country:BELGIUM",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:FRANCE",
+            "target_id": "country:GERMANY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:FRANCE",
+            "target_id": "country:ITALY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:FRANCE",
+            "target_id": "country:LUXEMBOURG",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:FRANCE",
+            "target_id": "country:SPAIN",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:FRANCE",
+            "target_id": "country:SWITZERLAND",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:FRANCE",
+            "target_id": "country:MONACO",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:GERMANY",
+            "target_id": "country:AUSTRIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:GERMANY",
+            "target_id": "country:BELGIUM",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:GERMANY",
+            "target_id": "country:CZECH_REPUBLIC",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:GERMANY",
+            "target_id": "country:DENMARK",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:GERMANY",
+            "target_id": "country:FRANCE",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:GERMANY",
+            "target_id": "country:LUXEMBOURG",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:GERMANY",
+            "target_id": "country:NETHERLANDS",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:GERMANY",
+            "target_id": "country:POLAND",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:GERMANY",
+            "target_id": "country:SWITZERLAND",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:GREECE",
+            "target_id": "country:ALBANIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:GREECE",
+            "target_id": "country:BULGARIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:GREECE",
+            "target_id": "country:NORTH_MACEDONIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:GREECE",
+            "target_id": "country:TURKEY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:HUNGARY",
+            "target_id": "country:AUSTRIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:HUNGARY",
+            "target_id": "country:CROATIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:HUNGARY",
+            "target_id": "country:ROMANIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:HUNGARY",
+            "target_id": "country:SLOVAKIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:HUNGARY",
+            "target_id": "country:SLOVENIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:HUNGARY",
+            "target_id": "country:UKRAINE",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:HUNGARY",
+            "target_id": "country:SERBIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:IRELAND",
+            "target_id": "country:UNITED_KINGDOM",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ITALY",
+            "target_id": "country:AUSTRIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ITALY",
+            "target_id": "country:FRANCE",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ITALY",
+            "target_id": "country:MALTA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ITALY",
+            "target_id": "country:SLOVENIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ITALY",
+            "target_id": "country:SWITZERLAND",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ITALY",
+            "target_id": "country:VATICAN_CITY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:KOSOVO",
+            "target_id": "country:ALBANIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:KOSOVO",
+            "target_id": "country:MONTENEGRO",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:KOSOVO",
+            "target_id": "country:NORTH_MACEDONIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:KOSOVO",
+            "target_id": "country:SERBIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:LATVIA",
+            "target_id": "country:BELARUS",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:LATVIA",
+            "target_id": "country:ESTONIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:LATVIA",
+            "target_id": "country:LITHUANIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:LATVIA",
+            "target_id": "country:RUSSIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:LIECHTENSTEIN",
+            "target_id": "country:AUSTRIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:LIECHTENSTEIN",
+            "target_id": "country:SWITZERLAND",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:LITHUANIA",
+            "target_id": "country:BELARUS",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:LITHUANIA",
+            "target_id": "country:LATVIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:LITHUANIA",
+            "target_id": "country:POLAND",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:LITHUANIA",
+            "target_id": "country:RUSSIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:LUXEMBOURG",
+            "target_id": "country:BELGIUM",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:LUXEMBOURG",
+            "target_id": "country:FRANCE",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:LUXEMBOURG",
+            "target_id": "country:GERMANY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:MONTENEGRO",
+            "target_id": "country:ALBANIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:MONTENEGRO",
+            "target_id": "country:BOSNIA_AND_HERZEGOVINA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:MONTENEGRO",
+            "target_id": "country:CROATIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:MONTENEGRO",
+            "target_id": "country:KOSOVO",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:MONTENEGRO",
+            "target_id": "country:SERBIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:NETHERLANDS",
+            "target_id": "country:BELGIUM",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:NETHERLANDS",
+            "target_id": "country:GERMANY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:NORTH_MACEDONIA",
+            "target_id": "country:ALBANIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:NORTH_MACEDONIA",
+            "target_id": "country:BULGARIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:NORTH_MACEDONIA",
+            "target_id": "country:GREECE",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:NORTH_MACEDONIA",
+            "target_id": "country:KOSOVO",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:NORTH_MACEDONIA",
+            "target_id": "country:SERBIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:NORWAY",
+            "target_id": "country:FINLAND",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:NORWAY",
+            "target_id": "country:RUSSIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:NORWAY",
+            "target_id": "country:SWEDEN",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:POLAND",
+            "target_id": "country:BELARUS",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:POLAND",
+            "target_id": "country:CZECH_REPUBLIC",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:POLAND",
+            "target_id": "country:GERMANY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:POLAND",
+            "target_id": "country:LITHUANIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:POLAND",
+            "target_id": "country:RUSSIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:POLAND",
+            "target_id": "country:SLOVAKIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:POLAND",
+            "target_id": "country:UKRAINE",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:PORTUGAL",
+            "target_id": "country:SPAIN",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ROMANIA",
+            "target_id": "country:BULGARIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ROMANIA",
+            "target_id": "country:HUNGARY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ROMANIA",
+            "target_id": "country:SERBIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ROMANIA",
+            "target_id": "country:UKRAINE",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ROMANIA",
+            "target_id": "country:MOLDOVA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:RUSSIA",
+            "target_id": "country:AZERBAIJAN",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:RUSSIA",
+            "target_id": "country:BELARUS",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:RUSSIA",
+            "target_id": "country:ESTONIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:RUSSIA",
+            "target_id": "country:FINLAND",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:RUSSIA",
+            "target_id": "country:LATVIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:RUSSIA",
+            "target_id": "country:LITHUANIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:RUSSIA",
+            "target_id": "country:NORWAY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:RUSSIA",
+            "target_id": "country:POLAND",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:RUSSIA",
+            "target_id": "country:UKRAINE",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:RUSSIA",
+            "target_id": "country:GEORGIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SLOVAKIA",
+            "target_id": "country:AUSTRIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SLOVAKIA",
+            "target_id": "country:CZECH_REPUBLIC",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SLOVAKIA",
+            "target_id": "country:HUNGARY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SLOVAKIA",
+            "target_id": "country:POLAND",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SLOVAKIA",
+            "target_id": "country:UKRAINE",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SLOVENIA",
+            "target_id": "country:AUSTRIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SLOVENIA",
+            "target_id": "country:CROATIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SLOVENIA",
+            "target_id": "country:HUNGARY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SLOVENIA",
+            "target_id": "country:ITALY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SPAIN",
+            "target_id": "country:ANDORRA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SPAIN",
+            "target_id": "country:FRANCE",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SPAIN",
+            "target_id": "country:PORTUGAL",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SWEDEN",
+            "target_id": "country:FINLAND",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SWEDEN",
+            "target_id": "country:NORWAY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SWITZERLAND",
+            "target_id": "country:AUSTRIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SWITZERLAND",
+            "target_id": "country:FRANCE",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SWITZERLAND",
+            "target_id": "country:GERMANY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SWITZERLAND",
+            "target_id": "country:ITALY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SWITZERLAND",
+            "target_id": "country:LIECHTENSTEIN",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:UNITED_KINGDOM",
+            "target_id": "country:IRELAND",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:VATICAN_CITY",
+            "target_id": "country:ITALY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ARMENIA",
+            "target_id": "country:AZERBAIJAN",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ARMENIA",
+            "target_id": "country:GEORGIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:ARMENIA",
+            "target_id": "country:TURKEY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:AZERBAIJAN",
+            "target_id": "country:ARMENIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:AZERBAIJAN",
+            "target_id": "country:GEORGIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:AZERBAIJAN",
+            "target_id": "country:RUSSIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:AZERBAIJAN",
+            "target_id": "country:TURKEY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:GEORGIA",
+            "target_id": "country:RUSSIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:GEORGIA",
+            "target_id": "country:TURKEY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:GEORGIA",
+            "target_id": "country:ARMENIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:GEORGIA",
+            "target_id": "country:AZERBAIJAN",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:MOLDOVA",
+            "target_id": "country:ROMANIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:MOLDOVA",
+            "target_id": "country:UKRAINE",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:MONACO",
+            "target_id": "country:FRANCE",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SAN_MARINO",
+            "target_id": "country:ITALY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SERBIA",
+            "target_id": "country:BOSNIA_AND_HERZEGOVINA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SERBIA",
+            "target_id": "country:BULGARIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SERBIA",
+            "target_id": "country:CROATIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SERBIA",
+            "target_id": "country:HUNGARY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SERBIA",
+            "target_id": "country:MONTENEGRO",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SERBIA",
+            "target_id": "country:NORTH_MACEDONIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:SERBIA",
+            "target_id": "country:ROMANIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:TURKEY",
+            "target_id": "country:ARMENIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:TURKEY",
+            "target_id": "country:AZERBAIJAN",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:TURKEY",
+            "target_id": "country:BULGARIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:TURKEY",
+            "target_id": "country:GEORGIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:TURKEY",
+            "target_id": "country:GREECE",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:UKRAINE",
+            "target_id": "country:BELARUS",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:UKRAINE",
+            "target_id": "country:HUNGARY",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:UKRAINE",
+            "target_id": "country:MOLDOVA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:UKRAINE",
+            "target_id": "country:POLAND",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:UKRAINE",
+            "target_id": "country:ROMANIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:UKRAINE",
+            "target_id": "country:RUSSIA",
+            "type": "BORDERS_WITH"
+        },
+        {
+            "source_id": "country:UKRAINE",
+            "target_id": "country:SLOVAKIA",
+            "type": "BORDERS_WITH"
+        }
+    ]
+}
