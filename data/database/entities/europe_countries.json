@@ -1,0 +1,504 @@
+{
+    "countries": [
+        {
+            "id": "country:ALBANIA",
+            "name": "Albania",
+            "population": 2771510,
+            "area_km2": 28748,
+            "density": 101.15,
+            "iso2": "AL",
+            "iso3": "ALB",
+            "population_work_rank": 144
+        },
+        {
+            "id": "country:ANDORRA",
+            "name": "Andorra",
+            "population": 82904,
+            "area_km2": 468,
+            "density": 176.3915,
+            "iso2": "AD",
+            "iso3": "AND",
+            "population_work_rank": 203
+        },
+        {
+            "id": "country:AUSTRIA",
+            "name": "Austria",
+            "population": 9113570,
+            "area_km2": 83871,
+            "density": 110.4407,
+            "iso2": "AT",
+            "iso3": "AUT",
+            "population_work_rank": 99
+        },
+        {
+            "id": "country:BELARUS",
+            "name": "Belarus",
+            "population": 8997600,
+            "area_km2": 207600,
+            "density": 44.3275,
+            "iso2": "BY",
+            "iso3": "BLR",
+            "population_work_rank": 100
+        },
+        {
+            "id": "country:BELGIUM",
+            "name": "Belgium",
+            "population": 11758600,
+            "area_km2": 30528,
+            "density": 388.3289,
+            "iso2": "BE",
+            "iso3": "BEL",
+            "population_work_rank": 83
+        },
+        {
+            "id": "country:BOSNIA AND HERZEGOVINA",
+            "name": "Bosnia and Herzegovina",
+            "population": 3140100,
+            "area_km2": 51209,
+            "density": 61.3301,
+            "iso2": "BA",
+            "iso3": "BIH",
+            "population_work_rank": 136
+        },
+        {
+            "id": "country:BULGARIA",
+            "name": "Bulgaria",
+            "population": 6714560,
+            "area_km2": 110879,
+            "density": 61.8511,
+            "iso2": "BG",
+            "iso3": "BGR",
+            "population_work_rank": 110
+        },
+        {
+            "id": "country:CROATIA",
+            "name": "Croatia",
+            "population": 3848160,
+            "area_km2": 56594,
+            "density": 68.7663,
+            "iso2": "HR",
+            "iso3": "HRV",
+            "population_work_rank": 130
+        },
+        {
+            "id": "country:CYPRUS",
+            "name": "Cyprus",
+            "population": 1370750,
+            "area_km2": 9251,
+            "density": 148.3496,
+            "iso2": "CY",
+            "iso3": "CYP",
+            "population_work_rank": 156
+        },
+        {
+            "id": "country:CZECH REPUBLIC",
+            "name": "Czech Republic",
+            "population": 10609200,
+            "area_km2": 78865,
+            "density": 137.4275,
+            "iso2": "CZ",
+            "iso3": "CZE",
+            "population_work_rank": 92
+        },
+        {
+            "id": "country:DENMARK",
+            "name": "Denmark",
+            "population": 6002510,
+            "area_km2": 43094,
+            "density": 150.0628,
+            "iso2": "DK",
+            "iso3": "DNK",
+            "population_work_rank": 114
+        },
+        {
+            "id": "country:ESTONIA",
+            "name": "Estonia",
+            "population": 1344230,
+            "area_km2": 45227,
+            "density": 31.444,
+            "iso2": "EE",
+            "iso3": "EST",
+            "population_work_rank": 157
+        },
+        {
+            "id": "country:FINLAND",
+            "name": "Finland",
+            "population": 5623330,
+            "area_km2": 338424,
+            "density": 18.5014,
+            "iso2": "FI",
+            "iso3": "FIN",
+            "population_work_rank": 118
+        },
+        {
+            "id": "country:FRANCE",
+            "name": "France",
+            "population": 66650800,
+            "area_km2": 551695,
+            "density": 121.7239,
+            "iso2": "FR",
+            "iso3": "FRA",
+            "population_work_rank": 23
+        },
+        {
+            "id": "country:GERMANY",
+            "name": "Germany",
+            "population": 84075100,
+            "area_km2": 357114,
+            "density": 240.634,
+            "iso2": "DE",
+            "iso3": "DEU",
+            "population_work_rank": 19
+        },
+        {
+            "id": "country:GREECE",
+            "name": "Greece",
+            "population": 9938840,
+            "area_km2": 131990,
+            "density": 77.105,
+            "iso2": "GR",
+            "iso3": "GRC",
+            "population_work_rank": 95
+        },
+        {
+            "id": "country:HUNGARY",
+            "name": "Hungary",
+            "population": 9632290,
+            "area_km2": 93028,
+            "density": 105.5478,
+            "iso2": "HU",
+            "iso3": "HUN",
+            "population_work_rank": 97
+        },
+        {
+            "id": "country:ICELAND",
+            "name": "Iceland",
+            "population": 398266,
+            "area_km2": 103000,
+            "density": 3.9499,
+            "iso2": "IS",
+            "iso3": "ISL",
+            "population_work_rank": 178
+        },
+        {
+            "id": "country:IRELAND",
+            "name": "Ireland",
+            "population": 5308040,
+            "area_km2": 70273,
+            "density": 77.051,
+            "iso2": "IE",
+            "iso3": "IRL",
+            "population_work_rank": 125
+        },
+        {
+            "id": "country:ITALY",
+            "name": "Italy",
+            "population": 59146300,
+            "area_km2": 301336,
+            "density": 200.0098,
+            "iso2": "IT",
+            "iso3": "ITA",
+            "population_work_rank": 25
+        },
+        {
+            "id": "country:KOSOVO",
+            "name": "Kosovo",
+            "population": 1674125,
+            "area_km2": 10887,
+            "density": 144,
+            "iso2": "XK",
+            "iso3": "XKS",
+            "population_work_rank": 150
+        },
+        {
+            "id": "country:LATVIA",
+            "name": "Latvia",
+            "population": 1853560,
+            "area_km2": 64559,
+            "density": 29.7856,
+            "iso2": "LV",
+            "iso3": "LVA",
+            "population_work_rank": 151
+        },
+        {
+            "id": "country:LIECHTENSTEIN",
+            "name": "Liechtenstein",
+            "population": 40128,
+            "area_km2": 160,
+            "density": 250.8,
+            "iso2": "LI",
+            "iso3": "LIE",
+            "population_work_rank": 215
+        },
+        {
+            "id": "country:LITHUANIA",
+            "name": "Lithuania",
+            "population": 2830140,
+            "area_km2": 65300,
+            "density": 45.1955,
+            "iso2": "LT",
+            "iso3": "LTU",
+            "population_work_rank": 142
+        },
+        {
+            "id": "country:LUXEMBOURG",
+            "name": "Luxembourg",
+            "population": 680453,
+            "area_km2": 2586,
+            "density": 264.3049,
+            "iso2": "LU",
+            "iso3": "LUX",
+            "population_work_rank": 168
+        },
+        {
+            "id": "country:MALTA",
+            "name": "Malta",
+            "population": 545405,
+            "area_km2": 316,
+            "density": 1704.3906,
+            "iso2": "MT",
+            "iso3": "MLT",
+            "population_work_rank": 172
+        },
+        {
+            "id": "country:MONTENEGRO",
+            "name": "Montenegro",
+            "population": 632729,
+            "area_km2": 13812,
+            "density": 47.043,
+            "iso2": "ME",
+            "iso3": "MNE",
+            "population_work_rank": 170
+        },
+        {
+            "id": "country:NETHERLANDS",
+            "name": "Netherlands",
+            "population": 18346800,
+            "area_km2": 41850,
+            "density": 544.9005,
+            "iso2": "NL",
+            "iso3": "NLD",
+            "population_work_rank": 71
+        },
+        {
+            "id": "country:NORTH MACEDONIA",
+            "name": "North Macedonia",
+            "population": 1813790,
+            "area_km2": 25713,
+            "density": 71.9187,
+            "iso2": "MK",
+            "iso3": "MKD",
+            "population_work_rank": 152
+        },
+        {
+            "id": "country:NORWAY",
+            "name": "Norway",
+            "population": 5623070,
+            "area_km2": 323802,
+            "density": 15.4359,
+            "iso2": "NO",
+            "iso3": "NOR",
+            "population_work_rank": 119
+        },
+        {
+            "id": "country:POLAND",
+            "name": "Poland",
+            "population": 38140900,
+            "area_km2": 312679,
+            "density": 124.5905,
+            "iso2": "PL",
+            "iso3": "POL",
+            "population_work_rank": 42
+        },
+        {
+            "id": "country:PORTUGAL",
+            "name": "Portugal",
+            "population": 10411800,
+            "area_km2": 92090,
+            "density": 113.659,
+            "iso2": "PT",
+            "iso3": "PRT",
+            "population_work_rank": 93
+        },
+        {
+            "id": "country:ROMANIA",
+            "name": "Romania",
+            "population": 18908600,
+            "area_km2": 238391,
+            "density": 82.1827,
+            "iso2": "RO",
+            "iso3": "ROU",
+            "population_work_rank": 69
+        },
+        {
+            "id": "country:RUSSIA",
+            "name": "Russia",
+            "population": 143997000,
+            "area_km2": 17098242,
+            "density": 8.7927,
+            "iso2": "RU",
+            "iso3": "RUS",
+            "population_work_rank": 9
+        },
+        {
+            "id": "country:SLOVAKIA",
+            "name": "Slovakia",
+            "population": 5474880,
+            "area_km2": 49037,
+            "density": 111.6525,
+            "iso2": "SK",
+            "iso3": "SVK",
+            "population_work_rank": 123
+        },
+        {
+            "id": "country:SLOVENIA",
+            "name": "Slovenia",
+            "population": 2117070,
+            "area_km2": 20273,
+            "density": 105.1365,
+            "iso2": "SI",
+            "iso3": "SVN",
+            "population_work_rank": 149
+        },
+        {
+            "id": "country:SPAIN",
+            "name": "Spain",
+            "population": 47890000,
+            "area_km2": 505992,
+            "density": 95.865,
+            "iso2": "ES",
+            "iso3": "ESP",
+            "population_work_rank": 32
+        },
+        {
+            "id": "country:SWEDEN",
+            "name": "Sweden",
+            "population": 10656600,
+            "area_km2": 450295,
+            "density": 26.1651,
+            "iso2": "SE",
+            "iso3": "SWE",
+            "population_work_rank": 91
+        },
+        {
+            "id": "country:SWITZERLAND",
+            "name": "Switzerland",
+            "population": 8967410,
+            "area_km2": 41284,
+            "density": 226.9311,
+            "iso2": "CH",
+            "iso3": "CHE",
+            "population_work_rank": 101
+        },
+        {
+            "id": "country:UNITED KINGDOM",
+            "name": "United Kingdom",
+            "population": 69551300,
+            "area_km2": 242900,
+            "density": 287.4852,
+            "iso2": "GB",
+            "iso3": "GBR",
+            "population_work_rank": 22
+        },
+        {
+            "id": "country:VATICAN CITY",
+            "name": "Vatican City",
+            "population": 501,
+            "area_km2": 0.44,
+            "density": 1138.6364,
+            "iso2": "VA",
+            "iso3": "VAT",
+            "population_work_rank": 234
+        },
+        {
+            "id": "country:ARMENIA",
+            "name": "Armenia",
+            "population": 2952360,
+            "area_km2": 29743,
+            "density": 103.7007,
+            "iso2": "AM",
+            "iso3": "ARM",
+            "population_work_rank": 140
+        },
+        {
+            "id": "country:AZERBAIJAN",
+            "name": "Azerbaijan",
+            "population": 10397700,
+            "area_km2": 86600,
+            "density": 125.8101,
+            "iso2": "AZ",
+            "iso3": "AZE",
+            "population_work_rank": 94
+        },
+        {
+            "id": "country:GEORGIA",
+            "name": "Georgia",
+            "population": 3806670,
+            "area_km2": 69700,
+            "density": 54.7801,
+            "iso2": "GE",
+            "iso3": "GEO",
+            "population_work_rank": 131
+        },
+        {
+            "id": "country:MOLDOVA",
+            "name": "Moldova",
+            "population": 2996110,
+            "area_km2": 33846,
+            "density": 91.1098,
+            "iso2": "MD",
+            "iso3": "MDA",
+            "population_work_rank": 139
+        },
+        {
+            "id": "country:MONACO",
+            "name": "Monaco",
+            "population": 38341,
+            "area_km2": 2.02,
+            "density": 19170.5,
+            "iso2": "MC",
+            "iso3": "MCO",
+            "population_work_rank": 218
+        },
+        {
+            "id": "country:SAN MARINO",
+            "name": "San Marino",
+            "population": 33572,
+            "area_km2": 61,
+            "density": 559.5333,
+            "iso2": "SM",
+            "iso3": "SMR",
+            "population_work_rank": 220
+        },
+        {
+            "id": "country:SERBIA",
+            "name": "Serbia",
+            "population": 6689040,
+            "area_km2": 88361,
+            "density": 76.4811,
+            "iso2": "RS",
+            "iso3": "SRB",
+            "population_work_rank": 111
+        },
+        {
+            "id": "country:TURKEY",
+            "name": "Turkey",
+            "population": 87685400,
+            "area_km2": 783562,
+            "density": 111.9061,
+            "iso2": "TR",
+            "iso3": "TUR",
+            "population_work_rank": 18
+        },
+        {
+            "id": "country:UKRAINE",
+            "name": "Ukraine",
+            "population": 38980400,
+            "area_km2": 603500,
+            "density": 67.2772,
+            "iso2": "UA",
+            "iso3": "UKR",
+            "population_work_rank": 40
+        }
+    ]
+}
