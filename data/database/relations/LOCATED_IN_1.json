@@ -1,0 +1,969 @@
+{
+    "relations": [
+        {
+            "source_id": "mountain:MOUNT_ELBRUS",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONTE_BIANCO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONTE_BIANCO",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_ETNA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MULHACÉN",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:ANETO",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONTE_CINTO",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:CORNO_GRANDE",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MUSALA",
+            "target_id": "country:BULGARIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_IDA",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:GROSSGLOCKNER",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONT_BLANC",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONT_BLANC",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:GROSSGLOCKNER",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:FINSTERAARHORN",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:WILDSPITZE",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:PIZ_BERNINA",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:HOCHKÖNIG",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:DUFOURSPITZE_(MONTE_ROSA)",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:DUFOURSPITZE_(MONTE_ROSA)",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:HOHER_DACHSTEIN",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MARMOLADA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONTE_VISO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:TRIGLAV",
+            "target_id": "country:SLOVENIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:BARRE_DES_ÉCRINS",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:SÄNTIS",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:ORTLER",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONTE_BALDO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:GRAN_PARADISO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:PIZZO_DI_COCA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:CIMA_DODICI",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:DENTS_DU_MIDI",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:CHAMECHAUDE",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:ZUGSPITZE",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:ZUGSPITZE",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONTE_ANTELAO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:ARCALOD",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:GRINTOVEC",
+            "target_id": "country:SLOVENIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:GROSSER_PRIEL",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:GRIGNA_SETTENTRIONALE",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONTE_BONDONE",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:PRESANELLA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:BIRNHORN",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:COL_NUDO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:POINTE_PERCÉE",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:JÔF_DI_MONTASIO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MÖLLTALER_POLINIK",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:TÖDI",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:BIRKKARSPITZE",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:ELLMAUER_HALT",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:GRANDE_TÊTE_DE_L'OBIOU",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:HOCHTOR",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:GRIMMING",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:GRAND_COMBIN",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:LA_TOURNETTE",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:ZIRBITZKOGEL",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:PIZ_KESCH",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:CIMA_BRENTA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_ETNA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONTE_CINTO",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:CORNO_GRANDE",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:PUNTA_LA_MARMORA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONTE_AMARO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONTE_DOLCEDORME",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONTALTO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONTE_CIMONE",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:BEERENBERG",
+            "target_id": "country:NORWAY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:NEWTONTOPPEN",
+            "target_id": "country:NORWAY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_KRUZENSHTERN",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:TEIDE",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:ROQUE_DE_LOS_MUCHACHOS",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_PICO",
+            "target_id": "country:PORTUGAL",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:HVANNADALSHNÚKUR",
+            "target_id": "country:ICELAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:PICO_DE_LAS_NIEVES",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:PICO_RUIVO",
+            "target_id": "country:PORTUGAL",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:PICO_DE_MALPASO",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MUSALA",
+            "target_id": "country:BULGARIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_OLYMPUS_(MYTIKAS)",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:KORAB",
+            "target_id": "country:NORTH_MACEDONIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:KORAB",
+            "target_id": "country:ALBANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:JEZERCË",
+            "target_id": "country:ALBANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_ATHOS",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_OSSA",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MAJA_E_PAPINGUT",
+            "target_id": "country:ALBANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:VIHREN",
+            "target_id": "country:BULGARIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:PANGAION_HILLS",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:KAJMAKCHALAN",
+            "target_id": "country:NORTH_MACEDONIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:KAJMAKCHALAN",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:SMOLIKAS",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_GIONA",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:JAKUPICA",
+            "target_id": "country:NORTH_MACEDONIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MAJA_E_KËNDREVICËS",
+            "target_id": "country:ALBANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:RADOMIR",
+            "target_id": "country:BULGARIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:RADOMIR",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_PARNASSUS",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:BOTEV_PEAK",
+            "target_id": "country:BULGARIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MAJA_E_ÇIKËS",
+            "target_id": "country:ALBANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:VALAMARA",
+            "target_id": "country:ALBANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:PELISTER",
+            "target_id": "country:NORTH_MACEDONIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:PSILI_KORYFI",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:GERLACHOVSKÝ_ŠTÍT",
+            "target_id": "country:SLOVAKIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:PARÂNGU_MARE",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOLDOVEANU_PEAK",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:PELEAGA",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:PIETROSUL_RODNEI[6]",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_ELBRUS",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_BAZARDUZU",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_BAZARDUZU",
+            "target_id": "country:AZERBAIJAN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_KAZBEK",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_KAZBEK",
+            "target_id": "country:GEORGIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:TEBULOSMTA",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:TEBULOSMTA",
+            "target_id": "country:GEORGIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:DYKH-TAU",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:DYULTYDAG",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:GORA_ADDALA_SHUKGELMEZR",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:GORA_SHAN",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:GORA_SHAN",
+            "target_id": "country:GEORGIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_IDA",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:TAYGETUS",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:LEFKA_ORI",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_KYLLINI",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:DIKTI",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:DIRFI",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_AINOS",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:FENGARI",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MULHACÉN",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:ANETO",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:TORRE_DE_CERREDO",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:PICO_ALMANZOR",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:PUY_DE_SANCY",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:GALDHØPIGGEN",
+            "target_id": "country:NORWAY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:KEBNEKAISE",
+            "target_id": "country:SWEDEN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:JIEHKKEVÁRRI",
+            "target_id": "country:NORWAY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:SNØHETTA",
+            "target_id": "country:NORWAY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:STORE_LENANGSTIND",
+            "target_id": "country:NORWAY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:SAREKTJÅHKKÅ",
+            "target_id": "country:SWEDEN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_NARODNAYA",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:TAILLEFER",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONTE_AMIATA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MIDŽOR",
+            "target_id": "country:BULGARIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MIDŽOR",
+            "target_id": "country:SERBIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:CURCUBĂTA_MARE",
+            "target_id": "country:ROMANIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:BOBOTOV_KUK",
+            "target_id": "country:MONTENEGRO",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONTE_TOGANO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:POURIANOS_STAVROS_(PELION)",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:TORRECILLA",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:DAMMASTOCK",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONTE_VETTORE",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:RAUCHECK",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:HALDENSTEINER_CALANDA",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:GJEGNEN",
+            "target_id": "country:NORWAY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONTE_CRISTALLO[9]",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:RUEN[10]",
+            "target_id": "country:BULGARIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:RUEN[10]",
+            "target_id": "country:NORTH_MACEDONIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:SCHNEEBERG",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_YAMANTAU",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:CHERNI_VRAH[11]",
+            "target_id": "country:BULGARIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:TORRE",
+            "target_id": "country:PORTUGAL",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_ELBRUS",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:DYKH-TAU",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONT_BLANC",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONT_BLANC",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:DUFOURSPITZE_(MONTE_ROSA)",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:GRAND_COMBIN",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:FINSTERAARHORN",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:GORA_ADDALA_SHUKGELMEZR",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:DYULTYDAG",
+            "target_id": "country:RUSSIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:BARRE_DES_ÉCRINS",
+            "target_id": "country:FRANCE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:GRAN_PARADISO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:PIZ_BERNINA",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:ORTLER",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONTE_VISO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:GROSSGLOCKNER",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:WILDSPITZE",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:TÖDI",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:PRESANELLA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MULHACÉN",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:PIZ_KESCH",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:ANETO",
+            "target_id": "country:SPAIN",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MARMOLADA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_ETNA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MONTE_ANTELAO",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:DENTS_DU_MIDI",
+            "target_id": "country:SWITZERLAND",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:CIMA_TOSA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:PIZZO_DI_COCA",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:HOHER_DACHSTEIN",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:ZUGSPITZE",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:ZUGSPITZE",
+            "target_id": "country:GERMANY",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:HOCHKÖNIG",
+            "target_id": "country:AUSTRIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MUSALA[12]",
+            "target_id": "country:BULGARIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:MOUNT_OLYMPUS_(MYTIKAS)",
+            "target_id": "country:GREECE",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:VIHREN",
+            "target_id": "country:BULGARIA",
+            "type": "LOCATED_IN"
+        },
+        {
+            "source_id": "mountain:CORNO_GRANDE",
+            "target_id": "country:ITALY",
+            "type": "LOCATED_IN"
+        }
+    ]
+}
